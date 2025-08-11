@@ -3,11 +3,10 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Badge } from '@/components/ui/badge';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
-import { Play, User, LogOut, Settings } from 'lucide-react';
+import { Play, User, LogOut, Settings, Search } from 'lucide-react';
 import { AutomationConfig, LoginCredentials, AutomationStatus } from '@/types/automation';
 
 interface AutomationDashboardProps {
@@ -18,7 +17,7 @@ interface AutomationDashboardProps {
 }
 
 const VARIANTS = [
-  'Copy', 'Edit', 'V85', 'V86', 'V87', 'V88', 'V89', 'V90', 
+  'V85', 'V86', 'V87', 'V88', 'V89', 'V90', 
   'V92', 'V93', 'V94', 'V95', 'V96', 'V97', 'V98', 'V99'
 ];
 
@@ -37,6 +36,8 @@ export const AutomationDashboard = ({
     mode: 'PGL'
   });
 
+  const [variantSearch, setVariantSearch] = useState('');
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (config.crqNumber && config.variants.length > 0 && config.gtpUrl) {
@@ -53,6 +54,10 @@ export const AutomationDashboard = ({
     }));
   };
 
+  const filteredVariants = VARIANTS.filter(variant => 
+    variant.toLowerCase().includes(variantSearch.toLowerCase())
+  );
+
   const isRunning = automationStatus === 'running';
 
   return (
@@ -65,7 +70,7 @@ export const AutomationDashboard = ({
               <Settings className="w-4 h-4 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold">CRQ Automation Tool</h1>
+              <h1 className="text-xl font-bold">Link Automation Tool</h1>
               <p className="text-sm text-muted-foreground">Automation Dashboard</p>
             </div>
           </div>
@@ -89,7 +94,7 @@ export const AutomationDashboard = ({
             <CardHeader>
               <CardTitle>Automation Configuration</CardTitle>
               <CardDescription>
-                Configure your CRQ automation parameters
+                Configure your automation parameters
               </CardDescription>
             </CardHeader>
             <CardContent>
@@ -110,31 +115,86 @@ export const AutomationDashboard = ({
 
                 {/* Variants */}
                 <div className="space-y-3">
-                  <Label>Variants</Label>
-                  <div className="grid grid-cols-3 gap-2 p-3 border rounded-lg bg-muted/50">
-                    {VARIANTS.map((variant) => (
-                      <div key={variant} className="flex items-center space-x-2">
-                        <Checkbox
-                          id={variant}
-                          checked={config.variants.includes(variant)}
-                          onCheckedChange={(checked) => 
-                            handleVariantChange(variant, checked as boolean)
-                          }
-                          disabled={isRunning}
-                        />
-                        <Label htmlFor={variant} className="text-sm font-normal">
-                          {variant}
-                        </Label>
-                      </div>
-                    ))}
+                  <Label>Variants Selection</Label>
+                  
+                  {/* Search Box */}
+                  <div className="relative">
+                    <Search className="absolute left-3 top-3 w-4 h-4 text-muted-foreground" />
+                    <Input
+                      placeholder="Search variants (e.g., V85, V99)..."
+                      value={variantSearch}
+                      onChange={(e) => setVariantSearch(e.target.value)}
+                      className="pl-10"
+                      disabled={isRunning}
+                    />
                   </div>
-                  {config.variants.length > 0 && (
-                    <div className="flex flex-wrap gap-1">
-                      {config.variants.map((variant) => (
-                        <Badge key={variant} variant="secondary" className="text-xs">
-                          {variant}
-                        </Badge>
+
+                  {/* Variants Grid */}
+                  <div className="border rounded-lg p-4 bg-muted/30 max-h-48 overflow-auto">
+                    <div className="grid grid-cols-4 gap-3">
+                      {filteredVariants.map((variant) => (
+                        <div 
+                          key={variant} 
+                          className={`flex items-center space-x-2 p-2 rounded-md border transition-colors cursor-pointer hover:bg-background ${
+                            config.variants.includes(variant) 
+                              ? 'bg-primary/10 border-primary/30' 
+                              : 'bg-background hover:border-primary/20'
+                          }`}
+                          onClick={() => handleVariantChange(variant, !config.variants.includes(variant))}
+                        >
+                          <Checkbox
+                            id={variant}
+                            checked={config.variants.includes(variant)}
+                            onCheckedChange={(checked) => 
+                              handleVariantChange(variant, checked as boolean)
+                            }
+                            disabled={isRunning}
+                          />
+                          <Label 
+                            htmlFor={variant} 
+                            className="text-sm font-medium cursor-pointer flex-1"
+                          >
+                            {variant}
+                          </Label>
+                        </div>
                       ))}
+                    </div>
+                    
+                    {filteredVariants.length === 0 && variantSearch && (
+                      <div className="text-center py-4 text-muted-foreground">
+                        <p className="text-sm">No variants found matching "{variantSearch}"</p>
+                      </div>
+                    )}
+                  </div>
+
+                  {/* Selected Variants Display */}
+                  {config.variants.length > 0 && (
+                    <div className="space-y-2">
+                      <div className="flex items-center justify-between">
+                        <Label className="text-sm font-medium">
+                          Selected ({config.variants.length})
+                        </Label>
+                        <Button
+                          variant="outline"
+                          size="sm"
+                          onClick={() => setConfig(prev => ({ ...prev, variants: [] }))}
+                          disabled={isRunning}
+                        >
+                          Clear All
+                        </Button>
+                      </div>
+                      <div className="flex flex-wrap gap-2 p-3 border rounded-lg bg-background">
+                        {config.variants.sort().map((variant) => (
+                          <Badge 
+                            key={variant} 
+                            variant="secondary" 
+                            className="text-xs cursor-pointer hover:bg-destructive hover:text-destructive-foreground transition-colors"
+                            onClick={() => handleVariantChange(variant, false)}
+                          >
+                            {variant} ×
+                          </Badge>
+                        ))}
+                      </div>
                     </div>
                   )}
                 </div>

@@ -31,7 +31,7 @@ export const LoginForm = ({ onLogin }: LoginFormProps) => {
             <Shield className="w-6 h-6 text-primary-foreground" />
           </div>
           <div>
-            <CardTitle className="text-2xl font-bold">CRQ Automation Tool</CardTitle>
+            <CardTitle className="text-2xl font-bold">Link Automation Tool</CardTitle>
             <CardDescription>
               Sign in to access the automation dashboard
             </CardDescription>
