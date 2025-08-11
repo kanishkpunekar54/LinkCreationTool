@@ -1,0 +1,252 @@
+import { useState } from 'react';
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
+import { Button } from '@/components/ui/button';
+import { Input } from '@/components/ui/input';
+import { Label } from '@/components/ui/label';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
+import { Checkbox } from '@/components/ui/checkbox';
+import { Badge } from '@/components/ui/badge';
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
+import { Play, User, LogOut, Settings } from 'lucide-react';
+import { AutomationConfig, LoginCredentials, AutomationStatus } from '@/types/automation';
+
+interface AutomationDashboardProps {
+  credentials: LoginCredentials;
+  onLogout: () => void;
+  onRunAutomation: (config: AutomationConfig) => void;
+  automationStatus: AutomationStatus;
+}
+
+const VARIANTS = [
+  'Copy', 'Edit', 'V85', 'V86', 'V87', 'V88', 'V89', 'V90', 
+  'V92', 'V93', 'V94', 'V95', 'V96', 'V97', 'V98', 'V99'
+];
+
+const MODES = ['PGL', 'Live', 'Batch'] as const;
+
+export const AutomationDashboard = ({ 
+  credentials, 
+  onLogout, 
+  onRunAutomation, 
+  automationStatus 
+}: AutomationDashboardProps) => {
+  const [config, setConfig] = useState<AutomationConfig>({
+    crqNumber: '',
+    variants: [],
+    gtpUrl: '',
+    mode: 'PGL'
+  });
+
+  const handleSubmit = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (config.crqNumber && config.variants.length > 0 && config.gtpUrl) {
+      onRunAutomation(config);
+    }
+  };
+
+  const handleVariantChange = (variant: string, checked: boolean) => {
+    setConfig(prev => ({
+      ...prev,
+      variants: checked 
+        ? [...prev.variants, variant]
+        : prev.variants.filter(v => v !== variant)
+    }));
+  };
+
+  const isRunning = automationStatus === 'running';
+
+  return (
+    <div className="min-h-screen bg-background">
+      {/* Header */}
+      <header className="border-b bg-card">
+        <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+          <div className="flex items-center space-x-3">
+            <div className="w-8 h-8 bg-primary rounded-lg flex items-center justify-center">
+              <Settings className="w-4 h-4 text-primary-foreground" />
+            </div>
+            <div>
+              <h1 className="text-xl font-bold">CRQ Automation Tool</h1>
+              <p className="text-sm text-muted-foreground">Automation Dashboard</p>
+            </div>
+          </div>
+          <div className="flex items-center space-x-4">
+            <div className="flex items-center space-x-2">
+              <User className="w-4 h-4 text-muted-foreground" />
+              <span className="text-sm font-medium">{credentials.username}</span>
+            </div>
+            <Button variant="outline" size="sm" onClick={onLogout}>
+              <LogOut className="w-4 h-4 mr-2" />
+              Logout
+            </Button>
+          </div>
+        </div>
+      </header>
+
+      <div className="container mx-auto px-4 py-8">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          {/* Configuration Panel */}
+          <Card>
+            <CardHeader>
+              <CardTitle>Automation Configuration</CardTitle>
+              <CardDescription>
+                Configure your CRQ automation parameters
+              </CardDescription>
+            </CardHeader>
+            <CardContent>
+              <form onSubmit={handleSubmit} className="space-y-6">
+                {/* CRQ Number */}
+                <div className="space-y-2">
+                  <Label htmlFor="crqNumber">CRQ Number</Label>
+                  <Input
+                    id="crqNumber"
+                    type="text"
+                    placeholder="Enter CRQ number"
+                    value={config.crqNumber}
+                    onChange={(e) => setConfig(prev => ({ ...prev, crqNumber: e.target.value }))}
+                    disabled={isRunning}
+                    required
+                  />
+                </div>
+
+                {/* Variants */}
+                <div className="space-y-3">
+                  <Label>Variants</Label>
+                  <div className="grid grid-cols-3 gap-2 p-3 border rounded-lg bg-muted/50">
+                    {VARIANTS.map((variant) => (
+                      <div key={variant} className="flex items-center space-x-2">
+                        <Checkbox
+                          id={variant}
+                          checked={config.variants.includes(variant)}
+                          onCheckedChange={(checked) => 
+                            handleVariantChange(variant, checked as boolean)
+                          }
+                          disabled={isRunning}
+                        />
+                        <Label htmlFor={variant} className="text-sm font-normal">
+                          {variant}
+                        </Label>
+                      </div>
+                    ))}
+                  </div>
+                  {config.variants.length > 0 && (
+                    <div className="flex flex-wrap gap-1">
+                      {config.variants.map((variant) => (
+                        <Badge key={variant} variant="secondary" className="text-xs">
+                          {variant}
+                        </Badge>
+                      ))}
+                    </div>
+                  )}
+                </div>
+
+                {/* GTP URL */}
+                <div className="space-y-2">
+                  <Label htmlFor="gtpUrl">GTP URL</Label>
+                  <Input
+                    id="gtpUrl"
+                    type="url"
+                    placeholder="https://gtp.example.com/..."
+                    value={config.gtpUrl}
+                    onChange={(e) => setConfig(prev => ({ ...prev, gtpUrl: e.target.value }))}
+                    disabled={isRunning}
+                    required
+                  />
+                </div>
+
+                {/* Mode */}
+                <div className="space-y-3">
+                  <Label>Mode</Label>
+                  <RadioGroup
+                    value={config.mode}
+                    onValueChange={(value) => setConfig(prev => ({ ...prev, mode: value as typeof MODES[number] }))}
+                    disabled={isRunning}
+                    className="flex space-x-6"
+                  >
+                    {MODES.map((mode) => (
+                      <div key={mode} className="flex items-center space-x-2">
+                        <RadioGroupItem value={mode} id={mode} />
+                        <Label htmlFor={mode}>{mode}</Label>
+                      </div>
+                    ))}
+                  </RadioGroup>
+                </div>
+
+                {/* Submit Button */}
+                <Button 
+                  type="submit" 
+                  className="w-full"
+                  disabled={
+                    isRunning || 
+                    !config.crqNumber || 
+                    config.variants.length === 0 || 
+                    !config.gtpUrl
+                  }
+                >
+                  {isRunning ? (
+                    <>
+                      <div className="w-4 h-4 border-2 border-white/30 border-t-white rounded-full animate-spin mr-2" />
+                      Running Automation...
+                    </>
+                  ) : (
+                    <>
+                      <Play className="w-4 h-4 mr-2" />
+                      Run Automation
+                    </>
+                  )}
+                </Button>
+              </form>
+            </CardContent>
+          </Card>
+
+          {/* Status Panel */}
+          <Card>
+            <CardHeader>
+              <CardTitle>Status</CardTitle>
+              <CardDescription>
+                Current automation status and information
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-4">
+              <div className="p-4 border rounded-lg bg-muted/50">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="font-medium">Status</span>
+                  <Badge 
+                    variant={
+                      automationStatus === 'running' ? 'default' :
+                      automationStatus === 'completed' ? 'secondary' :
+                      automationStatus === 'error' ? 'destructive' : 'outline'
+                    }
+                  >
+                    {automationStatus.charAt(0).toUpperCase() + automationStatus.slice(1)}
+                  </Badge>
+                </div>
+                {config.crqNumber && (
+                  <div className="text-sm text-muted-foreground">
+                    CRQ: {config.crqNumber}
+                  </div>
+                )}
+                {config.variants.length > 0 && (
+                  <div className="text-sm text-muted-foreground">
+                    Variants: {config.variants.length} selected
+                  </div>
+                )}
+                {config.mode && (
+                  <div className="text-sm text-muted-foreground">
+                    Mode: {config.mode}
+                  </div>
+                )}
+              </div>
+
+              {automationStatus === 'idle' && (
+                <div className="text-center py-8 text-muted-foreground">
+                  <Play className="w-12 h-12 mx-auto mb-4 opacity-50" />
+                  <p>Configure and run automation to see results</p>
+                </div>
+              )}
+            </CardContent>
+          </Card>
+        </div>
+      </div>
+    </div>
+  );
+};
