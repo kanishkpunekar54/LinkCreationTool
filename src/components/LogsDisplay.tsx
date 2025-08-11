@@ -15,7 +15,10 @@ export const LogsDisplay = ({ logs, isRunning, onClearLogs }: LogsDisplayProps) 
   const logsEndRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    logsEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    // Only scroll if there are logs to show
+    if (logs.length > 0) {
+      logsEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }
   }, [logs]);
 
   const getLevelColor = (level: LogEntry['level']) => {
