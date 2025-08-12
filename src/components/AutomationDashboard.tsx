@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useCallback } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -38,21 +38,25 @@ export const AutomationDashboard = ({
 
   const [variantSearch, setVariantSearch] = useState('');
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = useCallback((e: React.FormEvent) => {
     e.preventDefault();
     if (config.crqNumber && config.variants.length > 0 && config.gtpUrl) {
       onRunAutomation(config);
     }
-  };
+  }, [config.crqNumber, config.variants.length, config.gtpUrl, onRunAutomation]);
 
-  const handleVariantChange = (variant: string, checked: boolean) => {
+  const handleVariantChange = useCallback((variant: string, checked: boolean) => {
     setConfig(prev => ({
       ...prev,
       variants: checked 
         ? [...prev.variants, variant]
         : prev.variants.filter(v => v !== variant)
     }));
-  };
+  }, []);
+
+  const handleModeChange = useCallback((mode: string) => {
+    setConfig(prev => ({ ...prev, mode: mode as typeof MODES[number] }));
+  }, []);
 
   const filteredVariants = VARIANTS.filter(variant => 
     variant.toLowerCase().includes(variantSearch.toLowerCase())
@@ -218,7 +222,7 @@ export const AutomationDashboard = ({
                   <Label>Mode</Label>
                   <RadioGroup
                     value={config.mode}
-                    onValueChange={(value) => setConfig(prev => ({ ...prev, mode: value as typeof MODES[number] }))}
+                    onValueChange={handleModeChange}
                     className="flex space-x-6"
                   >
                     {MODES.map((mode) => (
