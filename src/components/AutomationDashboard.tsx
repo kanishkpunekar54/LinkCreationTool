@@ -5,7 +5,7 @@ import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Badge } from '@/components/ui/badge';
-import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
+
 import { Play, User, LogOut, Settings, Search } from 'lucide-react';
 import { AutomationConfig, LoginCredentials, AutomationStatus } from '@/types/automation';
 
@@ -220,18 +220,21 @@ export const AutomationDashboard = ({
                 {/* Mode */}
                 <div className="space-y-3">
                   <Label>Mode</Label>
-                  <RadioGroup
-                    value={config.mode}
-                    onValueChange={handleModeChange}
-                    className="flex space-x-6"
-                  >
+                  <div className="flex space-x-4">
                     {MODES.map((mode) => (
-                      <div key={mode} className="flex items-center space-x-2">
-                        <RadioGroupItem value={mode} id={mode} disabled={isRunning} />
-                        <Label htmlFor={mode}>{mode}</Label>
-                      </div>
+                      <Button
+                        key={mode}
+                        type="button"
+                        variant={config.mode === mode ? "default" : "outline"}
+                        size="sm"
+                        onClick={() => handleModeChange(mode)}
+                        disabled={isRunning}
+                        className="min-w-[60px]"
+                      >
+                        {mode}
+                      </Button>
                     ))}
-                  </RadioGroup>
+                  </div>
                 </div>
 
                 {/* Submit Button */}
