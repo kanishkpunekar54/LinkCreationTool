@@ -219,12 +219,11 @@ export const AutomationDashboard = ({
                   <RadioGroup
                     value={config.mode}
                     onValueChange={(value) => setConfig(prev => ({ ...prev, mode: value as typeof MODES[number] }))}
-                    disabled={isRunning}
                     className="flex space-x-6"
                   >
                     {MODES.map((mode) => (
                       <div key={mode} className="flex items-center space-x-2">
-                        <RadioGroupItem value={mode} id={mode} />
+                        <RadioGroupItem value={mode} id={mode} disabled={isRunning} />
                         <Label htmlFor={mode}>{mode}</Label>
                       </div>
                     ))}
