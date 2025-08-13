@@ -1,4 +1,4 @@
-import { useState, useCallback } from 'react';
+import { useState } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
@@ -38,25 +38,25 @@ export const AutomationDashboard = ({
 
   const [variantSearch, setVariantSearch] = useState('');
 
-  const handleSubmit = useCallback((e: React.FormEvent) => {
+  const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (config.crqNumber && config.variants.length > 0 && config.gtpUrl) {
       onRunAutomation(config);
     }
-  }, [config.crqNumber, config.variants.length, config.gtpUrl, onRunAutomation]);
+  };
 
-  const handleVariantChange = useCallback((variant: string, checked: boolean) => {
+  const handleVariantChange = (variant: string, checked: boolean) => {
     setConfig(prev => ({
       ...prev,
       variants: checked 
         ? [...prev.variants, variant]
         : prev.variants.filter(v => v !== variant)
     }));
-  }, []);
+  };
 
-  const handleModeChange = useCallback((mode: string) => {
+  const handleModeChange = (mode: string) => {
     setConfig(prev => ({ ...prev, mode: mode as typeof MODES[number] }));
-  }, []);
+  };
 
   const filteredVariants = VARIANTS.filter(variant => 
     variant.toLowerCase().includes(variantSearch.toLowerCase())
