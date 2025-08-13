@@ -136,32 +136,31 @@ export const AutomationDashboard = ({
                   {/* Variants Grid */}
                   <div className="border rounded-lg p-4 bg-muted/30 max-h-48 overflow-auto">
                     <div className="grid grid-cols-4 gap-3">
-                      {filteredVariants.map((variant) => (
-                        <div 
-                          key={variant} 
-                          className={`flex items-center space-x-2 p-2 rounded-md border transition-colors cursor-pointer hover:bg-background ${
-                            config.variants.includes(variant) 
-                              ? 'bg-primary/10 border-primary/30' 
-                              : 'bg-background hover:border-primary/20'
-                          }`}
-                          onClick={() => handleVariantChange(variant, !config.variants.includes(variant))}
-                        >
-                          <Checkbox
-                            id={variant}
-                            checked={config.variants.includes(variant)}
-                            onCheckedChange={(checked) => 
-                              handleVariantChange(variant, checked as boolean)
-                            }
-                            disabled={isRunning}
-                          />
-                          <Label 
-                            htmlFor={variant} 
-                            className="text-sm font-medium cursor-pointer flex-1"
-                          >
-                            {variant}
-                          </Label>
-                        </div>
-                      ))}
+                       {filteredVariants.map((variant) => (
+                         <div 
+                           key={variant} 
+                           className={`flex items-center space-x-2 p-2 rounded-md border transition-colors ${
+                             config.variants.includes(variant) 
+                               ? 'bg-primary/10 border-primary/30' 
+                               : 'bg-background hover:border-primary/20'
+                           }`}
+                         >
+                           <Checkbox
+                             id={variant}
+                             checked={config.variants.includes(variant)}
+                             onCheckedChange={(checked) => 
+                               handleVariantChange(variant, checked as boolean)
+                             }
+                             disabled={isRunning}
+                           />
+                           <Label 
+                             htmlFor={variant} 
+                             className="text-sm font-medium cursor-pointer flex-1"
+                           >
+                             {variant}
+                           </Label>
+                         </div>
+                       ))}
                     </div>
                     
                     {filteredVariants.length === 0 && variantSearch && (
