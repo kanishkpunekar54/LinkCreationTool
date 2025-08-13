@@ -217,19 +217,23 @@ export const AutomationDashboard = ({
                   />
                 </div>
 
-                {/* Mode */}
+                {/* Mode Selection */}
                 <div className="space-y-3">
                   <Label>Mode</Label>
-                  <div className="flex space-x-4">
+                  <div className="flex bg-muted rounded-lg p-1">
                     {MODES.map((mode) => (
                       <Button
                         key={mode}
                         type="button"
-                        variant={config.mode === mode ? "default" : "outline"}
+                        variant={config.mode === mode ? "default" : "ghost"}
                         size="sm"
                         onClick={() => handleModeChange(mode)}
                         disabled={isRunning}
-                        className="min-w-[60px]"
+                        className={`flex-1 ${
+                          config.mode === mode 
+                            ? 'bg-background text-foreground shadow-sm' 
+                            : 'hover:bg-background/50'
+                        }`}
                       >
                         {mode}
                       </Button>
