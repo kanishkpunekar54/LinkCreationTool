@@ -92,7 +92,7 @@ export const AutomationDashboard = ({
       </header>
 
       <div className="container mx-auto px-4 py-8">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
+        {/* Configuration Panel - Full Width */}
           {/* Configuration Panel */}
           <Card>
             <CardHeader>
@@ -265,9 +265,7 @@ export const AutomationDashboard = ({
                 </Button>
               </form>
             </CardContent>
-          </Card>
-
-        </div>
+        </Card>
       </div>
     </div>
   );
