@@ -267,53 +267,6 @@ export const AutomationDashboard = ({
             </CardContent>
           </Card>
 
-          {/* Status Panel */}
-          <Card>
-            <CardHeader>
-              <CardTitle>Status</CardTitle>
-              <CardDescription>
-                Current automation status and information
-              </CardDescription>
-            </CardHeader>
-            <CardContent className="space-y-4">
-              <div className="p-4 border rounded-lg bg-muted/50">
-                <div className="flex items-center justify-between mb-2">
-                  <span className="font-medium">Status</span>
-                  <Badge 
-                    variant={
-                      automationStatus === 'running' ? 'default' :
-                      automationStatus === 'completed' ? 'secondary' :
-                      automationStatus === 'error' ? 'destructive' : 'outline'
-                    }
-                  >
-                    {automationStatus.charAt(0).toUpperCase() + automationStatus.slice(1)}
-                  </Badge>
-                </div>
-                {config.crqNumber && (
-                  <div className="text-sm text-muted-foreground">
-                    CRQ: {config.crqNumber}
-                  </div>
-                )}
-                {config.variants.length > 0 && (
-                  <div className="text-sm text-muted-foreground">
-                    Variants: {config.variants.length} selected
-                  </div>
-                )}
-                {config.mode && (
-                  <div className="text-sm text-muted-foreground">
-                    Mode: {config.mode}
-                  </div>
-                )}
-              </div>
-
-              {automationStatus === 'idle' && (
-                <div className="text-center py-8 text-muted-foreground">
-                  <Play className="w-12 h-12 mx-auto mb-4 opacity-50" />
-                  <p>Configure and run automation to see results</p>
-                </div>
-              )}
-            </CardContent>
-          </Card>
         </div>
       </div>
     </div>
