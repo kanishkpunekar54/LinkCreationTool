@@ -106,15 +106,20 @@ All colors MUST be HSL.
 
 @layer base {
   * {
-    @apply border-border;
+    /* set the global border color from the design tokens so components using
+       the `border` utility inherit the correct color without requiring the
+       generated `border-border` utility to be present */
+    border-color: hsl(var(--border));
   }
 
   body {
-    @apply bg-background text-foreground;
+    /* Use CSS variables directly instead of @apply on generated utilities
+       (avoids Tailwind complaining about unknown utility classes) */
+    background-color: hsl(var(--background));
+    color: hsl(var(--foreground));
   }
 
-  /* Force dark theme by default */
-  html {
-    @apply dark;
-  }
+  /* NOTE: removing `@apply dark` because `dark` is a variant, not a utility.
+     If you want to force dark mode by default add the `dark` class to the
+     <html> element (e.g. <html class="dark">) or manage it via JS. */
 }

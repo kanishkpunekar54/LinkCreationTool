@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
+// Badge component not imported because a simple inline element is used for the "Live" indicator.
 import { Terminal, Trash2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { LogEntry } from '@/types/automation';
@@ -47,12 +47,12 @@ export const LogsDisplay = ({ logs, isRunning, onClearLogs }: LogsDisplayProps) 
             <Terminal className="w-5 h-5" />
             <CardTitle>Automation Logs</CardTitle>
             {isRunning && (
-              <Badge variant="outline" className="bg-success/10 text-success border-success/20">
+              <span className="inline-flex items-center px-2 py-0.5 rounded-md text-sm font-medium bg-success/10 text-success border border-success/20">
                 Live
-              </Badge>
+              </span>
             )}
           </div>
-          <Button 
+          <Button
             variant="outline" 
             size="sm" 
             onClick={onClearLogs}

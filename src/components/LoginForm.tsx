@@ -8,9 +8,10 @@ import { LoginCredentials } from '@/types/automation';
 
 interface LoginFormProps {
   onLogin: (credentials: LoginCredentials) => void;
+  loginError?: string | null;
 }
 
-export const LoginForm = ({ onLogin }: LoginFormProps) => {
+export const LoginForm = ({ onLogin, loginError }: LoginFormProps) => {
   const [credentials, setCredentials] = useState<LoginCredentials>({
     username: '',
     password: ''
@@ -35,6 +36,9 @@ export const LoginForm = ({ onLogin }: LoginFormProps) => {
             <CardDescription>
               Sign in to access the automation dashboard
             </CardDescription>
+            {loginError && (
+              <div className="text-red-500 text-sm mt-2">{loginError}</div>
+            )}
           </div>
         </CardHeader>
         <CardContent>

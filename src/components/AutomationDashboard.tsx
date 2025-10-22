@@ -74,7 +74,7 @@ export const AutomationDashboard = ({
               <Settings className="w-4 h-4 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold">Link Automation Tool</h1>
+              <h1 className="text-xl font-bold">Link Pilot</h1>
               <p className="text-sm text-muted-foreground">Automation Dashboard</p>
             </div>
           </div>
