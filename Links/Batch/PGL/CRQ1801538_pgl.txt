@@ -1,0 +1,207 @@
+CRQ Number: CRQ1801538
+Target URL: https://www.gametechnology.io/games/3476/projects/22423/test/signoff 
+Game Name: WildScoopsTapnCash
+Client Name: Lume
+Release Version: 1.0.0.55
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Argentina - Buenos Aires City -> V92, V94, V96
+Argentina - Buenos Aires Province -> V92, V94, V96
+Argentina - Cordoba Province -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94, V96
+Bulgaria -> V92, V94, V96
+Connecticut -> V92, V94, V96
+Croatia -> V92, V94, V96
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Greece -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94, V96
+Malta -> V92, V94, V96
+Michigan -> V92, V94, V96
+Netherlands -> V92, V94, V96
+New Jersey -> V92, V94, V96
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94, V96
+Peru -> V92, V94, V96
+Romania -> V92, V94, V96
+Spain -> V92, V94, V96
+Switzerland -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+
+Normal CRQ Market Links:
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WildScoopsTapnCashV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WildScoopsTapnCashV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WildScoopsTapnCashDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WildScoopsTapnCashV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WildScoopsTapnCashV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WildScoopsTapnCash/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Croatia] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WildScoopsTapnCashV92Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WildScoopsTapnCashV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WildScoopsTapnCashDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WildScoopsTapnCashV92/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WildScoopsTapnCashV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WildScoopsTapnCash/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WildScoopsTapnCashV92Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WildScoopsTapnCashV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WildScoopsTapnCashDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WildScoopsTapnCashV92/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WildScoopsTapnCashV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WildScoopsTapnCash/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V92) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Bulgaria] (V92) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Argentina - Buenos Aires City] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WildScoopsTapnCashV92Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WildScoopsTapnCashV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WildScoopsTapnCashDesktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WildScoopsTapnCashV92&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WildScoopsTapnCashV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WildScoopsTapnCash&playmode=demo&ul=en
+
+[Romania] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WildScoopsTapnCashV92Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WildScoopsTapnCashV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WildScoopsTapnCashDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WildScoopsTapnCashV92/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WildScoopsTapnCashV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WildScoopsTapnCash/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WildScoopsTapnCashV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WildScoopsTapnCashV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WildScoopsTapnCashDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WildScoopsTapnCashV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WildScoopsTapnCashV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WildScoopsTapnCash/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Greece] (V92) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WildScoopsTapnCashV92Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WildScoopsTapnCashV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WildScoopsTapnCashDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Greece] (V92) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WildScoopsTapnCashV92/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WildScoopsTapnCashV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WildScoopsTapnCash/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCash/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Argentina - Buenos Aires Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WildScoopsTapnCashV92Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WildScoopsTapnCashV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WildScoopsTapnCashDesktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WildScoopsTapnCashV92/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WildScoopsTapnCashV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WildScoopsTapnCash/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WildScoopsTapnCashV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WildScoopsTapnCashV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WildScoopsTapnCashDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WildScoopsTapnCashV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WildScoopsTapnCashV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WildScoopsTapnCash/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WildScoopsTapnCashV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WildScoopsTapnCashV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WildScoopsTapnCashDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WildScoopsTapnCashV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WildScoopsTapnCashV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WildScoopsTapnCash/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WildScoopsTapnCashV92Desktop&playmode=demo&ul=en
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WildScoopsTapnCashV94Desktop&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WildScoopsTapnCashDesktop&playmode=demo&ul=en
+
+[Peru] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WildScoopsTapnCashV92&playmode=demo&ul=en
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WildScoopsTapnCashV94&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WildScoopsTapnCash&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCashV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WildScoopsTapnCash/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WildScoopsTapnCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WildScoopsTapnCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WildScoopsTapnCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WildScoopsTapnCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WildScoopsTapnCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WildScoopsTapnCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WildScoopsTapnCash_Lume_1_0_0_55&gamepath=/mgs/WildScoopsTapnCash
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WildScoopsTapnCashV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WildScoopsTapnCashV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WildScoopsTapnCashDesktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WildScoopsTapnCashV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WildScoopsTapnCashV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WildScoopsTapnCash&playmode=demo&ul=en
+

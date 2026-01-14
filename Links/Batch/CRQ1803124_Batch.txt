@@ -1,0 +1,1284 @@
+🧩 Extracted Details:
+Game Name: linko5
+Client Name: Cocos
+Version: 1_4_1_28
+
+🌍 Market to Variant Map:
+.COM → V96, V94, V92
+Belgium → V96, V94, V92
+Bulgaria → V96
+Malta → V96, V94, V92
+Ontario → V96, V94, V92
+United Kingdom → V96, V94, V92
+Argentina - Buenos Aires City → V94
+Argentina - Buenos Aires Province → V94
+Argentina - Cordoba → V94
+Brazil → V94, V92
+Croatia → V94
+Denmark → V94
+Italy → V94, V92
+Netherlands → V94, V92
+Peru → V94
+Romania → V94
+Spain → V94, V92
+Sweden → V94, V92
+
+🔗 Generated Links:
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/linko5Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/linko5V94Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/linko5V92Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/linko5Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/linko5V94Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/linko5V92Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/linko5V94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/linko5V92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/linko5V94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/linko5V92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=linko5V94&ul=en&playmode=demo&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=gamenameDekstop&ul=en&playmode=demo&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/linko5V94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/linko5V94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/linko5Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/linko5V94Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/linko5V92Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/linko5/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/linko5V94/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/linko5V92/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=linko5_Cocos_1_4_1_28&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/linko5/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/linko5V94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/linko5V92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/linko5Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/linko5V94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/linko5V92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=linko5_Cocos_1_4_1_28&gamepath=/mgs/linko5
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=linko5V94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=linko5V94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/linko5V94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/linko5V94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/linko5V94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/linko5V94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/linko5Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/linko5V94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/linko5V92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/linko5/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/linko5V94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/linko5V92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/linko5Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/linko5V94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/linko5V92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/linko5/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/linko5V94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/linko5V92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/linko5Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/linko5V94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/linko5V92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/linko5/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/linko5V94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/linko5V92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V94) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V92) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/linko5Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/linko5/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/linko5V94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/linko5V92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/linko5V94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/linko5V92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/linko5V94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/linko5V92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/linko5V94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/linko5V92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/linko5V94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/linko5V94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/linko5V94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/linko5V92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/linko5V94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/linko5V92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/linko5V94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/linko5V92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/linko5V94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/linko5V92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=linko5V94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=linko5V94&playmode=demo&ul=en
+
+🧩 Extracted Details:
+Game Name: immortalRomanceSarahSSecretPowerCombo
+Client Name: Thorium
+Version: 1_0_1_73
+
+🌍 Market to Variant Map:
+.COM → V96, V94, V92
+Belgium → V96, V94, V92
+Bulgaria → V96
+Malta → V96, V94, V92
+Ontario → V96, V94, V92
+United Kingdom → V96, V94, V92
+Argentina - Buenos Aires City → V94
+Argentina - Buenos Aires Province → V94
+Argentina - Cordoba → V94
+Brazil → V94, V92
+Croatia → V94
+Denmark → V94
+Greece → V94
+Italy → V94, V92
+Netherlands → V94, V92
+Peru → V94
+Portugal → V94
+Romania → V94
+Spain → V94, V92
+Sweden → V94, V92
+Switzerland → V94
+Colombia → V94
+Czech Republic → V94
+Latvia → V94
+
+🔗 Generated Links:
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/immortalRomanceSarahSSecretPowerComboV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/immortalRomanceSarahSSecretPowerComboV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=immortalRomanceSarahSSecretPowerComboV94&ul=en&playmode=demo&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=gamenameDekstop&ul=en&playmode=demo&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/immortalRomanceSarahSSecretPowerComboDesktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/immortalRomanceSarahSSecretPowerComboV92Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/immortalRomanceSarahSSecretPowerCombo/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/immortalRomanceSarahSSecretPowerComboV92/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/immortalRomanceSarahSSecretPowerCombo/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/immortalRomanceSarahSSecretPowerComboV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/immortalRomanceSarahSSecretPowerComboDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/immortalRomanceSarahSSecretPowerComboV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=immortalRomanceSarahSSecretPowerCombo_Thorium_1_0_1_73&gamepath=/mgs/immortalRomanceSarahSSecretPowerCombo
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=immortalRomanceSarahSSecretPowerComboV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=immortalRomanceSarahSSecretPowerComboV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/immortalRomanceSarahSSecretPowerCombo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/immortalRomanceSarahSSecretPowerComboV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/immortalRomanceSarahSSecretPowerComboV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/immortalRomanceSarahSSecretPowerCombo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/immortalRomanceSarahSSecretPowerComboV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/immortalRomanceSarahSSecretPowerComboV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/immortalRomanceSarahSSecretPowerCombo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/immortalRomanceSarahSSecretPowerComboV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/immortalRomanceSarahSSecretPowerComboV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V94) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V92) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/immortalRomanceSarahSSecretPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/immortalRomanceSarahSSecretPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/immortalRomanceSarahSSecretPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/immortalRomanceSarahSSecretPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/immortalRomanceSarahSSecretPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/immortalRomanceSarahSSecretPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/immortalRomanceSarahSSecretPowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/immortalRomanceSarahSSecretPowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/immortalRomanceSarahSSecretPowerComboV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/immortalRomanceSarahSSecretPowerComboV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/immortalRomanceSarahSSecretPowerComboV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/immortalRomanceSarahSSecretPowerComboV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=gamenameDekstop&playmode=demo&ul=en
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=immortalRomanceSarahSSecretPowerComboV94&playmode=demo&ul=en
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/immortalRomanceSarahSSecretPowerComboV94Desktop/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/immortalRomanceSarahSSecretPowerComboV94/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=immortalRomanceSarahSSecretPowerComboV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=immortalRomanceSarahSSecretPowerComboV94&playmode=demo&ul=en
+
+🧩 Extracted Details:
+Game Name: breezinRichesLockNWin
+Client Name: PKit
+Version: 1_1_0_24
+
+🌍 Market to Variant Map:
+.COM → V96, V94, V92
+Belgium → V96, V94, V92
+Bulgaria → V96
+Malta → V96, V94, V92
+Ontario → V96, V94, V92
+United Kingdom → V96, V94, V92
+Argentina - Buenos Aires City → V94
+Argentina - Buenos Aires Province → V94
+Argentina - Cordoba → V94
+Brazil → V94, V92
+Croatia → V94
+Denmark → V94
+Greece → V94
+Italy → V94, V92
+Netherlands → V94, V92
+Peru → V94
+Portugal → V94
+Romania → V94
+Spain → V94, V92
+Sweden → V94, V92
+Colombia → V94
+Czech Republic → V94
+Latvia → V94
+
+🔗 Generated Links:
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/breezinRichesLockNWinDesktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/breezinRichesLockNWinDesktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/breezinRichesLockNWinV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/breezinRichesLockNWinV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/breezinRichesLockNWinV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/breezinRichesLockNWinV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=breezinRichesLockNWinV94&ul=en&playmode=demo&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=gamenameDekstop&ul=en&playmode=demo&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/breezinRichesLockNWinV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/breezinRichesLockNWinV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/breezinRichesLockNWinV94Desktop/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/breezinRichesLockNWinV94/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/breezinRichesLockNWinDesktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/breezinRichesLockNWinV94Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/breezinRichesLockNWinV92Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/breezinRichesLockNWin/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/breezinRichesLockNWinV94/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/breezinRichesLockNWinV92/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/breezinRichesLockNWin/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/breezinRichesLockNWinV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/breezinRichesLockNWinV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/breezinRichesLockNWinDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/breezinRichesLockNWinV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/breezinRichesLockNWinV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=breezinRichesLockNWin_PKit_1_1_0_24&gamepath=/mgs/breezinRichesLockNWin
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=breezinRichesLockNWinV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=breezinRichesLockNWinV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/breezinRichesLockNWinV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/breezinRichesLockNWinV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/breezinRichesLockNWinV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/breezinRichesLockNWinV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/breezinRichesLockNWinDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/breezinRichesLockNWinV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/breezinRichesLockNWinV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/breezinRichesLockNWin/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/breezinRichesLockNWinV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/breezinRichesLockNWinV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/breezinRichesLockNWinDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/breezinRichesLockNWinV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/breezinRichesLockNWinV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/breezinRichesLockNWin/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/breezinRichesLockNWinV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/breezinRichesLockNWinV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/breezinRichesLockNWinDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/breezinRichesLockNWinV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/breezinRichesLockNWinV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/breezinRichesLockNWin/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/breezinRichesLockNWinV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/breezinRichesLockNWinV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V94) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V92) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/breezinRichesLockNWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/breezinRichesLockNWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/breezinRichesLockNWinV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/breezinRichesLockNWinV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/breezinRichesLockNWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/breezinRichesLockNWinV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/breezinRichesLockNWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/breezinRichesLockNWinV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/breezinRichesLockNWinV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/breezinRichesLockNWinV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/breezinRichesLockNWinV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/breezinRichesLockNWinV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/breezinRichesLockNWinV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/breezinRichesLockNWinV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/breezinRichesLockNWinV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/breezinRichesLockNWinV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/breezinRichesLockNWinV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/breezinRichesLockNWinV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/breezinRichesLockNWinV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/breezinRichesLockNWinV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/breezinRichesLockNWinV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/breezinRichesLockNWinV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=gamenameDekstop&playmode=demo&ul=en
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=breezinRichesLockNWinV94&playmode=demo&ul=en
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/breezinRichesLockNWinV94Desktop/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/breezinRichesLockNWinV94/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=breezinRichesLockNWinV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=breezinRichesLockNWinV94&playmode=demo&ul=en
+
+🧩 Extracted Details:
+Game Name: fourfoldTheGold
+Client Name: Lume
+Version: 1_0_0_41
+
+🌍 Market to Variant Map:
+.COM → V96, V94, V92
+Belgium → V96, V94, V92
+Bulgaria → V96
+Malta → V96, V94, V92
+Ontario → V96, V94, V92
+United Kingdom → V96, V94, V92
+Argentina - Buenos Aires City → V94
+Argentina - Buenos Aires Province → V94
+Argentina - Cordoba → V94
+Brazil → V94, V92
+Croatia → V94
+Denmark → V94
+Greece → V94
+Italy → V94, V92
+Netherlands → V94, V92
+Peru → V94
+Portugal → V94
+Romania → V94
+Spain → V94, V92
+Sweden → V94, V92
+Colombia → V94
+Czech Republic → V94
+Latvia → V94
+Switzerland → V94
+
+🔗 Generated Links:
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/fourfoldTheGoldDesktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/fourfoldTheGoldDesktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/fourfoldTheGoldV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/fourfoldTheGoldV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/fourfoldTheGoldV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/fourfoldTheGoldV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=fourfoldTheGoldV94&ul=en&playmode=demo&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=gamenameDekstop&ul=en&playmode=demo&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/fourfoldTheGoldV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/fourfoldTheGoldV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/fourfoldTheGoldV94Desktop/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/fourfoldTheGoldV94/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/fourfoldTheGoldDesktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/fourfoldTheGoldV94Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/fourfoldTheGoldV92Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/fourfoldTheGold/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/fourfoldTheGoldV94/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/fourfoldTheGoldV92/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=fourfoldTheGold_Lume_1_0_0_41&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/fourfoldTheGold/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/fourfoldTheGoldV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/fourfoldTheGoldV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/fourfoldTheGoldDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/fourfoldTheGoldV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/fourfoldTheGoldV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=fourfoldTheGold_Lume_1_0_0_41&gamepath=/mgs/fourfoldTheGold
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=fourfoldTheGoldV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=fourfoldTheGoldV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/fourfoldTheGoldV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/fourfoldTheGoldV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/fourfoldTheGoldV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/fourfoldTheGoldV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/fourfoldTheGoldDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/fourfoldTheGoldV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/fourfoldTheGoldV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/fourfoldTheGold/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/fourfoldTheGoldV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/fourfoldTheGoldV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/fourfoldTheGoldDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/fourfoldTheGoldV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/fourfoldTheGoldV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/fourfoldTheGold/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/fourfoldTheGoldV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/fourfoldTheGoldV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/fourfoldTheGoldDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/fourfoldTheGoldV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/fourfoldTheGoldV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/fourfoldTheGold/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/fourfoldTheGoldV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/fourfoldTheGoldV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V94) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V92) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/fourfoldTheGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/fourfoldTheGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/fourfoldTheGoldV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/fourfoldTheGoldV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/fourfoldTheGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/fourfoldTheGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/fourfoldTheGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/fourfoldTheGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/fourfoldTheGoldV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/fourfoldTheGoldV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/fourfoldTheGoldV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/fourfoldTheGoldV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/fourfoldTheGoldV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/fourfoldTheGoldV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/fourfoldTheGoldV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/fourfoldTheGoldV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/fourfoldTheGoldV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/fourfoldTheGoldV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/fourfoldTheGoldV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/fourfoldTheGoldV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/fourfoldTheGoldV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/fourfoldTheGoldV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=gamenameDekstop&playmode=demo&ul=en
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=fourfoldTheGoldV94&playmode=demo&ul=en
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/fourfoldTheGoldV94Desktop/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/fourfoldTheGoldV94/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=fourfoldTheGoldV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=fourfoldTheGoldV94&playmode=demo&ul=en
+
+🧩 Extracted Details:
+Game Name: baozangEmpireOfPlenty
+Client Name: Foxium
+Version: 1_0_0_28
+
+🌍 Market to Variant Map:
+.COM → V96, V94, V92
+Belgium → V96, V94, V92
+Bulgaria → V96
+Malta → V96, V94, V92
+Ontario → V96, V94, V92
+United Kingdom → V96, V94, V92
+Argentina - Buenos Aires City → V94
+Argentina - Buenos Aires Province → V94
+Argentina - Cordoba → V94
+Brazil → V94, V92
+Croatia → V94
+Denmark → V94
+Greece → V94
+Italy → V94, V92
+Netherlands → V94, V92
+Peru → V94
+Portugal → V94
+Romania → V94
+Spain → V94, V92
+Sweden → V94, V92
+Colombia → V94
+Czech Republic → V94
+Latvia → V94
+Switzerland → V94
+
+🔗 Generated Links:
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/baozangEmpireOfPlentyV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/baozangEmpireOfPlentyV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/baozangEmpireOfPlentyV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/baozangEmpireOfPlentyV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=baozangEmpireOfPlentyV94&ul=en&playmode=demo&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=gamenameDekstop&ul=en&playmode=demo&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/baozangEmpireOfPlentyV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/baozangEmpireOfPlentyV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/baozangEmpireOfPlentyV94Desktop/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/baozangEmpireOfPlentyV94/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/baozangEmpireOfPlentyDesktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/baozangEmpireOfPlentyV94Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/baozangEmpireOfPlentyV92Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/baozangEmpireOfPlenty/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/baozangEmpireOfPlentyV94/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/baozangEmpireOfPlentyV92/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/baozangEmpireOfPlenty/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/baozangEmpireOfPlentyV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/baozangEmpireOfPlentyV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/baozangEmpireOfPlentyDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/baozangEmpireOfPlentyV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/baozangEmpireOfPlentyV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=baozangEmpireOfPlenty_Foxium_1_0_0_28&gamepath=/mgs/baozangEmpireOfPlenty
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=baozangEmpireOfPlentyV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=baozangEmpireOfPlentyV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/baozangEmpireOfPlentyV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/baozangEmpireOfPlentyV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/baozangEmpireOfPlentyV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/baozangEmpireOfPlentyV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/baozangEmpireOfPlentyDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/baozangEmpireOfPlentyV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/baozangEmpireOfPlentyV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/baozangEmpireOfPlenty/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/baozangEmpireOfPlentyV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/baozangEmpireOfPlentyV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/baozangEmpireOfPlentyDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/baozangEmpireOfPlentyV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/baozangEmpireOfPlentyV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/baozangEmpireOfPlenty/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/baozangEmpireOfPlentyV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/baozangEmpireOfPlentyV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/baozangEmpireOfPlentyDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/baozangEmpireOfPlentyV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/baozangEmpireOfPlentyV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/baozangEmpireOfPlenty/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/baozangEmpireOfPlentyV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/baozangEmpireOfPlentyV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V94) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V92) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/baozangEmpireOfPlentyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/baozangEmpireOfPlenty/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/baozangEmpireOfPlentyV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/baozangEmpireOfPlentyV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/baozangEmpireOfPlentyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/baozangEmpireOfPlentyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/baozangEmpireOfPlentyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/baozangEmpireOfPlentyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/baozangEmpireOfPlentyV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/baozangEmpireOfPlentyV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/baozangEmpireOfPlentyV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/baozangEmpireOfPlentyV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/baozangEmpireOfPlentyV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/baozangEmpireOfPlentyV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/baozangEmpireOfPlentyV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/baozangEmpireOfPlentyV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/baozangEmpireOfPlentyV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/baozangEmpireOfPlentyV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/baozangEmpireOfPlentyV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/baozangEmpireOfPlentyV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/baozangEmpireOfPlentyV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/baozangEmpireOfPlentyV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=gamenameDekstop&playmode=demo&ul=en
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=baozangEmpireOfPlentyV94&playmode=demo&ul=en
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/baozangEmpireOfPlentyV94Desktop/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/baozangEmpireOfPlentyV94/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=baozangEmpireOfPlentyV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=baozangEmpireOfPlentyV94&playmode=demo&ul=en
+
+🧩 Extracted Details:
+Game Name: harriganHareRainbowBonanza
+Client Name: InfinityDragon
+Version: 1_1_0_16
+
+🌍 Market to Variant Map:
+.COM → V96, V94, V92
+Belgium → V96, V94, V92
+Bulgaria → V96
+Malta → V96, V94, V92
+Ontario → V96, V94, V92
+United Kingdom → V96, V94, V92
+Argentina - Buenos Aires City → V94
+Argentina - Buenos Aires Province → V94
+Argentina - Cordoba → V94
+Brazil → V94, V92
+Croatia → V94
+Denmark → V94
+Greece → V94
+Italy → V94, V92
+Netherlands → V94, V92
+Peru → V94
+Portugal → V94
+Romania → V94
+Spain → V94, V92
+Sweden → V94, V92
+Colombia → V94
+Czech Republic → V94
+Latvia → V94
+
+🔗 Generated Links:
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/harriganHareRainbowBonanzaV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/harriganHareRainbowBonanzaV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/harriganHareRainbowBonanzaV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/harriganHareRainbowBonanzaV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=harriganHareRainbowBonanzaV94&ul=en&playmode=demo&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+
+[Croatia] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=38363&gameid=gamenameDekstop&ul=en&playmode=demo&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/harriganHareRainbowBonanzaV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/harriganHareRainbowBonanzaV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/harriganHareRainbowBonanzaV94Desktop/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Portugal] (V94) https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgsshowcaseioapt/harriganHareRainbowBonanzaV94/en?casinoid=31604&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/harriganHareRainbowBonanzaDesktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/harriganHareRainbowBonanzaV94Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/harriganHareRainbowBonanzaV92Desktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/harriganHareRainbowBonanza/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/harriganHareRainbowBonanzaV94/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[.COM] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/harriganHareRainbowBonanzaV92/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[.COM] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+[.COM] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/harriganHareRainbowBonanza/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/harriganHareRainbowBonanzaV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/harriganHareRainbowBonanzaV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/harriganHareRainbowBonanzaDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/harriganHareRainbowBonanzaV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/harriganHareRainbowBonanzaV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=harriganHareRainbowBonanza_InfinityDragon_1_1_0_16&gamepath=/mgs/harriganHareRainbowBonanza
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=harriganHareRainbowBonanzaV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=harriganHareRainbowBonanzaV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/harriganHareRainbowBonanzaV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/harriganHareRainbowBonanzaV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/harriganHareRainbowBonanzaV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/harriganHareRainbowBonanzaV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/harriganHareRainbowBonanzaDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/harriganHareRainbowBonanzaV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Desktop/harriganHareRainbowBonanzaV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/harriganHareRainbowBonanza/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/harriganHareRainbowBonanzaV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/harriganHareRainbowBonanzaV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/harriganHareRainbowBonanzaDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/harriganHareRainbowBonanzaV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/harriganHareRainbowBonanzaV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/harriganHareRainbowBonanza/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/harriganHareRainbowBonanzaV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/harriganHareRainbowBonanzaV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/harriganHareRainbowBonanzaDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/harriganHareRainbowBonanzaV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/harriganHareRainbowBonanzaV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/harriganHareRainbowBonanza/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/harriganHareRainbowBonanzaV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/harriganHareRainbowBonanzaV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V94) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo
+[Ontario] (V92) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/harriganHareRainbowBonanzaDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/harriganHareRainbowBonanza/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/harriganHareRainbowBonanzaV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/harriganHareRainbowBonanzaV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/harriganHareRainbowBonanzaV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/harriganHareRainbowBonanzaV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/harriganHareRainbowBonanzaV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/harriganHareRainbowBonanzaV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/harriganHareRainbowBonanzaV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/harriganHareRainbowBonanzaV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/harriganHareRainbowBonanzaV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/harriganHareRainbowBonanzaV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/harriganHareRainbowBonanzaV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/harriganHareRainbowBonanzaV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/harriganHareRainbowBonanzaV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/harriganHareRainbowBonanzaV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/harriganHareRainbowBonanzaV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/harriganHareRainbowBonanzaV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/harriganHareRainbowBonanzaV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/harriganHareRainbowBonanzaV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/harriganHareRainbowBonanzaV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/harriganHareRainbowBonanzaV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=gamenameDekstop&playmode=demo&ul=en
+
+[Latvia] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=harriganHareRainbowBonanzaV94&playmode=demo&ul=en
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/harriganHareRainbowBonanzaV94Desktop/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Colombia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuatcol/harriganHareRainbowBonanzaV94/en?casinoid=29420&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=harriganHareRainbowBonanzaV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=harriganHareRainbowBonanzaV94&playmode=demo&ul=en
+

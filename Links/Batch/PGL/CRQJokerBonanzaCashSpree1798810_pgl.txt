@@ -1,0 +1,163 @@
+CRQ Number: CRQJokerBonanzaCashSpree1798810
+Target URL: https://www.gametechnology.io/games/2779/projects/21870/test/signoff 
+Game Name: JokerBonanzaCashSpree
+Client Name: Lume
+Release Version: 1.0.0.49
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Asia -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94, V96
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94, V96
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Sweden -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+Denmark -> V94, V96
+Greece -> V94
+Italy -> V94
+Romania -> V94
+Spain -> V94
+Bulgaria -> V96
+Croatia -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/JokerBonanzaCashSpreeV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/JokerBonanzaCashSpreeV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/JokerBonanzaCashSpreeDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/JokerBonanzaCashSpreeV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/JokerBonanzaCashSpreeV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/JokerBonanzaCashSpree/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/JokerBonanzaCashSpreeV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/JokerBonanzaCashSpreeV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/JokerBonanzaCashSpreeDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/JokerBonanzaCashSpreeV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/JokerBonanzaCashSpreeV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/JokerBonanzaCashSpree/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/JokerBonanzaCashSpreeDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/JokerBonanzaCashSpree/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/JokerBonanzaCashSpreeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/JokerBonanzaCashSpree/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/JokerBonanzaCashSpreeV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/JokerBonanzaCashSpreeDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/JokerBonanzaCashSpreeV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/JokerBonanzaCashSpree/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/JokerBonanzaCashSpreeV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/JokerBonanzaCashSpreeV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/JokerBonanzaCashSpreeV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/JokerBonanzaCashSpreeV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/JokerBonanzaCashSpreeDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/JokerBonanzaCashSpreeV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/JokerBonanzaCashSpreeV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/JokerBonanzaCashSpree/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/JokerBonanzaCashSpreeV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/JokerBonanzaCashSpreeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/JokerBonanzaCashSpreeV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/JokerBonanzaCashSpreeV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/JokerBonanzaCashSpree/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/JokerBonanzaCashSpreeV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/JokerBonanzaCashSpreeV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/JokerBonanzaCashSpreeV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/JokerBonanzaCashSpreeV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/JokerBonanzaCashSpreeV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/JokerBonanzaCashSpreeV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/JokerBonanzaCashSpreeV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/JokerBonanzaCashSpreeDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/JokerBonanzaCashSpreeV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/JokerBonanzaCashSpreeV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/JokerBonanzaCashSpree/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/JokerBonanzaCashSpreeV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/JokerBonanzaCashSpreeV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/JokerBonanzaCashSpreeDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/JokerBonanzaCashSpreeV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/JokerBonanzaCashSpreeV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/JokerBonanzaCashSpree/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/JokerBonanzaCashSpreeV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/JokerBonanzaCashSpreeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/JokerBonanzaCashSpreeV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/JokerBonanzaCashSpreeV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/JokerBonanzaCashSpree/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/JokerBonanzaCashSpreeV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/JokerBonanzaCashSpreeDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/JokerBonanzaCashSpreeV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/JokerBonanzaCashSpreeV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/JokerBonanzaCashSpree/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/JokerBonanzaCashSpreeV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/JokerBonanzaCashSpreeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/JokerBonanzaCashSpreeV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/JokerBonanzaCashSpreeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/JokerBonanzaCashSpreeV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/JokerBonanzaCashSpreeV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/JokerBonanzaCashSpree/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=JokerBonanzaCashSpreeV92Desktop&playmode=demo&ul=en
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=JokerBonanzaCashSpreeV94Desktop&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=JokerBonanzaCashSpreeDesktop&playmode=demo&ul=en
+
+[Dotcom] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=JokerBonanzaCashSpreeV92&playmode=demo&ul=en
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=JokerBonanzaCashSpreeV94&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=JokerBonanzaCashSpree&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/JokerBonanzaCashSpreeV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/JokerBonanzaCashSpreeV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/JokerBonanzaCashSpreeV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/JokerBonanzaCashSpreeV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=JokerBonanzaCashSpree_Lume_1_0_0_49&gamepath=/mgs/JokerBonanzaCashSpree
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=JokerBonanzaCashSpreeV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=JokerBonanzaCashSpreeV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=JokerBonanzaCashSpreeDesktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=JokerBonanzaCashSpreeV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=JokerBonanzaCashSpreeV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=JokerBonanzaCashSpree&playmode=demo&ul=en
+

@@ -1,0 +1,183 @@
+CRQ Number: CRQGiveMeGoldMineNShinePowerCombo1798951
+Target URL: https://www.gametechnology.io/games/3806-givemegoldminenshinepowercombo/projects/21535/test/signoff
+Game Name: GiveMeGoldMineNShinePowerCombo
+Client Name: PlayNext
+Release Version: 1.0.0.85
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Asia -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Peru -> V94
+Portugal -> V94
+Romania -> V94
+Switzerland -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GiveMeGoldMineNShinePowerComboV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GiveMeGoldMineNShinePowerComboV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GiveMeGoldMineNShinePowerComboV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GiveMeGoldMineNShinePowerComboV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GiveMeGoldMineNShinePowerComboDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GiveMeGoldMineNShinePowerComboV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GiveMeGoldMineNShinePowerComboV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GiveMeGoldMineNShinePowerCombo/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/GiveMeGoldMineNShinePowerComboV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/GiveMeGoldMineNShinePowerComboV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/GiveMeGoldMineNShinePowerComboV94/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/GiveMeGoldMineNShinePowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/GiveMeGoldMineNShinePowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=GiveMeGoldMineNShinePowerComboV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=GiveMeGoldMineNShinePowerComboV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GiveMeGoldMineNShinePowerComboV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/GiveMeGoldMineNShinePowerComboV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GiveMeGoldMineNShinePowerComboDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GiveMeGoldMineNShinePowerComboV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GiveMeGoldMineNShinePowerComboV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GiveMeGoldMineNShinePowerCombo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GiveMeGoldMineNShinePowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GiveMeGoldMineNShinePowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GiveMeGoldMineNShinePowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GiveMeGoldMineNShinePowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/GiveMeGoldMineNShinePowerComboV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GiveMeGoldMineNShinePowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GiveMeGoldMineNShinePowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/GiveMeGoldMineNShinePowerComboV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GiveMeGoldMineNShinePowerComboV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GiveMeGoldMineNShinePowerComboV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GiveMeGoldMineNShinePowerComboV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GiveMeGoldMineNShinePowerComboV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GiveMeGoldMineNShinePowerComboV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GiveMeGoldMineNShinePowerComboV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GiveMeGoldMineNShinePowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GiveMeGoldMineNShinePowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GiveMeGoldMineNShinePowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GiveMeGoldMineNShinePowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GiveMeGoldMineNShinePowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GiveMeGoldMineNShinePowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GiveMeGoldMineNShinePowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GiveMeGoldMineNShinePowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GiveMeGoldMineNShinePowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GiveMeGoldMineNShinePowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GiveMeGoldMineNShinePowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GiveMeGoldMineNShinePowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GiveMeGoldMineNShinePowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=GiveMeGoldMineNShinePowerComboV92Desktop&playmode=demo&ul=en
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=GiveMeGoldMineNShinePowerComboV94Desktop&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=GiveMeGoldMineNShinePowerComboDesktop&playmode=demo&ul=en
+
+[Dotcom] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=GiveMeGoldMineNShinePowerComboV92&playmode=demo&ul=en
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=GiveMeGoldMineNShinePowerComboV94&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=GiveMeGoldMineNShinePowerCombo&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GiveMeGoldMineNShinePowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GiveMeGoldMineNShinePowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GiveMeGoldMineNShinePowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GiveMeGoldMineNShinePowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GiveMeGoldMineNShinePowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GiveMeGoldMineNShinePowerCombo_PlayNext_1_0_0_85&gamepath=/mgs/GiveMeGoldMineNShinePowerCombo
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GiveMeGoldMineNShinePowerComboV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GiveMeGoldMineNShinePowerComboV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GiveMeGoldMineNShinePowerComboV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GiveMeGoldMineNShinePowerComboV94&playmode=demo&ul=en
+

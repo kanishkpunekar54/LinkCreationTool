@@ -1,0 +1,10 @@
+CRQ Number: CRQ1807852
+Target URL: https://www.gametechnology.io/games/199/projects/23929/test/signoff 
+Game Name: FishParty
+Client Name: ComponentStore
+Release Version: 1.11.12.716
+Variant Selected: V96
+
+Market to Variant Map:
+Asia -> V96
+USA - Sweepstakes -> V96

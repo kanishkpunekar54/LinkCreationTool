@@ -1,0 +1,138 @@
+CRQ Number: CRQ1798685
+Target URL: https://www.gametechnology.io/games/3770-classicroulette/projects/21852/test/signoff
+Game Name: ClassicRouletteV97
+Client Name: Kaiju
+Release Version: 1.0.3.781
+Variant Selected: V97
+
+Market to Variant Map:
+Alderney -> V97
+Argentina - Buenos Aires City -> V97
+Argentina - Buenos Aires Province -> V97
+Argentina - Cordoba Province -> V97
+Belgium -> V97
+Brazil -> V97
+Bulgaria -> V97
+Colombia -> V97
+Croatia -> V97
+Denmark -> V97
+Dotcom -> V97
+Gibraltar -> V97
+Greece -> V97
+Hungary -> V97
+Isle of Man -> V97
+Italy -> V97
+Latvia -> V97
+Malta -> V97
+Netherlands -> V97
+Ontario -> V97
+Peru -> V97
+Romania -> V97
+Spain -> V97
+Sweden -> V97
+Switzerland -> V97
+United Kingdom -> V97
+
+Normal CRQ Market Links:
+[Sweden] (V97) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ClassicRouletteV97Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V97) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ClassicRouletteV97/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ClassicRouletteV97Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Belgium] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ClassicRouletteV97/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Croatia] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ClassicRouletteV97Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ClassicRouletteV97/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ClassicRouletteV97Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ClassicRouletteV97/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V97) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V97) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ClassicRouletteV97Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ClassicRouletteV97&playmode=demo&ul=en
+
+[Denmark] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ClassicRouletteV97Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ClassicRouletteV97/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ClassicRouletteV97Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ClassicRouletteV97/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V97) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ClassicRouletteV97Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V97) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ClassicRouletteV97/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Malta] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V97) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ClassicRouletteV97Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V97) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ClassicRouletteV97/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ClassicRouletteV97Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ClassicRouletteV97/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ClassicRouletteV97Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ClassicRouletteV97/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V97) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ClassicRouletteV97Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V97) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ClassicRouletteV97/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V97) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ClassicRouletteV97Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V97) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ClassicRouletteV97/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Latvia] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=gamenameDekstop&playmode=demo&ul=en
+
+[Latvia] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=21699&gameid=ClassicRouletteV97&playmode=demo&ul=en
+
+[Hungary] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuathum/ClassicRouletteV97Desktop/en?casinoid=29422&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Hungary] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/qfblockingtemplateuathum/ClassicRouletteV97/en?casinoid=29422&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=ClassicRouletteV97Desktop&playmode=demo&ul=en
+
+[Dotcom] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=ClassicRouletteV97&playmode=demo&ul=en
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ClassicRouletteV97Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ClassicRouletteV97/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ClassicRouletteV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ClassicRouletteV97/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Brazil] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ClassicRouletteV97Desktop&playmode=demo&ul=en
+
+[Brazil] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ClassicRouletteV97&playmode=demo&ul=en
+

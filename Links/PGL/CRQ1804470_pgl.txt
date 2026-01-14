@@ -1,0 +1,138 @@
+CRQ Number: CRQ1804470
+Target URL:  https://www.gametechnology.io/games/3756/projects/23395/test/signoff 
+Game Name: MultiHandBlackjackTenSideBets
+Client Name: Lightswitch
+Release Version: 1.0.2.67
+Variant Selected: V99
+
+Market to Variant Map:
+Alderney -> V99
+Argentina - Buenos Aires City -> V99
+Argentina - Buenos Aires Province -> V99
+Argentina - Cordoba Province -> V99
+Asia -> V99
+Belgium -> V99
+Brazil -> V99
+Bulgaria -> V99
+Connecticut -> V99
+Croatia -> V99
+Denmark -> V99
+Dotcom -> V99
+Gibraltar -> V99
+Greece -> V99
+Isle of Man -> V99
+Italy -> V99
+Malta -> V99
+Michigan -> V99
+Netherlands -> V99
+New Jersey -> V99
+Ontario -> V99
+Pennsylvania -> V99
+Peru -> V99
+Romania -> V99
+Spain -> V99
+Sweden -> V99
+Switzerland -> V99
+United Kingdom -> V99
+
+Normal CRQ Market Links:
+[Sweden] (V99) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V99) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MultiHandBlackjackTenSideBetsV99/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Belgium] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MultiHandBlackjackTenSideBetsV99/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Croatia] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/MultiHandBlackjackTenSideBetsV99/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MultiHandBlackjackTenSideBetsV99/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V99) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Bulgaria] (V99) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Argentina - Buenos Aires City] (V99) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MultiHandBlackjackTenSideBetsV99Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V99) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MultiHandBlackjackTenSideBetsV99&playmode=demo&ul=en
+
+[Denmark] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/MultiHandBlackjackTenSideBetsV99/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/MultiHandBlackjackTenSideBetsV99/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V99) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Ontario] (V99) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MultiHandBlackjackTenSideBetsV99/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Malta] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Malta] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Greece] (V99) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Greece] (V99) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MultiHandBlackjackTenSideBetsV99/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MultiHandBlackjackTenSideBetsV99/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Argentina - Buenos Aires Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MultiHandBlackjackTenSideBetsV99/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V99) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V99) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MultiHandBlackjackTenSideBetsV99/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V99) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V99) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MultiHandBlackjackTenSideBetsV99/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V99) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V99) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V99) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=MultiHandBlackjackTenSideBetsV99Desktop&playmode=demo&ul=en
+
+[Peru] (V99) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=MultiHandBlackjackTenSideBetsV99&playmode=demo&ul=en
+
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MultiHandBlackjackTenSideBetsV99Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MultiHandBlackjackTenSideBetsV99/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MultiHandBlackjackTenSideBetsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MultiHandBlackjackTenSideBetsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MultiHandBlackjackTenSideBets_Lightswitch_1_0_2_67&gamepath=/mgs/MultiHandBlackjackTenSideBets
+
+[Brazil] (V99) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MultiHandBlackjackTenSideBetsV99Desktop&playmode=demo&ul=en
+
+[Brazil] (V99) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MultiHandBlackjackTenSideBetsV99&playmode=demo&ul=en
+

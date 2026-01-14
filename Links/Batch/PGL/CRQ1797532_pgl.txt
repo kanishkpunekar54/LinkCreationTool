@@ -1,0 +1,183 @@
+CRQ Number: CRQ1797532
+Target URL: https://www.gametechnology.io/games/3307/projects/22083/test/signoff 
+Game Name: GoldBoom
+Client Name: Hammersmith
+Release Version: 1.2.2.82
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Asia -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94, V96
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Denmark -> V94, V96
+Greece -> V94
+Portugal -> V94
+Romania -> V94
+USA - Sweepstakes -> V94, V96
+Bulgaria -> V96
+Croatia -> V96
+Switzerland -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GoldBoomV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GoldBoomV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GoldBoomDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GoldBoomV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GoldBoomV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/GoldBoom/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GoldBoomV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GoldBoomV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GoldBoomDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GoldBoomV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GoldBoomV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GoldBoom/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/GoldBoomDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/GoldBoom/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/GoldBoomV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/GoldBoomV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/GoldBoomV94Desktop/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/GoldBoomV94/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/GoldBoomDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/GoldBoom/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=GoldBoomV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=GoldBoomV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GoldBoomV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GoldBoomDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GoldBoomV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GoldBoom/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/GoldBoomV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/GoldBoomV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GoldBoomV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GoldBoomV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GoldBoomDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GoldBoomV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GoldBoomV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GoldBoom/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GoldBoomDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GoldBoomV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GoldBoomV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GoldBoom/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/GoldBoomV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/GoldBoomV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GoldBoomV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GoldBoomV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/GoldBoomV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/GoldBoomV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GoldBoomV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GoldBoomV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GoldBoomDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GoldBoomV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GoldBoomV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GoldBoom/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GoldBoomV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GoldBoomV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GoldBoomDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GoldBoomV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GoldBoomV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GoldBoom/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GoldBoomDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GoldBoomV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GoldBoomV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GoldBoom/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GoldBoomDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GoldBoomV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GoldBoomV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GoldBoom/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GoldBoomDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GoldBoomDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GoldBoomV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GoldBoomV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GoldBoom/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/GoldBoomV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GoldBoomV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/GoldBoomV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GoldBoomV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/GoldBoomV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GoldBoom_Hammersmith_1_2_2_82&gamepath=/mgs/GoldBoom
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GoldBoomV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GoldBoomV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GoldBoomV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=GoldBoomV94&playmode=demo&ul=en
+

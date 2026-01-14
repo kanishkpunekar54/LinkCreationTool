@@ -1,0 +1,190 @@
+CRQ Number: CRQ1809579
+Target URL: https://www.gametechnology.io/games/4163/projects/24059/test/signoff
+Game Name: WackyPandaPowerCombo
+Client Name: Hammersmith
+Release Version: 1.0.0.147
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Peru -> V94
+Portugal -> V94
+Romania -> V94
+Switzerland -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/WackyPandaPowerComboV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/WackyPandaPowerComboV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/WackyPandaPowerComboV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/WackyPandaPowerComboV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WackyPandaPowerComboV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WackyPandaPowerComboV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WackyPandaPowerComboDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WackyPandaPowerComboV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WackyPandaPowerComboV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WackyPandaPowerCombo/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WackyPandaPowerComboV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WackyPandaPowerComboV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WackyPandaPowerComboV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WackyPandaPowerComboV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/WackyPandaPowerComboV94Desktop/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/WackyPandaPowerComboV94/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WackyPandaPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WackyPandaPowerComboV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WackyPandaPowerComboV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/WackyPandaPowerComboV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/WackyPandaPowerComboV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WackyPandaPowerComboV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WackyPandaPowerComboV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WackyPandaPowerComboV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WackyPandaPowerComboV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WackyPandaPowerComboDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WackyPandaPowerComboV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WackyPandaPowerComboV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WackyPandaPowerCombo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WackyPandaPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WackyPandaPowerComboV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WackyPandaPowerComboV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WackyPandaPowerComboV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WackyPandaPowerComboV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WackyPandaPowerComboV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WackyPandaPowerComboV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WackyPandaPowerComboV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WackyPandaPowerComboV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WackyPandaPowerComboV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WackyPandaPowerComboV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WackyPandaPowerComboV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WackyPandaPowerComboV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WackyPandaPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WackyPandaPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WackyPandaPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/WackyPandaPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/WackyPandaPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WackyPandaPowerComboV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WackyPandaPowerComboV94&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WackyPandaPowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WackyPandaPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WackyPandaPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WackyPandaPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WackyPandaPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WackyPandaPowerCombo_Hammersmith_1_0_0_147&gamepath=/mgs/WackyPandaPowerCombo
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WackyPandaPowerComboV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WackyPandaPowerComboV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WackyPandaPowerComboV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WackyPandaPowerComboV94&playmode=demo&ul=en
+

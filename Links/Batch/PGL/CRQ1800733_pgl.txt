@@ -1,0 +1,207 @@
+CRQ Number: CRQ1800733
+Target URL: https://www.gametechnology.io/games/3474/projects/22415/test/signoff
+Game Name: WhackTheBellTapNCash
+Client Name: Lume
+Release Version: 1.0.0.74
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Argentina - Buenos Aires City -> V92, V94, V96
+Argentina - Buenos Aires Province -> V92, V94, V96
+Argentina - Cordoba Province -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94, V96
+Bulgaria -> V92, V94, V96
+Connecticut -> V92, V94, V96
+Croatia -> V92, V94, V96
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Greece -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94, V96
+Malta -> V92, V94, V96
+Michigan -> V92, V94, V96
+Netherlands -> V92, V94, V96
+New Jersey -> V92, V94, V96
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94, V96
+Peru -> V92, V94, V96
+Romania -> V92, V94, V96
+Spain -> V92, V94, V96
+Switzerland -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+
+Normal CRQ Market Links:
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WhackTheBellTapNCashV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WhackTheBellTapNCashV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WhackTheBellTapNCashDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WhackTheBellTapNCashV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WhackTheBellTapNCashV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WhackTheBellTapNCash/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Croatia] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WhackTheBellTapNCashV92Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WhackTheBellTapNCashV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WhackTheBellTapNCashDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WhackTheBellTapNCashV92/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WhackTheBellTapNCashV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WhackTheBellTapNCash/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WhackTheBellTapNCashV92Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WhackTheBellTapNCashV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WhackTheBellTapNCashDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WhackTheBellTapNCashV92/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WhackTheBellTapNCashV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WhackTheBellTapNCash/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V92) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Bulgaria] (V92) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Argentina - Buenos Aires City] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WhackTheBellTapNCashV92Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WhackTheBellTapNCashV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WhackTheBellTapNCashDesktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WhackTheBellTapNCashV92&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WhackTheBellTapNCashV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WhackTheBellTapNCash&playmode=demo&ul=en
+
+[Romania] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WhackTheBellTapNCashV92Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WhackTheBellTapNCashV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WhackTheBellTapNCashDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WhackTheBellTapNCashV92/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WhackTheBellTapNCashV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WhackTheBellTapNCash/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WhackTheBellTapNCashV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WhackTheBellTapNCashV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WhackTheBellTapNCashDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WhackTheBellTapNCashV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WhackTheBellTapNCashV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WhackTheBellTapNCash/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Greece] (V92) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WhackTheBellTapNCashV92Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WhackTheBellTapNCashV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WhackTheBellTapNCashDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Greece] (V92) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WhackTheBellTapNCashV92/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WhackTheBellTapNCashV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WhackTheBellTapNCash/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCash/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Argentina - Buenos Aires Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WhackTheBellTapNCashV92Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WhackTheBellTapNCashV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WhackTheBellTapNCashDesktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V92) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WhackTheBellTapNCashV92/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WhackTheBellTapNCashV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WhackTheBellTapNCash/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WhackTheBellTapNCashV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WhackTheBellTapNCashV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WhackTheBellTapNCashDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WhackTheBellTapNCashV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WhackTheBellTapNCashV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WhackTheBellTapNCash/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WhackTheBellTapNCashV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WhackTheBellTapNCashV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WhackTheBellTapNCashDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WhackTheBellTapNCashV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WhackTheBellTapNCashV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WhackTheBellTapNCash/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WhackTheBellTapNCashV92Desktop&playmode=demo&ul=en
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WhackTheBellTapNCashV94Desktop&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WhackTheBellTapNCashDesktop&playmode=demo&ul=en
+
+[Dotcom] (V92) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WhackTheBellTapNCashV92&playmode=demo&ul=en
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WhackTheBellTapNCashV94&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WhackTheBellTapNCash&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCashV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WhackTheBellTapNCash/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WhackTheBellTapNCashV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WhackTheBellTapNCashV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WhackTheBellTapNCashDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WhackTheBellTapNCashV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WhackTheBellTapNCashV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WhackTheBellTapNCash/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=WhackTheBellTapNCash_Lume_1_0_0_74&gamepath=/mgs/WhackTheBellTapNCash
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WhackTheBellTapNCashV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WhackTheBellTapNCashV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WhackTheBellTapNCashDesktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WhackTheBellTapNCashV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WhackTheBellTapNCashV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WhackTheBellTapNCash&playmode=demo&ul=en
+

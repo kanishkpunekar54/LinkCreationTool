@@ -1,0 +1,37 @@
+CRQ Number: CRQ12345
+Target URL: https://www.gametechnology.io/games/3783-aztecinfernogolderuption/projects/21655/test/signoff
+Game Name: AztecInfernoGoldEruption
+Client Name: PlayNext
+Release Version: 1.0.0.392
+Variant Selected: V96, V94
+
+Market to Variant Map:
+Alderney -> V96, V94
+Asia -> V96, V94
+Belgium -> V96, V94
+Bulgaria -> V96
+Dotcom -> V96, V94
+Gibraltar -> V96, V94
+Isle of Man -> V96, V94
+Malta -> V96, V94
+Ontario -> V96, V94
+United Kingdom -> V96, V94
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Brazil -> V94
+Connecticut -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Italy -> V94
+Michigan -> V94
+Netherlands -> V94
+New Jersey -> V94
+Pennsylvania -> V94
+Peru -> V94
+Portugal -> V94
+Romania -> V94
+Spain -> V94
+Sweden -> V94
+Switzerland -> V94

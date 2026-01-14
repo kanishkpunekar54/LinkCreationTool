@@ -1,0 +1,80 @@
+CRQ Number: CRQ1784348
+Target URL: https://www.gametechnology.io/games/3783-aztecinfernogolderuption/projects/21655/test/signoff
+Game Name: AztecInfernoGoldEruption
+Client Name: PlayNext
+Release Version: 1.0.0.392
+Variant Selected: V95, V96, V99
+
+Market to Variant Map:
+Alderney -> V95, V96, V99
+Asia -> V95, V96, V99
+Belgium -> V95, V96, V99
+Bulgaria -> V95, V96, V99
+Dotcom -> V95, V96, V99
+Gibraltar -> V95, V96, V99
+Isle of Man -> V95, V96, V99
+Malta -> V95, V96, V99
+Ontario -> V95, V96, V99
+United Kingdom -> V95, V96, V99
+
+Normal CRQ Market Links:
+[Belgium] (V95) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AztecInfernoGoldEruptionV95Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AztecInfernoGoldEruptionDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Belgium] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AztecInfernoGoldEruptionV99Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Belgium] (V95) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AztecInfernoGoldEruptionV95/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AztecInfernoGoldEruption/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Belgium] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AztecInfernoGoldEruptionV99/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Bulgaria] (V95) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/AztecInfernoGoldEruptionV95Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/AztecInfernoGoldEruptionDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Bulgaria] (V99) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/AztecInfernoGoldEruptionV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Bulgaria] (V95) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/AztecInfernoGoldEruptionV95/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/AztecInfernoGoldEruption/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Bulgaria] (V99) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/AztecInfernoGoldEruptionV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Ontario] (V95) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/AztecInfernoGoldEruptionV95Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/AztecInfernoGoldEruptionDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Ontario] (V99) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/AztecInfernoGoldEruptionV99Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Ontario] (V95) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/AztecInfernoGoldEruptionV95/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/AztecInfernoGoldEruption/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Ontario] (V99) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/AztecInfernoGoldEruptionV99/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Malta] (V95) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AztecInfernoGoldEruptionV95Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AztecInfernoGoldEruptionDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Malta] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AztecInfernoGoldEruptionV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Malta] (V95) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/AztecInfernoGoldEruptionV95/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/AztecInfernoGoldEruption/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Malta] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/AztecInfernoGoldEruptionV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[United Kingdom] (V95) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/AztecInfernoGoldEruptionV95Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/AztecInfernoGoldEruptionDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/AztecInfernoGoldEruptionV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V95) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/AztecInfernoGoldEruptionV95/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/AztecInfernoGoldEruption/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/AztecInfernoGoldEruptionV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V95) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/AztecInfernoGoldEruptionV95Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/AztecInfernoGoldEruptionDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/AztecInfernoGoldEruptionV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V95) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/AztecInfernoGoldEruptionV95/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/AztecInfernoGoldEruption/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/AztecInfernoGoldEruptionV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V95) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AztecInfernoGoldEruptionV95Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AztecInfernoGoldEruptionDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AztecInfernoGoldEruptionV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&gamepath=/mgs/AztecInfernoGoldEruption
+
+[Dotcom] (V95) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/AztecInfernoGoldEruptionV95Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/AztecInfernoGoldEruptionDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/AztecInfernoGoldEruptionV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V95) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/AztecInfernoGoldEruptionV95/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/AztecInfernoGoldEruption/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/AztecInfernoGoldEruptionV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AztecInfernoGoldEruption_PlayNext_1_0_0_392&ignoreGameSettingErrors=true&testing=true
+

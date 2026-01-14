@@ -1,0 +1,179 @@
+CRQ Number: CRQ1805289
+Target URL:   https://www.gametechnology.io/games/4088/projects/23652/test/signoff 
+Game Name: MagnificentPowerHerasCrown
+Client Name: Lume
+Release Version: 1.0.0.15
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Romania -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MagnificentPowerHerasCrownV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MagnificentPowerHerasCrownV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MagnificentPowerHerasCrownV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MagnificentPowerHerasCrownV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MagnificentPowerHerasCrownV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MagnificentPowerHerasCrownV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MagnificentPowerHerasCrownDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MagnificentPowerHerasCrownV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MagnificentPowerHerasCrownV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MagnificentPowerHerasCrown/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/MagnificentPowerHerasCrownV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/MagnificentPowerHerasCrownV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MagnificentPowerHerasCrownV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MagnificentPowerHerasCrownV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/MagnificentPowerHerasCrown/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MagnificentPowerHerasCrownV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MagnificentPowerHerasCrownV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/MagnificentPowerHerasCrownV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/MagnificentPowerHerasCrownV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/MagnificentPowerHerasCrownV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/MagnificentPowerHerasCrownV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MagnificentPowerHerasCrownV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MagnificentPowerHerasCrownV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MagnificentPowerHerasCrownDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MagnificentPowerHerasCrownV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MagnificentPowerHerasCrownV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MagnificentPowerHerasCrown/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MagnificentPowerHerasCrown/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MagnificentPowerHerasCrownV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MagnificentPowerHerasCrownV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MagnificentPowerHerasCrownV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MagnificentPowerHerasCrownV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MagnificentPowerHerasCrownV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MagnificentPowerHerasCrownV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MagnificentPowerHerasCrownV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MagnificentPowerHerasCrownV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MagnificentPowerHerasCrownV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MagnificentPowerHerasCrownV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MagnificentPowerHerasCrownV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MagnificentPowerHerasCrownV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/MagnificentPowerHerasCrown/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MagnificentPowerHerasCrown/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/MagnificentPowerHerasCrown/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/MagnificentPowerHerasCrownDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/MagnificentPowerHerasCrown/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MagnificentPowerHerasCrownV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MagnificentPowerHerasCrownV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MagnificentPowerHerasCrownV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MagnificentPowerHerasCrownV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MagnificentPowerHerasCrownV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=MagnificentPowerHerasCrown_Lume_1_0_0_15&gamepath=/mgs/MagnificentPowerHerasCrown
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MagnificentPowerHerasCrownV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MagnificentPowerHerasCrownV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MagnificentPowerHerasCrownV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MagnificentPowerHerasCrownV94&playmode=demo&ul=en
+

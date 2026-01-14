@@ -1,0 +1,207 @@
+CRQ Number: CRQ1798102
+Target URL: https://www.gametechnology.io/games/3912-hilo/projects/21315/test/signoff
+Game Name: Hilo
+Client Name: Lume
+Release Version: 1.8.0.60
+Variant Selected: V94, V96, V98
+
+Market to Variant Map:
+Alderney -> V94, V96, V98
+Argentina - Buenos Aires City -> V94, V96, V98
+Argentina - Buenos Aires Province -> V94, V96, V98
+Argentina - Cordoba Province -> V94, V96, V98
+Belgium -> V94, V96, V98
+Brazil -> V94, V96, V98
+Bulgaria -> V94, V96, V98
+Connecticut -> V94, V96, V98
+Croatia -> V94, V96, V98
+Dotcom -> V94, V96, V98
+Gibraltar -> V94, V96, V98
+Greece -> V94, V96, V98
+Isle of Man -> V94, V96, V98
+Italy -> V94, V96, V98
+Malta -> V94, V96, V98
+Michigan -> V94, V96, V98
+Netherlands -> V94, V96, V98
+New Jersey -> V94, V96, V98
+Ontario -> V94, V96, V98
+Pennsylvania -> V94, V96, V98
+Peru -> V94, V96, V98
+Romania -> V94, V96, V98
+Spain -> V94, V96, V98
+Switzerland -> V94, V96, V98
+United Kingdom -> V94, V96, V98
+
+Normal CRQ Market Links:
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/HiloV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/HiloDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/HiloV98Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/HiloV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/Hilo/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/HiloV98/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/HiloV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/HiloDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/HiloV98Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/HiloV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/Hilo/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/HiloV98/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/HiloV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/HiloDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/HiloV98Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/HiloV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/Hilo/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/HiloV98/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=HiloV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=HiloDesktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=HiloV98Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=HiloV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=Hilo&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=HiloV98&playmode=demo&ul=en
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/HiloV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/HiloDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/HiloV98Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/HiloV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/Hilo/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/HiloV98/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/HiloV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/HiloDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/HiloV98Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/HiloV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/Hilo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/HiloV98/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/HiloV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/HiloDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/HiloV98Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/HiloV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/Hilo/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/HiloV98/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Hilo/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/HiloV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/HiloDesktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/HiloV98Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/HiloV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/Hilo/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/HiloV98/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/HiloV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/HiloDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/HiloV98Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/HiloV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/Hilo/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/HiloV98/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/HiloV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/HiloDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/HiloV98Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/HiloV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/Hilo/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/HiloV98/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=HiloV94Desktop&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=HiloDesktop&playmode=demo&ul=en
+[Dotcom] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=HiloV98Desktop&playmode=demo&ul=en
+
+[Dotcom] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=HiloV94&playmode=demo&ul=en
+[Dotcom] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=Hilo&playmode=demo&ul=en
+[Dotcom] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=HiloV98&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Hilo/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/HiloV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/HiloV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/HiloDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/HiloV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/HiloV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Hilo/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/HiloV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Hilo_Lume_1_8_0_60&gamepath=/mgs/Hilo
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=HiloV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=HiloDesktop&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=HiloV98Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=HiloV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=Hilo&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=HiloV98&playmode=demo&ul=en
+

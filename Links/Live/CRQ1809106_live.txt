@@ -1,0 +1,120 @@
+CRQ Number: CRQ1809106
+Target URL: https://www.gametechnology.io/games/3820-kingsofcrystalsiikingmillions/projects/23927/test/signoff
+Game Name: KingsOfCrystalsIIKingMillions
+Client Name: PlayNext
+Release Version: 1.0.0.60
+Variant Selected: V90
+
+Market to Variant Map:
+Alderney -> V90
+Brazil -> V90
+Denmark -> V90
+Dotcom -> V90
+Gibraltar -> V90
+Isle of Man -> V90
+Malta -> V90
+Netherlands -> V90
+Ontario -> V90
+Peru -> V90
+Romania -> V90
+Spain -> V90
+Sweden -> V90
+United Kingdom -> V90
+
+Normal CRQ Market Links:
+[Sweden] (V90) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/KingsOfCrystalsIIKingMillionsV90Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V90) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/KingsOfCrystalsIIKingMillionsV90/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Denmark] (V90) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/KingsOfCrystalsIIKingMillionsV90Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V90) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/KingsOfCrystalsIIKingMillionsV90/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V90) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KingsOfCrystalsIIKingMillionsV90Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V90) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KingsOfCrystalsIIKingMillionsV90/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V90) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V90) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/KingsOfCrystalsIIKingMillionsV90/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Malta] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Spain] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Netherlands] (V90) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KingsOfCrystalsIIKingMillionsV90Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V90) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KingsOfCrystalsIIKingMillionsV90/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V90) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KingsOfCrystalsIIKingMillionsV90Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V90) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KingsOfCrystalsIIKingMillionsV90/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V90) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KingsOfCrystalsIIKingMillionsV90Desktop&playmode=demo&ul=en
+
+[Peru] (V90) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KingsOfCrystalsIIKingMillionsV90&playmode=demo&ul=en
+
+[Spain] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Brazil] (V90) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KingsOfCrystalsIIKingMillionsV90Desktop&playmode=demo&ul=en
+
+[Brazil] (V90) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KingsOfCrystalsIIKingMillionsV90&playmode=demo&ul=en
+
+
+===== VERSION VALIDATION SUMMARY =====
+✅ Denmark: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Ontario: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Romania: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Sweden: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ United Kingdom: 4 links | Passed: 2 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/KingsOfCrystalsIIKingMillionsV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/KingsOfCrystalsIIKingMillionsV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+✅ Malta: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Netherlands: 4 links | Passed: 2 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KingsOfCrystalsIIKingMillionsV90Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KingsOfCrystalsIIKingMillionsV90/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ Peru: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KingsOfCrystalsIIKingMillionsV90Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KingsOfCrystalsIIKingMillionsV90&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+❌ Brazil: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KingsOfCrystalsIIKingMillionsV90Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KingsOfCrystalsIIKingMillionsV90&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+✅ Spain: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Dotcom: 6 links | Passed: 6 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------

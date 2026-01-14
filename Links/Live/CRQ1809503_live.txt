@@ -1,0 +1,222 @@
+CRQ Number: CRQ1809503
+Target URL: https://www.gametechnology.io/games/3958/projects/22241/test/signoff 
+Game Name: UnusualSuspectsUltraLinkWin
+Client Name: NorthernLightsGaming
+Release Version: 1.0.11.25
+Variant Selected: V86, V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V86, V94, V96
+Germany -> V86
+Gibraltar -> V86, V94, V96
+Isle of Man -> V86, V94, V96
+United Kingdom -> V86, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Belgium -> V94, V96
+Brazil -> V94
+Connecticut -> V94
+Croatia -> V94
+Denmark -> V94
+Dotcom -> V94, V96
+Greece -> V94
+Italy -> V94
+Malta -> V94, V96
+Michigan -> V94
+Netherlands -> V94
+New Jersey -> V94
+Ontario -> V94, V96
+Pennsylvania -> V94
+Peru -> V94
+Portugal -> V94
+Romania -> V94
+Spain -> V94
+Sweden -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/UnusualSuspectsUltraLinkWinV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/UnusualSuspectsUltraLinkWinDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/UnusualSuspectsUltraLinkWinV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/UnusualSuspectsUltraLinkWin/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/UnusualSuspectsUltraLinkWinV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/UnusualSuspectsUltraLinkWinV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/UnusualSuspectsUltraLinkWinV94/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/UnusualSuspectsUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=UnusualSuspectsUltraLinkWinV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=UnusualSuspectsUltraLinkWinV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/UnusualSuspectsUltraLinkWinV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/UnusualSuspectsUltraLinkWinV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/UnusualSuspectsUltraLinkWinDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/UnusualSuspectsUltraLinkWinV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/UnusualSuspectsUltraLinkWin/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/UnusualSuspectsUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/UnusualSuspectsUltraLinkWinV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/UnusualSuspectsUltraLinkWinV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/UnusualSuspectsUltraLinkWinV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/UnusualSuspectsUltraLinkWinV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/UnusualSuspectsUltraLinkWinV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V86) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/UnusualSuspectsUltraLinkWinV86Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V86) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/UnusualSuspectsUltraLinkWinV86/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/UnusualSuspectsUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V86) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/UnusualSuspectsUltraLinkWinV86Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V86) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/UnusualSuspectsUltraLinkWinV86/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/UnusualSuspectsUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/UnusualSuspectsUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/UnusualSuspectsUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/UnusualSuspectsUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=UnusualSuspectsUltraLinkWinV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=UnusualSuspectsUltraLinkWinV94&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/UnusualSuspectsUltraLinkWinV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=UnusualSuspectsUltraLinkWinV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=UnusualSuspectsUltraLinkWinV94&playmode=demo&ul=en
+
+
+===== VERSION VALIDATION SUMMARY =====
+✅ Croatia: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Sweden: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Argentina - Cordoba Province: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Argentina - Buenos Aires City: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=UnusualSuspectsUltraLinkWinV94Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=UnusualSuspectsUltraLinkWinV94&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+✅ Belgium: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Portugal: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Bulgaria: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Denmark: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Romania: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Greece: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Malta: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Ontario: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Spain: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Argentina - Buenos Aires Province: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Italy: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Peru: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=UnusualSuspectsUltraLinkWinV94Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=UnusualSuspectsUltraLinkWinV94&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+❌ Netherlands: 4 links | Passed: 2 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/UnusualSuspectsUltraLinkWinV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/UnusualSuspectsUltraLinkWinV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ Brazil: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=UnusualSuspectsUltraLinkWinV94Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=UnusualSuspectsUltraLinkWinV94&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+❌ United Kingdom: 12 links | Passed: 6 | Failed: 6 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/UnusualSuspectsUltraLinkWinV86Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/UnusualSuspectsUltraLinkWinV86/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/UnusualSuspectsUltraLinkWinV86Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/UnusualSuspectsUltraLinkWinV86/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ Dotcom: 12 links | Passed: 8 | Failed: 4 -> FAILED
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/UnusualSuspectsUltraLinkWinV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/UnusualSuspectsUltraLinkWinV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------

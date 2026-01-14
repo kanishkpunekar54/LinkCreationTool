@@ -1,0 +1,137 @@
+CRQ Number: CRQactionboostgladiator1799953
+Target URL: https://www.gametechnology.io/games/2807-actionboostgladiator/projects/21273/test/signoff
+Game Name: ActionBoostGladiator
+Client Name: Lume
+Release Version: 1.0.21.27
+Variant Selected: V94, V96
+
+Market to Variant Map:
+Alderney -> V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Belgium -> V94, V96
+Brazil -> V94
+Denmark -> V94, V96
+Dotcom -> V94, V96
+Gibraltar -> V94, V96
+Greece -> V94
+Isle of Man -> V94, V96
+Italy -> V94
+Malta -> V94, V96
+Netherlands -> V94, V96
+Ontario -> V94, V96
+Peru -> V94
+Romania -> V94
+Spain -> V94
+Sweden -> V94, V96
+United Kingdom -> V94, V96
+Croatia -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ActionBoostGladiatorV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ActionBoostGladiatorDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ActionBoostGladiatorV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ActionBoostGladiator/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostGladiatorV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostGladiatorDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostGladiatorV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostGladiator/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ActionBoostGladiatorDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ActionBoostGladiator/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ActionBoostGladiatorV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ActionBoostGladiatorV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ActionBoostGladiatorV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ActionBoostGladiatorDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ActionBoostGladiatorV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ActionBoostGladiator/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ActionBoostGladiatorV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ActionBoostGladiatorV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ActionBoostGladiatorV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ActionBoostGladiatorDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ActionBoostGladiatorV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ActionBoostGladiator/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ActionBoostGladiatorDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ActionBoostGladiatorV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ActionBoostGladiator/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ActionBoostGladiatorV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ActionBoostGladiatorV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ActionBoostGladiatorV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostGladiatorV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostGladiatorV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ActionBoostGladiatorV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ActionBoostGladiatorV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ActionBoostGladiatorV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ActionBoostGladiatorDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ActionBoostGladiatorV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ActionBoostGladiator/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ActionBoostGladiatorV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ActionBoostGladiatorDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ActionBoostGladiatorV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ActionBoostGladiator/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ActionBoostGladiatorDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ActionBoostGladiatorV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ActionBoostGladiator/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ActionBoostGladiatorDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ActionBoostGladiatorV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ActionBoostGladiator/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ActionBoostGladiatorDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ActionBoostGladiatorDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ActionBoostGladiatorV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ActionBoostGladiator/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=ActionBoostGladiatorV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=ActionBoostGladiatorV94&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostGladiatorV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostGladiatorV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ActionBoostGladiatorV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ActionBoostGladiatorV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostGladiator_Lume_1_0_21_27&gamepath=/mgs/ActionBoostGladiator
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ActionBoostGladiatorV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ActionBoostGladiatorV94&playmode=demo&ul=en
+

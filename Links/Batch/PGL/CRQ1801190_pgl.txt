@@ -1,0 +1,179 @@
+CRQ Number: CRQ1801190
+Target URL:  https://www.gametechnology.io/games/3225/projects/21256/test/signoff 
+Game Name: DevilsHotPots
+Client Name: Foxium
+Release Version: 1.0.10.13
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Asia -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94, V96
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94, V96
+Greece -> V94
+Peru -> V94
+Romania -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/DevilsHotPotsV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/DevilsHotPotsV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/DevilsHotPotsDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/DevilsHotPotsV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/DevilsHotPotsV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/DevilsHotPots/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DevilsHotPotsV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DevilsHotPotsV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DevilsHotPotsDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DevilsHotPotsV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DevilsHotPotsV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DevilsHotPots/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/DevilsHotPotsV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/DevilsHotPotsV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/DevilsHotPotsV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/DevilsHotPotsV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/DevilsHotPotsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/DevilsHotPots/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=DevilsHotPotsV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=DevilsHotPotsV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/DevilsHotPotsV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/DevilsHotPotsDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/DevilsHotPotsV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/DevilsHotPots/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/DevilsHotPotsV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/DevilsHotPotsV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/DevilsHotPotsV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/DevilsHotPotsV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/DevilsHotPotsDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/DevilsHotPotsV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/DevilsHotPotsV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/DevilsHotPots/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DevilsHotPotsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/DevilsHotPotsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/DevilsHotPotsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/DevilsHotPots/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/DevilsHotPotsV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/DevilsHotPotsV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/DevilsHotPotsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/DevilsHotPotsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/DevilsHotPotsV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/DevilsHotPotsV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/DevilsHotPotsV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/DevilsHotPotsV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/DevilsHotPotsV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/DevilsHotPotsV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/DevilsHotPotsV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/DevilsHotPotsV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/DevilsHotPotsV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/DevilsHotPotsV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/DevilsHotPotsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/DevilsHotPotsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/DevilsHotPotsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/DevilsHotPots/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/DevilsHotPotsDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/DevilsHotPotsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/DevilsHotPotsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/DevilsHotPots/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DevilsHotPotsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/DevilsHotPotsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/DevilsHotPotsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/DevilsHotPotsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/DevilsHotPots/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=DevilsHotPotsV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=DevilsHotPotsV94&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/DevilsHotPotsV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/DevilsHotPotsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/DevilsHotPotsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/DevilsHotPotsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/DevilsHotPotsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DevilsHotPots_Foxium_1_0_10_13&gamepath=/mgs/DevilsHotPots
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DevilsHotPotsV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DevilsHotPotsV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DevilsHotPotsDesktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DevilsHotPotsV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DevilsHotPotsV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DevilsHotPots&playmode=demo&ul=en
+

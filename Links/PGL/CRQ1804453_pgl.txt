@@ -1,0 +1,144 @@
+CRQ Number: CRQ1804453
+CRQ Number: CRQ1804453
+Target URL: https://www.gametechnology.io/games/4061/projects/23158/test/signoff 
+Game Name: AmazingBuilderPrometheus
+Client Name: Lume
+Release Version: 1.0.0.19
+Variant Selected: V94, V96
+
+Market to Variant Map:
+Alderney -> V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Belgium -> V94, V96
+Brazil -> V94
+Croatia -> V94
+Denmark -> V94
+Dotcom -> V94, V96
+Gibraltar -> V94, V96
+Greece -> V94
+Isle of Man -> V94, V96
+Italy -> V94
+Malta -> V94, V96
+Netherlands -> V94
+Ontario -> V94, V96
+Peru -> V94
+Romania -> V94
+Spain -> V94
+Sweden -> V94
+United Kingdom -> V94, V96
+
+Normal CRQ Market Links:
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/AmazingBuilderPrometheusV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/AmazingBuilderPrometheusV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AmazingBuilderPrometheusV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AmazingBuilderPrometheusDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AmazingBuilderPrometheusV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AmazingBuilderPrometheus/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/AmazingBuilderPrometheusV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/AmazingBuilderPrometheusV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/AmazingBuilderPrometheusV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/AmazingBuilderPrometheusV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=AmazingBuilderPrometheusV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=AmazingBuilderPrometheusV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/AmazingBuilderPrometheusV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/AmazingBuilderPrometheusV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/AmazingBuilderPrometheusV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/AmazingBuilderPrometheusV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/AmazingBuilderPrometheusV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/AmazingBuilderPrometheusDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/AmazingBuilderPrometheusV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/AmazingBuilderPrometheus/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/AmazingBuilderPrometheus/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/AmazingBuilderPrometheusV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/AmazingBuilderPrometheusV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AmazingBuilderPrometheusV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AmazingBuilderPrometheusV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/AmazingBuilderPrometheusV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/AmazingBuilderPrometheusV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/AmazingBuilderPrometheusV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/AmazingBuilderPrometheusV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/AmazingBuilderPrometheusV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/AmazingBuilderPrometheusV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/AmazingBuilderPrometheus/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/AmazingBuilderPrometheus/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/AmazingBuilderPrometheus/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/AmazingBuilderPrometheusDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/AmazingBuilderPrometheus/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=AmazingBuilderPrometheusV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=AmazingBuilderPrometheusV94&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AmazingBuilderPrometheusV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AmazingBuilderPrometheusV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/AmazingBuilderPrometheusV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/AmazingBuilderPrometheusV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AmazingBuilderPrometheus_Lume_1_0_0_19&gamepath=/mgs/AmazingBuilderPrometheus
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=AmazingBuilderPrometheusV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=AmazingBuilderPrometheusV94&playmode=demo&ul=en
+

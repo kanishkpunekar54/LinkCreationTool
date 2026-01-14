@@ -1,0 +1,208 @@
+CRQ Number: CRQ1784348_Test1
+Target URL: https://www.gametechnology.io/games/3726-bullsvsbears/projects/20156/test/signoff
+Game Name: BullsVsBears
+Client Name: NitroFox
+Release Version: 1.0.17.14
+Variant Selected: V97, V98, V99
+
+Market to Variant Map:
+Alderney -> V97, V98, V99
+Argentina - Buenos Aires City -> V97, V98, V99
+Argentina - Buenos Aires Province -> V97, V98, V99
+Argentina - Cordoba Province -> V97, V98, V99
+Asia -> V97, V98, V99
+Belgium -> V97, V98, V99
+Brazil -> V97, V98, V99
+Bulgaria -> V97, V98, V99
+Connecticut -> V97, V98, V99
+Croatia -> V97, V98, V99
+Dotcom -> V97, V98, V99
+Gibraltar -> V97, V98, V99
+Greece -> V97, V98, V99
+Isle of Man -> V97, V98, V99
+Italy -> V97, V98, V99
+Malta -> V97, V98, V99
+Michigan -> V97, V98, V99
+Netherlands -> V97, V98, V99
+New Jersey -> V97, V98, V99
+Ontario -> V97, V98, V99
+Pennsylvania -> V97, V98, V99
+Peru -> V97, V98, V99
+Romania -> V97, V98, V99
+Spain -> V97, V98, V99
+Switzerland -> V97, V98, V99
+United Kingdom -> V97, V98, V99
+
+Normal CRQ Market Links:
+[Belgium] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BullsVsBearsV97Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BullsVsBearsV98Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Belgium] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BullsVsBearsV99Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Belgium] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BullsVsBearsV97/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BullsVsBearsV98/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Belgium] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BullsVsBearsV99/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Croatia] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/BullsVsBearsV97Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/BullsVsBearsV98Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/BullsVsBearsV99Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/BullsVsBearsV97/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/BullsVsBearsV98/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/BullsVsBearsV99/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/BullsVsBearsV97Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/BullsVsBearsV98Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/BullsVsBearsV99Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/BullsVsBearsV97/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/BullsVsBearsV98/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/BullsVsBearsV99/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V97) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Bulgaria] (V99) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Bulgaria] (V97) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Bulgaria] (V99) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Argentina - Buenos Aires City] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=BullsVsBearsV97Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=BullsVsBearsV98Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V99) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=BullsVsBearsV99Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=BullsVsBearsV97&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=BullsVsBearsV98&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V99) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=BullsVsBearsV99&playmode=demo&ul=en
+
+[Romania] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/BullsVsBearsV97Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/BullsVsBearsV98Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/BullsVsBearsV99Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/BullsVsBearsV97/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/BullsVsBearsV98/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V99) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/BullsVsBearsV99/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V97) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/BullsVsBearsV97Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/BullsVsBearsV98Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Ontario] (V99) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/BullsVsBearsV99Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Ontario] (V97) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/BullsVsBearsV97/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/BullsVsBearsV98/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Ontario] (V99) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/BullsVsBearsV99/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Malta] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Malta] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Malta] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Malta] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Greece] (V97) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/BullsVsBearsV97Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/BullsVsBearsV98Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Greece] (V99) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/BullsVsBearsV99Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Greece] (V97) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/BullsVsBearsV97/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/BullsVsBearsV98/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Greece] (V99) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/BullsVsBearsV99/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV97Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV99Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV97/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV99/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Argentina - Buenos Aires Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/BullsVsBearsV97Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/BullsVsBearsV98Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/BullsVsBearsV99Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/BullsVsBearsV97/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/BullsVsBearsV98/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V99) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/BullsVsBearsV99/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V97) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/BullsVsBearsV97Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/BullsVsBearsV98Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V99) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/BullsVsBearsV99Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V97) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/BullsVsBearsV97/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/BullsVsBearsV98/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V99) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/BullsVsBearsV99/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V97) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/BullsVsBearsV97Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/BullsVsBearsV98Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V99) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/BullsVsBearsV99Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V97) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/BullsVsBearsV97/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/BullsVsBearsV98/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V99) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/BullsVsBearsV99/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V99) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V99) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V97) https://mobile32.gameassists.pe/MobileWebServices_40_PE/casino/game/launch/mgsshowcaseuatper/BullsVsBearsV97Desktop/en?logintype=VanguardSessionToken&authtoken=token
+[Peru] (V98) https://mobile32.gameassists.pe/MobileWebServices_40_PE/casino/game/launch/mgsshowcaseuatper/BullsVsBearsV98Desktop/en?logintype=VanguardSessionToken&authtoken=token
+[Peru] (V99) https://mobile32.gameassists.pe/MobileWebServices_40_PE/casino/game/launch/mgsshowcaseuatper/BullsVsBearsV99Desktop/en?logintype=VanguardSessionToken&authtoken=token
+
+[Peru] (V97) https://mobile32.gameassists.pe/MobileWebServices_40_PE/casino/game/launch/mgsshowcaseuatper/BullsVsBearsV97/en?logintype=VanguardSessionToken&authtoken=token
+[Peru] (V98) https://mobile32.gameassists.pe/MobileWebServices_40_PE/casino/game/launch/mgsshowcaseuatper/BullsVsBearsV98/en?logintype=VanguardSessionToken&authtoken=token
+[Peru] (V99) https://mobile32.gameassists.pe/MobileWebServices_40_PE/casino/game/launch/mgsshowcaseuatper/BullsVsBearsV99/en?logintype=VanguardSessionToken&authtoken=token
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV97Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV99Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV97/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Italy] (V99) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/BullsVsBearsV99/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/BullsVsBearsV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/BullsVsBearsV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/BullsVsBearsV99Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/BullsVsBearsV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/BullsVsBearsV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+[Spain] (V99) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/BullsVsBearsV99/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BullsVsBears_NitroFox_1_0_17_14&gamepath=/mgs/BullsVsBears
+
+[Brazil] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=BullsVsBearsV97Desktop&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=BullsVsBearsV98Desktop&playmode=demo&ul=en
+[Brazil] (V99) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=BullsVsBearsV99Desktop&playmode=demo&ul=en
+
+[Brazil] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=BullsVsBearsV97&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=BullsVsBearsV98&playmode=demo&ul=en
+[Brazil] (V99) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=BullsVsBearsV99&playmode=demo&ul=en
+

@@ -1,0 +1,77 @@
+CRQ Number: CRQ1800063
+Target URL:  https://www.gametechnology.io/games/3453/projects/21080/test/signoff 
+Game Name: CashBonanzaStacks
+Client Name: PKit
+Release Version: 1.0.1.3
+Variant Selected: V94
+
+Market to Variant Map:
+Alderney -> V94
+Denmark -> V94
+Dotcom -> V94
+Gibraltar -> V94
+Greece -> V94
+Isle of Man -> V94
+Italy -> V94
+Malta -> V94
+Ontario -> V94
+Romania -> V94
+Spain -> V94
+Sweden -> V94
+United Kingdom -> V94
+
+Normal CRQ Market Links:
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/CashBonanzaStacksV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/CashBonanzaStacksV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks&ignoreGameSettingErrors=true&testing=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/CashBonanzaStacksV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/CashBonanzaStacksV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/CashBonanzaStacksV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/CashBonanzaStacksV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashBonanzaStacksV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashBonanzaStacksV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashBonanzaStacksV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/CashBonanzaStacksV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/CashBonanzaStacksV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/CashBonanzaStacksV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashBonanzaStacksV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashBonanzaStacksV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/CashBonanzaStacksV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashBonanzaStacksV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/CashBonanzaStacksV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashBonanzaStacksV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashBonanzaStacksV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/CashBonanzaStacksV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/CashBonanzaStacksV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashBonanzaStacks_PKit_1_0_1_3&gamepath=/mgs/CashBonanzaStacks
+

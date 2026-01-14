@@ -1,0 +1,183 @@
+CRQ Number: CRQ1799639
+Target URL: https://www.gametechnology.io/games/3861-cashspreetriton/projects/22303/test/signoff
+Game Name: CashSpreeTriton
+Client Name: Lume
+Release Version: 1.0.0.38
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Romania -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/CashSpreeTritonV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/CashSpreeTritonV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/CashSpreeTritonV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/CashSpreeTritonV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/CashSpreeTritonV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/CashSpreeTritonV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/CashSpreeTritonDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/CashSpreeTritonV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/CashSpreeTritonV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/CashSpreeTriton/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/CashSpreeTritonV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/CashSpreeTritonV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/CashSpreeTritonV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/CashSpreeTritonV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/CashSpreeTriton/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=CashSpreeTritonV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=CashSpreeTritonV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/CashSpreeTritonV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/CashSpreeTritonV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/CashSpreeTritonV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/CashSpreeTritonV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashSpreeTritonV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashSpreeTritonV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashSpreeTritonDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashSpreeTritonV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashSpreeTritonV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashSpreeTriton/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashSpreeTriton/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/CashSpreeTritonV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/CashSpreeTritonV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/CashSpreeTritonV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/CashSpreeTritonV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/CashSpreeTritonV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/CashSpreeTritonV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/CashSpreeTritonV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/CashSpreeTritonV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/CashSpreeTritonV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/CashSpreeTritonV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/CashSpreeTritonV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/CashSpreeTritonV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/CashSpreeTriton/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashSpreeTriton/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/CashSpreeTriton/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/CashSpreeTritonDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/CashSpreeTriton/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/CashSpreeTritonV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/CashSpreeTritonV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/CashSpreeTritonV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/CashSpreeTritonV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/CashSpreeTritonV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashSpreeTriton_Lume_1_0_0_38&gamepath=/mgs/CashSpreeTriton
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=CashSpreeTritonV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=CashSpreeTritonV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=CashSpreeTritonV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=CashSpreeTritonV94&playmode=demo&ul=en
+

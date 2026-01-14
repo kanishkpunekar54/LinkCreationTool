@@ -1,0 +1,58 @@
+CRQ Number: CRQ1798695
+Target URL:  https://www.gametechnology.io/games/3853/projects/21930/test/signoff 
+Game Name: DonHidalgoUltraLinkWin
+Client Name: Cocos
+Release Version: 1.3.1.6
+Variant Selected: V96
+
+Market to Variant Map:
+Alderney -> V96
+Belgium -> V96
+Brazil -> V96
+Dotcom -> V96
+Gibraltar -> V96
+Isle of Man -> V96
+Malta -> V96
+Ontario -> V96
+Spain -> V96
+United Kingdom -> V96
+
+Normal CRQ Market Links:
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DonHidalgoUltraLinkWinDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/DonHidalgoUltraLinkWin/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/DonHidalgoUltraLinkWinDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/DonHidalgoUltraLinkWin/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/DonHidalgoUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/DonHidalgoUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/DonHidalgoUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/DonHidalgoUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/DonHidalgoUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&ignoreGameSettingErrors=true&testing=true
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/DonHidalgoUltraLinkWinDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/DonHidalgoUltraLinkWin/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=DonHidalgoUltraLinkWin_Cocos_1_3_1_6&gamepath=/mgs/DonHidalgoUltraLinkWin
+
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DonHidalgoUltraLinkWinDesktop&playmode=demo&ul=en
+
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=DonHidalgoUltraLinkWin&playmode=demo&ul=en
+

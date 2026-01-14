@@ -1,0 +1,95 @@
+CRQ Number: CRQ1799946
+Target URL: https://www.gametechnology.io/games/314/projects/22081/test/signoff 
+Game Name: AgentJaneBlondeReturns
+Client Name: PlayNext
+Release Version: 1.11.1.480
+Variant Selected: V96
+
+Market to Variant Map:
+Alderney -> V96
+Asia -> V96
+Belgium -> V96
+Bulgaria -> V96
+Croatia -> V96
+Denmark -> V96
+Dotcom -> V96
+Gibraltar -> V96
+Isle of Man -> V96
+Italy -> V96
+Malta -> V96
+Ontario -> V96
+Portugal -> V96
+Romania -> V96
+Spain -> V96
+Sweden -> V96
+Switzerland -> V96
+USA - Sweepstakes -> V96
+United Kingdom -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/AgentJaneBlondeReturnsDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/AgentJaneBlondeReturns/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AgentJaneBlondeReturnsDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/AgentJaneBlondeReturns/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/AgentJaneBlondeReturnsDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/AgentJaneBlondeReturns/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[Portugal] (V96) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/AgentJaneBlondeReturnsDesktop/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V96) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/AgentJaneBlondeReturns/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/AgentJaneBlondeReturnsDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/AgentJaneBlondeReturns/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/AgentJaneBlondeReturnsDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/AgentJaneBlondeReturns/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/AgentJaneBlondeReturnsDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/AgentJaneBlondeReturns/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AgentJaneBlondeReturnsDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AgentJaneBlondeReturns/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AgentJaneBlondeReturnsDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/AgentJaneBlondeReturns/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/AgentJaneBlondeReturnsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/AgentJaneBlondeReturns/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=AgentJaneBlondeReturns_PlayNext_1_11_1_480&gamepath=/mgs/AgentJaneBlondeReturns
+

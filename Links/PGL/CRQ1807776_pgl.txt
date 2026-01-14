@@ -1,0 +1,82 @@
+CRQ Number: CRQ1807776
+Target URL: https://www.gametechnology.io/games/3230-gardenofthegodsgoldblitz/projects/23351/test/signoff
+Game Name: GardenOfTheGodsGoldBlitzV94
+Client Name: MahiGaming
+Release Version: 3.34.0.6
+Variant Selected: V94
+
+Market to Variant Map:
+Alderney -> V94
+Argentina - Buenos Aires Province -> V94
+Belgium -> V94
+Denmark -> V94
+Dotcom -> V94
+Gibraltar -> V94
+Greece -> V94
+Isle of Man -> V94
+Malta -> V94
+Michigan -> V94
+Netherlands -> V94
+New Jersey -> V94
+Ontario -> V94
+Pennsylvania -> V94
+Romania -> V94
+United Kingdom -> V94
+
+Normal CRQ Market Links:
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/GardenOfTheGodsGoldBlitzV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/GardenOfTheGodsGoldBlitzV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/GardenOfTheGodsGoldBlitzV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/GardenOfTheGodsGoldBlitzV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/GardenOfTheGodsGoldBlitzV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/GardenOfTheGodsGoldBlitzV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/GardenOfTheGodsGoldBlitzV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/GardenOfTheGodsGoldBlitzV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GardenOfTheGodsGoldBlitzV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/GardenOfTheGodsGoldBlitzV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/GardenOfTheGodsGoldBlitzV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/GardenOfTheGodsGoldBlitzV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&gamepath=/mgs/GardenOfTheGodsGoldBlitzV94
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/GardenOfTheGodsGoldBlitzV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/GardenOfTheGodsGoldBlitzV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/GardenOfTheGodsGoldBlitzV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=GardenOfTheGodsGoldBlitzV94_MahiGaming_3_34_0_6&ignoreGameSettingErrors=true&testing=true
+

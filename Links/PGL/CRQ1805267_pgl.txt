@@ -1,0 +1,177 @@
+CRQ Number: CRQ1805267
+Target URL: https://www.gametechnology.io/games/1218-elvengold/projects/19767/test/signoff
+Game Name: ElvenGold
+Client Name: jftw
+Release Version: 1.3.0.4
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Asia -> V92, V94, V96
+Belgium -> V92, V94, V96
+Connecticut -> V92, V94
+Croatia -> V92, V94, V96
+Denmark -> V92, V94, V96
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94, V96
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Romania -> V92, V94, V96
+Spain -> V92, V94, V96
+Sweden -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+Bulgaria -> V94, V96
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ElvenGoldV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ElvenGoldV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ElvenGoldDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ElvenGoldV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ElvenGoldV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ElvenGold/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ElvenGoldV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ElvenGoldV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ElvenGoldDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ElvenGoldV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ElvenGoldV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ElvenGold/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Croatia] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ElvenGoldV92Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ElvenGoldV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ElvenGoldDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ElvenGoldV92/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ElvenGoldV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ElvenGold/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Denmark] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ElvenGoldV92Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ElvenGoldV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ElvenGoldDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ElvenGoldV92/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ElvenGoldV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ElvenGold/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ElvenGoldV92Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ElvenGoldV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ElvenGoldDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V92) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ElvenGoldV92/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ElvenGoldV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ElvenGold/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ElvenGoldV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ElvenGoldV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ElvenGoldDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ElvenGoldV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ElvenGoldV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ElvenGold/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ElvenGoldV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ElvenGoldV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ElvenGoldDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ElvenGoldV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ElvenGoldV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ElvenGold/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ElvenGoldV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ElvenGoldV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ElvenGoldDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ElvenGoldV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ElvenGoldV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ElvenGold/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ElvenGoldV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ElvenGoldV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ElvenGoldV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ElvenGoldDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ElvenGoldV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ElvenGoldV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ElvenGold/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ElvenGold_jftw_1_3_0_4&gamepath=/mgs/ElvenGold
+
