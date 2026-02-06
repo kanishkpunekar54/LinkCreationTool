@@ -13,10 +13,15 @@ namespace Live.Helper
         {
             await page.GotoAsync(loginUrl, new PageGotoOptions { Timeout = 60000 });
 
-            var ggoBtn = page.GetByRole(AriaRole.Button, new() { Name = "GamesGlobalOkta" });
-            if (await ggoBtn.IsVisibleAsync())
-                await ggoBtn.ClickAsync();
+            Console.WriteLine("👉 Please click GamesGlobalOkta manually...");
 
+            // ⏳ Wait until user clicks GGL Okta and Okta page loads
+            await page.WaitForURLAsync(
+                url => url.Contains("/login") || url.Contains("/oauth2"),
+                new() { Timeout = 120000 }
+            );
+
+            Console.WriteLine("✅ GamesGlobalOkta clicked, continuing login...");
             await page.GetByRole(AriaRole.Textbox, new() { Name = "Username" }).FillAsync(username);
             await page.GetByRole(AriaRole.Button, new() { Name = "Next" }).ClickAsync();
             await page.GetByRole(AriaRole.Textbox, new() { Name = "Password" }).FillAsync(password);
@@ -26,7 +31,7 @@ namespace Live.Helper
             await page.GetByRole(AriaRole.Button, new() { Name = "Verify" }).ClickAsync();
             await Task.Delay(5000);
 
-            ggoBtn = page.GetByRole(AriaRole.Button, new() { Name = "GamesGlobalOkta" });
+            var ggoBtn = page.GetByRole(AriaRole.Button, new() { Name = "GamesGlobalOkta" });
             if (await ggoBtn.IsVisibleAsync())
                 await ggoBtn.ClickAsync();
 

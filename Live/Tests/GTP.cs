@@ -263,7 +263,7 @@ namespace Live.Tests
                 await BatchProcessor.RunBatchAsync(page, crqNumber, targetUrl, username, password, loginUrl, isLive);
                 return;
             }
-
+            Console.WriteLine("🔐 Logging into GTP...1");
             var loginHelper = new LoginHelper();
             Console.WriteLine("🔐 Logging into GTP...");
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password) || string.IsNullOrWhiteSpace(loginUrl))
