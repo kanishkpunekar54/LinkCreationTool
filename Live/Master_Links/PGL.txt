@@ -85,6 +85,8 @@ https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winma
 Ontario:
 https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/gamenameDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
 https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/gamename/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
+https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
+https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
 
 
 
@@ -96,6 +98,8 @@ https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/
 Malta:
 https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
 https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
+https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
+https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/gamename/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
 
 
 ===================================================

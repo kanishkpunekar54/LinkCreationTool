@@ -21,6 +21,20 @@ namespace Live.Tests
             { "Cordoba", "Argentina - Cordoba Province" },
             { "Buenos Aires City", "Argentina - Buenos Aires City" },
             { "Buenos Aires Province", "Argentina - Buenos Aires Province" },
+            
+        };
+        private static readonly string[] ItsCasinoNames =
+        {
+            "Zodiac",
+            "zodiac_desktop",
+            "Luxury_uk",
+            "Phoenician",
+            "CaptainCooksCasino_CAON",
+            "CaptainCooksCasino_CAON_Desktop",
+            "luxury",
+            "Phoenician_desktop"
+
+
         };
 
         public Dictionary<string, List<string>> MarketToVariantsMap => _marketToVariantsMap;
@@ -139,6 +153,19 @@ namespace Live.Tests
             // Add the desired variant
             return $"{cleanedGameName}{variant}";
         }
+        private static string GetHighestVariant(List<string> variants)
+        {
+            return variants
+                .Where(v => Regex.IsMatch(v, @"^V\d{2}$", RegexOptions.IgnoreCase))
+                .Select(v => new
+                {
+                    Original = v,
+                    Number = int.Parse(Regex.Match(v, @"\d{2}").Value)
+                })
+                .OrderByDescending(v => v.Number)
+                .FirstOrDefault()?.Original;
+        }
+
 
         public static async Task AppendNormalCrqLinksForMarkets(
             Dictionary<string, List<string>> marketToVariantsMap,
@@ -183,8 +210,25 @@ namespace Live.Tests
                 {
                     if (!marketToVariantsMap.TryGetValue(currentMarket, out var variants) || variants.Count == 0)
                         continue;
+                    bool isItsCasino = ItsCasinoNames
+                        .Any(name => line.Contains(name, StringComparison.OrdinalIgnoreCase));
+                    // Decide which variants to use
+                    List<string> variantsToUse;
+                    if (isItsCasino)
+                    {
+                        var highestVariant = GetHighestVariant(variants);
+                        if (highestVariant == null)
+                            continue;
 
-                    foreach (var variant in variants)
+                        variantsToUse = new List<string> { highestVariant };
+                    }
+                    else
+                    {
+                        variantsToUse = variants;
+                    }
+
+
+                    foreach (var variant in variantsToUse)
                     {
                         string gameNameVariant = NormalizeGameNameWithVariant(gameName, variant);
                         string gameNameVariantDesktop = gameNameVariant + "Desktop";
@@ -209,7 +253,10 @@ namespace Live.Tests
                             updatedLink = updatedLink.TrimEnd('&', '?');
                         }
 
-                        outputLinks.Add($"[{currentMarket}] ({variant}) {updatedLink}");
+                        if (isItsCasino)
+                            outputLinks.Add($"[{currentMarket}] ({variant}) (ITS) {updatedLink}");
+                        else
+                            outputLinks.Add($"[{currentMarket}] ({variant}) {updatedLink}");
                     }
 
                     outputLinks.Add("");
