@@ -1,0 +1,202 @@
+CRQ Number: CRQ1812095
+Target URL: https://www.gametechnology.io/games/4105-333piggypowercombo/projects/24775/test/signoff
+Game Name: 333PiggyPowerCombo
+Client Name: mahigaming
+Release Version: 1.2277.1.28
+Variant Selected: V90, V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V90, V92, V94, V96
+Brazil -> V90, V92, V94
+Dotcom -> V90, V92, V94, V96
+Gibraltar -> V90, V92, V94, V96
+Isle of Man -> V90, V92, V94, V96
+Malta -> V90, V92, V94, V96
+Sweden -> V90, V92, V94
+United Kingdom -> V90, V92, V94, V96
+Belgium -> V92, V94, V96
+Connecticut -> V92, V94
+Italy -> V92, V94
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+USA - Sweepstakes -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Peru -> V94
+Portugal -> V94
+Romania -> V94
+Switzerland -> V94
+Bulgaria -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V90) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/333PiggyPowerComboV90Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/333PiggyPowerComboV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/333PiggyPowerComboV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V90) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/333PiggyPowerComboV90/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/333PiggyPowerComboV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/333PiggyPowerComboV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/333PiggyPowerComboV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/333PiggyPowerComboV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/333PiggyPowerComboDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/333PiggyPowerComboV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/333PiggyPowerComboV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/333PiggyPowerCombo/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/333PiggyPowerComboV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/333PiggyPowerComboV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/333PiggyPowerComboV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/333PiggyPowerComboV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/333PiggyPowerComboV94Desktop/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Portugal] (V94) https://mobile2.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/quickfirerdemormpt/333PiggyPowerComboV94/en?casinoid=31806&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/333PiggyPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=333PiggyPowerComboV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=333PiggyPowerComboV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/333PiggyPowerComboV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/333PiggyPowerComboV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/333PiggyPowerComboV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/333PiggyPowerComboV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/333PiggyPowerComboV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/333PiggyPowerComboV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/333PiggyPowerComboDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/333PiggyPowerComboV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/333PiggyPowerComboV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/333PiggyPowerCombo/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Malta] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/333PiggyPowerComboV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/333PiggyPowerComboV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/333PiggyPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/333PiggyPowerComboV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/333PiggyPowerComboV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/333PiggyPowerComboV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/333PiggyPowerComboV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/333PiggyPowerComboV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/333PiggyPowerComboV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/333PiggyPowerComboV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/333PiggyPowerComboV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/333PiggyPowerComboV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/333PiggyPowerComboV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/333PiggyPowerComboV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/333PiggyPowerComboV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/333PiggyPowerComboV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/333PiggyPowerComboV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/333PiggyPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/333PiggyPowerComboV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V90) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/333PiggyPowerComboV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/333PiggyPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/333PiggyPowerComboV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/333PiggyPowerComboV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/333PiggyPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/333PiggyPowerComboV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/333PiggyPowerComboV90Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/333PiggyPowerComboDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V90) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/333PiggyPowerComboV90/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/333PiggyPowerCombo/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=333PiggyPowerComboV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=333PiggyPowerComboV94&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/333PiggyPowerComboV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/333PiggyPowerComboV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/333PiggyPowerComboV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/333PiggyPowerComboV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/333PiggyPowerComboV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Brazil] (V90) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=333PiggyPowerComboV90Desktop&playmode=demo&ul=en
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=333PiggyPowerComboV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=333PiggyPowerComboV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V90) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=333PiggyPowerComboV90&playmode=demo&ul=en
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=333PiggyPowerComboV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=333PiggyPowerComboV94&playmode=demo&ul=en
+

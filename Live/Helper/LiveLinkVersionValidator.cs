@@ -106,7 +106,7 @@ namespace Live.Helper
                         });
 
                     var context = await browser.NewContextAsync();
-
+                    int counter = 0;
                     foreach (var link in links)
                     {
                         IPage? page = null;
@@ -116,22 +116,26 @@ namespace Live.Helper
 
                             Console.WriteLine($"\n🔗 Opening link from file: {link}");
 
+                            page.SetDefaultNavigationTimeout(120000);
+                            page.SetDefaultTimeout(120000);
                             await page.GotoAsync(link, new PageGotoOptions
                             {
                                 Timeout = 120000,
                                 WaitUntil = WaitUntilState.DOMContentLoaded
                             });
 
+                            await page.WaitForLoadStateAsync(LoadState.NetworkIdle, new PageWaitForLoadStateOptions
+                            {
+                                Timeout = 120000
+                            });
+                            
                             await page.WaitForTimeoutAsync(3000);
 
                             int linkIndex = passed + failed + 1;
 
-                            string safeFileName =
-                                Regex.Replace(link, @"[^\w]+", "_");
-
                             string screenshotPath = Path.Combine(
                                 marketFolder,
-                                $"link_{linkIndex}_{safeFileName}.png");
+                                $"{counter+=1}.png");
 
                             await page.ScreenshotAsync(
                                 new PageScreenshotOptions

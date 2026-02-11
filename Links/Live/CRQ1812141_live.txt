@@ -1,0 +1,93 @@
+CRQ Number: CRQ1812141
+Target URL: https://www.gametechnology.io/games/3467/projects/24804/test/signoff
+Game Name: LinksOfFlame
+Client Name: Hammersmith
+Release Version: 1.3.1.148
+Variant Selected: V96
+
+Market to Variant Map:
+Alderney -> V96
+Asia -> V96
+Belgium -> V96
+Bulgaria -> V96
+Denmark -> V96
+Dotcom -> V96
+Gibraltar -> V96
+Isle of Man -> V96
+Malta -> V96
+Ontario -> V96
+Sweden -> V96
+USA - Sweepstakes -> V96
+United Kingdom -> V96
+
+Normal CRQ Market Links:
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/LinksOfFlameDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V96) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/LinksOfFlame/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/LinksOfFlameDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/LinksOfFlame/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/LinksOfFlameDesktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/LinksOfFlame/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/LinksOfFlameDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/LinksOfFlame/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+
+===== VERSION VALIDATION SUMMARY =====
+✅ Bulgaria: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Sweden: 2 links | Passed: 1 | Failed: 1 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/LinksOfFlameDesktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ Denmark: 2 links | Passed: 1 | Failed: 1 -> FAILED
+   ❌ Failed link -> https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/LinksOfFlame/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+--------------------------------------------------------------------------------
+✅ Ontario: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Belgium: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/LinksOfFlameDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/LinksOfFlame/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+--------------------------------------------------------------------------------
+✅ Malta: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ United Kingdom: 4 links | Passed: 1 | Failed: 3 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ Dotcom: 5 links | Passed: 2 | Failed: 3 -> FAILED
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/LinksOfFlameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/LinksOfFlame/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------

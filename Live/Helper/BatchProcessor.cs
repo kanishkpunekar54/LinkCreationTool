@@ -118,27 +118,56 @@ namespace Live.Helper
                 return;
             }
             await loginHelper.LoginInContextAsync(page, loginUrl, username, password);
+            Console.WriteLine("Navigating to target URL...");
             await page.GotoAsync(targetUrl);
+            await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
+            Console.WriteLine("Target URL Opened");
 
-            await page.WaitForSelectorAsync("div[aria-label='game-tabs'] button");
-            var allButtons = await page.QuerySelectorAllAsync("div[aria-label='game-tabs'] button");
-            var visibleButtons = new List<IElementHandle>();
 
-            foreach (var button in allButtons)
+            Console.WriteLine("Checking for game buttons...");
+            await page.WaitForSelectorAsync("div[aria-label='game-tabs'] button[role='tab']");
+
+            var gameTabs = page.Locator(
+                                "div[aria-label='game-tabs'] button[role='tab']:not([cy-data^='payoutVariant-tab-'])"
+                            );
+
+
+            int totalTabs = await gameTabs.CountAsync();
+            Console.WriteLine($"Total tab buttons found in DOM: {totalTabs}");
+
+            var gameNames = new List<string>();
+
+            for (int i = 0; i < totalTabs; i++)
             {
-                if (await button.IsVisibleAsync())
-                {
-                    var titleSpan = await button.QuerySelectorAsync("span[class*=MuiTab-wrapper]");
-                    if (titleSpan != null)
-                        visibleButtons.Add(button);
-                }
+                var tab = gameTabs.Nth(i);
+
+                if (!await tab.IsVisibleAsync())
+                    continue;
+
+                var text = (await tab.InnerTextAsync()).Trim();
+
+                // ❌ Skip variant-only tabs like V96, V94, V92
+                if (Regex.IsMatch(text, @"^V\d+$"))
+                    continue;
+
+                if (!string.IsNullOrWhiteSpace(text))
+                    gameNames.Add(text);
             }
 
-            for (int i = 0; i < visibleButtons.Count; i++)
+            Console.WriteLine($"Total REAL games found: {gameNames.Count}");
+
+
+            for (int i = 0; i < gameNames.Count; i++)
             {
-                var currentButton = visibleButtons[i];
-                await currentButton.EvaluateAsync("el => el.scrollIntoView({ behavior: 'auto', block: 'center' })");
-                await currentButton.ClickAsync();
+                string gameTitle = gameNames[i];
+
+                await page.GetByRole(AriaRole.Tab, new() { Name = gameTitle }).ClickAsync();
+
+                await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
+
+                await page.WaitForTimeoutAsync(3000);
+
+
 
                 Console.WriteLine("⏳ Waiting 10 seconds before checking variants...");
                 await page.WaitForTimeoutAsync(10000);
@@ -155,8 +184,8 @@ namespace Live.Helper
 
                 await page.WaitForTimeoutAsync(800);
 
-                var titleSpan = await currentButton.QuerySelectorAsync("span[class*=MuiTab-wrapper]");
-                string gameTitle = titleSpan != null ? (await titleSpan.InnerTextAsync()).Trim() : $"Unnamed Game {i + 1}";
+                //string gameTitle = (await currentButton.InnerTextAsync()).Trim();
+
                 Console.WriteLine($"\n🎮 Game {i + 1}: {gameTitle}");
 
                 var variantButtons = await page.QuerySelectorAllAsync("button[cy-data^='payoutVariant-tab-']");
@@ -208,23 +237,37 @@ namespace Live.Helper
 
                 try
                 {
-                    var versionValueElement = await page.WaitForSelectorAsync(
+                    // ✅ Get Game + Client from version string element
+                    var versionStringElement = await page.WaitForSelectorAsync(
+                        "p[cy-data='mobile-web-game-version string']",
+                        new() { Timeout = 5000 }
+                    );
+
+                    if (versionStringElement != null)
+                    {
+                        var fullText = (await versionStringElement.InnerTextAsync()).Trim();
+                        // Example: beefUpTheBonusPowerCombo_Lume_1_0_0_70
+
+                        var parts = fullText.Split('_');
+
+                        if (parts.Length >= 2)
+                        {
+                            gameName = parts[0];
+                            clientName = parts[1];
+                        }
+                    }
+                    // ✅ Get version separately
+                    var versionElement = await page.WaitForSelectorAsync(
                         "p[cy-data='mobile-web-game-content version']",
                         new() { Timeout = 5000 }
                     );
 
-                    if (versionValueElement != null)
+                    if (versionElement != null)
                     {
-                        var versionText = (await versionValueElement.InnerTextAsync()).Trim();
-
-                        var parts = versionText.Split('_');
-                        if (parts.Length >= 3)
-                        {
-                            gameName = parts[0];
-                            clientName = parts[1];
-                            version = string.Join("_", parts.Skip(2));
-                        }
+                        version = (await versionElement.InnerTextAsync()).Trim();
+                        // Example: 1_0_0_68
                     }
+
 
                 }
                 catch
@@ -232,16 +275,6 @@ namespace Live.Helper
                     Console.WriteLine("⚠️ Failed to extract game name or client name.");
                 }
 
-                try
-                {
-                    var versionValueElement = await page.WaitForSelectorAsync("p[cy-data='mobile-web-game-content version']", new() { Timeout = 5000 });
-                    var versionValue = await versionValueElement.InnerTextAsync();
-                    version = versionValue.Trim();
-                }
-                catch
-                {
-                    Console.WriteLine("⚠️ Game version element not found.");
-                }
 
                 if (string.IsNullOrEmpty(gameName) || string.IsNullOrEmpty(clientName) || string.IsNullOrEmpty(version))
                 {
@@ -256,7 +289,7 @@ namespace Live.Helper
 
                 await AppendBatchLinksForMarkets(marketToVariants, crqNumber, gameName, clientName, version);
 
-                if (i == visibleButtons.Count - 1)
+                if (i == gameNames.Count - 1)
                 {
                     Console.WriteLine("✅ Finished processing all games. Exiting loop.");
                     break;

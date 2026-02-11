@@ -201,7 +201,6 @@ https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/synot
 
 
 Dotcom:
-https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename
 https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamenameDesktop_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
 https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=gamename_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
 https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamenameDesktop_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
