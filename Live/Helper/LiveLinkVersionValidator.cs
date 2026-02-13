@@ -17,12 +17,11 @@ namespace Live.Helper
         const int InitialTimeoutMs = 30000;
         const int ReloadTimeoutMs = 30000;
         static bool loadSuccess = false;
-        public static async Task ValidateLiveLinksAndAppendSummaryAsync(
-            string crqFilePath,
-            string expectedVersion)
+        public static async Task ValidateLiveLinksAndAppendSummaryAsync(string crqFilePath, string expectedVersion)
         {
             Console.WriteLine("\n🚀 Starting Live Link Version Validation...");
             if (!File.Exists(crqFilePath))
+
             {
                 Console.WriteLine("❌ CRQ file not found for validation.");
                 return;

@@ -1,5 +1,5 @@
 CRQ Number: CRQ1811690
-Target URL: https://www.gametechnology.io/games/4316/projects/24664/test/signoff 
+Target URL:  https://www.gametechnology.io/games/4316/projects/24664/test/signoff 
 Game Name: MagnificentPowerLeprechaun
 Client Name: Lume
 Release Version: 1.0.0.22
@@ -59,3 +59,21 @@ Normal CRQ Market Links:
 
 [Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/MagnificentPowerLeprechaun/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
 
+
+===== VERSION VALIDATION SUMMARY =====
+✅ Belgium: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Bulgaria: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Ontario: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Malta: 4 links | Passed: 2 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MagnificentPowerLeprechaunDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MagnificentPowerLeprechaun/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ United Kingdom: 4 links | Passed: 2 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MagnificentPowerLeprechaunDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MagnificentPowerLeprechaun/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+✅ Dotcom: 5 links | Passed: 5 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------

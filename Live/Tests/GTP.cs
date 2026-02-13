@@ -13,6 +13,8 @@ namespace Live.Tests
     public class GTP
     {
         private readonly Dictionary<string, List<string>> _marketToVariantsMap = new(StringComparer.OrdinalIgnoreCase);
+        private readonly Dictionary<string, string> _variantToVersion = new(StringComparer.OrdinalIgnoreCase);
+        public Dictionary<string, string> VariantToVersion => _variantToVersion;
 
         private static readonly Dictionary<string, string> MarketAliasMap = new(StringComparer.OrdinalIgnoreCase)
         {
@@ -112,6 +114,14 @@ namespace Live.Tests
                                     _marketToVariantsMap[market].Add($"V{variant}");
                             }
                         }
+                        
+                            string? version = await HelpfileHelper.GetHelpfileVersionForVariantAsync(page, $"V{variant}");
+                            if (version != null)
+                            {
+                                _variantToVersion[$"V{variant}"] = version;
+                            }
+                       
+
 
                         return page;
                     }
@@ -396,6 +406,14 @@ namespace Live.Tests
 
                 foreach (var kvp in gtp.MarketToVariantsMap)
                     await writer.WriteLineAsync($"{kvp.Key} -> {string.Join(", ", kvp.Value)}");
+            }
+            if (gtp.VariantToVersion.Count > 0)
+            {
+                await writer.WriteLineAsync("\nVariant Helpfile Versions:");
+                foreach (var kvp in gtp.VariantToVersion)
+                {
+                    await writer.WriteLineAsync($"{kvp.Key} -> {kvp.Value}");
+                }
             }
 
             await AppendNormalCrqLinksForMarkets(gtp.MarketToVariantsMap, crqNumber, gameName, clientName, releaseVersion, isLive);
