@@ -2,11 +2,13 @@
 using System.IO;
 using System.Threading.Tasks;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Cors;
 
 namespace CrqAutomationApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [EnableCors("AllowAll")]
     public class LoginController : ControllerBase
     {
         private readonly string _envFile = Path.Combine(Directory.GetCurrentDirectory(), ".env");

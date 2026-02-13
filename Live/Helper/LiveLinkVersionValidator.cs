@@ -103,13 +103,13 @@ namespace Live.Helper
                     await using var browser = await playwright.Chromium.LaunchAsync(
                         new BrowserTypeLaunchOptions
                         {
-                            //Channel = "chrome",
+                            Channel = "chrome",
                             Headless = true
                         });
 
                     var context = await browser.NewContextAsync();
-                    var failureScreenshotPath = (string)null;
-                    var passedScreenshotPath = (string)null;
+                    string failureScreenshotPath = null;
+                    string passedScreenshotPath = null;
                     foreach (var link in links)
                     {
                         IPage page = await context.NewPageAsync();

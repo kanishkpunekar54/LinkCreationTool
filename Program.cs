@@ -27,8 +27,11 @@ if (app.Environment.IsDevelopment())
     });
 }
 
+// Ensure routing and CORS are applied before HTTPS redirection and authorization
+app.UseRouting();
+app.UseCors("AllowAll");
+
 app.UseHttpsRedirection();
-app.UseCors("AllowAll"); // <-- CORS must be here, BEFORE UseAuthorization and MapControllers
 app.UseAuthorization();
 app.MapControllers();
 
