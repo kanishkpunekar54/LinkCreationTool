@@ -29,6 +29,10 @@ Romania -> V94
 Spain -> V94
 Sweden -> V94
 
+Variant Helpfile Versions:
+V94 -> 1.8.0
+V96 -> 1.5.0
+
 Normal CRQ Market Links:
 [Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/AreaLinkAllTheLuckV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=AreaLinkAllTheLuck_Lume_1_1_0_25&gamepath=/mgs/AreaLinkAllTheLuck&ignoreGameSettingErrors=true&testing=true
 
