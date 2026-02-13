@@ -406,16 +406,16 @@ namespace Live.Tests
 
                 foreach (var kvp in gtp.MarketToVariantsMap)
                     await writer.WriteLineAsync($"{kvp.Key} -> {string.Join(", ", kvp.Value)}");
-            }
-            if (gtp.VariantToVersion.Count > 0)
-            {
-                await writer.WriteLineAsync("\nVariant Helpfile Versions:");
-                foreach (var kvp in gtp.VariantToVersion)
+
+                if (gtp.VariantToVersion.Count > 0)
                 {
-                    await writer.WriteLineAsync($"{kvp.Key} -> {kvp.Value}");
+                    await writer.WriteLineAsync("\nVariant Helpfile Versions:");
+                    foreach (var kvp in gtp.VariantToVersion)
+                    {
+                        await writer.WriteLineAsync($"{kvp.Key} -> {kvp.Value}");
+                    }
                 }
             }
-
             await AppendNormalCrqLinksForMarkets(gtp.MarketToVariantsMap, crqNumber, gameName, clientName, releaseVersion, isLive);
 
             if (isLive)
