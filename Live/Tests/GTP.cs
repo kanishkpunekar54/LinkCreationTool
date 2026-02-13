@@ -409,7 +409,7 @@ namespace Live.Tests
 
                 if (gtp.VariantToVersion.Count > 0)
                 {
-                    await writer.WriteLineAsync("\nVariant Helpfile Versions:");
+                    await writer.WriteLineAsync("Helpfile Versions from GTP :");
                     foreach (var kvp in gtp.VariantToVersion)
                     {
                         await writer.WriteLineAsync($"{kvp.Key} -> {kvp.Value}");

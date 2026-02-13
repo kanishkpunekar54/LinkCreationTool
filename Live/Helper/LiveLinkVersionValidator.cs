@@ -76,7 +76,7 @@ namespace Live.Helper
             }
 
             // Limit concurrency
-            int maxParallel = 1;
+            int maxParallel = 4;
             using var semaphore = new SemaphoreSlim(maxParallel);
 
             var results = new List<string>();
@@ -86,6 +86,15 @@ namespace Live.Helper
             var tasks = marketLinks.Select(async kvp =>
             {
                 await semaphore.WaitAsync();
+     
+                await using var browser = await playwright.Chromium.LaunchAsync(
+                    new BrowserTypeLaunchOptions
+                    {
+                        //Channel = "chrome",
+                        Headless = true
+                    });
+                var context = await browser.NewContextAsync();
+
                 try
                 {
                     string market = kvp.Key;
@@ -100,14 +109,6 @@ namespace Live.Helper
 
                     Console.WriteLine($"\n🌍 Checking market: {market} ({total} links)");
 
-                    await using var browser = await playwright.Chromium.LaunchAsync(
-                        new BrowserTypeLaunchOptions
-                        {
-                            //Channel = "chrome",
-                            Headless = true
-                        });
-
-                    var context = await browser.NewContextAsync();
                     var failureScreenshotPath = (string)null;
                     var passedScreenshotPath = (string)null;
                     foreach (var link in links)
@@ -223,9 +224,6 @@ namespace Live.Helper
                         }
                         finally
                         {
-                            if (page != null)
-                                await page.CloseAsync();
-
                             if (loadSuccess)
                             {
                                 Console.WriteLine("Game Launches Successfully");
@@ -234,9 +232,6 @@ namespace Live.Helper
                             {
                                 Console.WriteLine($"Game didn't launch successfully even after reload (Taking too long to launch). Check screenshot: {failureScreenshotPath}");
                             }
-
-                            await context.CloseAsync();
-                            Console.WriteLine($"----- End of process -----");
                         }
 
                         try
@@ -255,8 +250,9 @@ namespace Live.Helper
 
                                 if (matchVer.Success)
                                     actualVersion = matchVer.Groups["ver"].Value;
+                                string expectedVersionmodified = expectedVersion.Replace('.', '_');
 
-                                if (actualVersion.Equals(expectedVersion, StringComparison.OrdinalIgnoreCase))
+                                if (actualVersion.Equals(expectedVersionmodified, StringComparison.OrdinalIgnoreCase))
                                 {
                                     passed++;
                                 }
@@ -280,6 +276,11 @@ namespace Live.Helper
                             failed++;
                             failedLinks.Add(link);
                         }
+                        finally
+                        {
+                            if (page != null)
+                                await page.CloseAsync();
+                        }
                     }
 
                     string marketStatus = failed == 0 ? "PASSED" : "FAILED";
@@ -298,10 +299,12 @@ namespace Live.Helper
                     lock (results)
                         results.AddRange(marketSummary);
 
-                    await browser.CloseAsync();
                 }
                 finally
                 {
+                    await context.CloseAsync();
+                    await browser.CloseAsync();
+                    Console.WriteLine($"----- End of process -----");
                     semaphore.Release();
                 }
             });
