@@ -1,101 +1,107 @@
-import { useEffect, useRef } from 'react';
+// ...existing code...
+import { useEffect, useRef, useState } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 // Badge component not imported because a simple inline element is used for the "Live" indicator.
 import { Terminal, Trash2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { LogEntry } from '@/types/automation';
 
-interface LogsDisplayProps {
-  logs: LogEntry[];
-  isRunning: boolean;
-  onClearLogs: () => void;
-}
-
-export const LogsDisplay = ({ logs, isRunning, onClearLogs }: LogsDisplayProps) => {
-  const logsEndRef = useRef<HTMLDivElement>(null);
+export const LogsDisplay = ({ isRunning, onClearLogs }: { isRunning: boolean; onClearLogs: () => void }) => {
 
   useEffect(() => {
-    // Only scroll if there are logs to show
-    if (logs.length > 0) {
-      logsEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    if (isRunning) {
+      startStreaming();
     }
-  }, [logs]);
+       
+  }, [ isRunning]);
 
-  const getLevelColor = (level: LogEntry['level']) => {
-    switch (level) {
-      case 'error': return 'text-red-400';
-      case 'warning': return 'text-yellow-400';
-      case 'success': return 'text-green-400';
-      default: return 'text-terminal-foreground';
-    }
+  const [logs, setLogs] = useState<LogEntry[]>([]);
+  const esRef = useRef<EventSource | null>(null);
+
+  const startStreaming = () => {
+    if (esRef.current) return;
+    const es = new EventSource('https://localhost:7053/api/Crq/getSSE'); // endpoint as requested
+    esRef.current = es;
+
+    es.onmessage = (ev) => {
+      try {
+        const parsed = JSON.parse(ev.data) as LogEntry;
+        setLogs((prev) => [...prev, parsed]);
+      } catch {
+        // ignore malformed chunks
+      }
+    };
+
+    es.onerror = () => {
+      // close on error and mark stopped
+      es.close();
+      esRef.current = null;
+    };
   };
 
-  const getLevelIcon = (level: LogEntry['level']) => {
-    switch (level) {
-      case 'error': return '✕';
-      case 'warning': return '⚠';
-      case 'success': return '✓';
-      default: return '→';
-    }
+  const stopStreaming = () => {
+    if (!esRef.current) return;
+    esRef.current.close();
+    esRef.current = null;
   };
+
+  const clearLogs = () => setLogs([]);
+
+  useEffect(() => {
+    return () => {
+      if (esRef.current) {
+        esRef.current.close();
+        esRef.current = null;
+      }
+    };
+  }, []);
 
   return (
-    <Card className="h-full">
-      <CardHeader className="pb-3">
-        <div className="flex items-center justify-between">
-          <div className="flex items-center space-x-2">
-            <Terminal className="w-5 h-5" />
-            <CardTitle>Automation Logs</CardTitle>
-            {isRunning && (
-              <span className="inline-flex items-center px-2 py-0.5 rounded-md text-sm font-medium bg-success/10 text-success border border-success/20">
-                Live
-              </span>
-            )}
-          </div>
-          <Button
-            variant="outline" 
-            size="sm" 
-            onClick={onClearLogs}
-            disabled={logs.length === 0}
+    <Card>
+      <CardHeader className="flex items-center justify-between">
+        <div className="flex items-center gap-2">
+          <Terminal />
+          <CardTitle>Logs</CardTitle>
+          <span
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: 6,
+              marginLeft: 12,
+              fontSize: 12,
+            }}
           >
-            <Trash2 className="w-4 h-4 mr-2" />
-            Clear
+            <span
+              style={{
+                width: 8,
+                height: 8,
+                borderRadius: 8,
+                background: isRunning ? '#10b981' : '#9ca3af',
+                display: 'inline-block',
+              }}
+            />
+            {isRunning ? 'Live' : 'Offline'}
+          </span>
+        </div>
+
+        <div className="flex items-center gap-2">
+          <Button variant="ghost" onClick={clearLogs} aria-label="Clear logs">
+            <Trash2 />
           </Button>
         </div>
       </CardHeader>
-      <CardContent className="p-0">
-        <div className="bg-terminal rounded-lg mx-6 mb-6 h-96 overflow-auto border">
-          <div className="p-4 font-mono text-sm">
-            {logs.length === 0 ? (
-              <div className="flex items-center justify-center h-full text-terminal-muted">
-                <div className="text-center">
-                  <Terminal className="w-8 h-8 mx-auto mb-2 opacity-50" />
-                  <p>No logs yet. Run automation to see output.</p>
-                </div>
+
+      <CardContent>
+        <div style={{ maxHeight: 300, overflow: 'auto', fontFamily: 'monospace', fontSize: 13 }}>
+          {logs.length === 0 ? (
+            <div style={{ color: '#6b7280' }}>No logs yet.</div>
+          ) : (
+            logs.map((log, idx) => (
+              <div key={idx} style={{ padding: '6px 0', borderBottom: '1px solid #e5e7eb' }}>
+                <pre style={{ margin: 0 }}>{JSON.stringify(log, null, 2)}</pre>
               </div>
-            ) : (
-              logs.map((log) => (
-                <div key={log.id} className="mb-2 flex items-start space-x-3">
-                  <span className="text-terminal-muted text-xs mt-0.5 w-20 flex-shrink-0">
-                    {log.timestamp}
-                  </span>
-                  <span className={`w-4 flex-shrink-0 ${getLevelColor(log.level)}`}>
-                    {getLevelIcon(log.level)}
-                  </span>
-                  <span className={`${getLevelColor(log.level)} break-words`}>
-                    {log.message}
-                  </span>
-                </div>
-              ))
-            )}
-            {isRunning && (
-              <div className="flex items-center space-x-2 text-terminal-foreground">
-                <div className="w-2 h-2 bg-success rounded-full animate-pulse"></div>
-                <span className="text-terminal-muted">Running...</span>
-              </div>
-            )}
-            <div ref={logsEndRef} />
-          </div>
+            ))
+          )}
         </div>
       </CardContent>
     </Card>
