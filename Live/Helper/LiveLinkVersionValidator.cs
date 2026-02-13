@@ -272,6 +272,8 @@ namespace Live.Helper
                                 failed++;
                                 failedLinks.Add(link);
                             }
+
+                            _errorDetector.GetErrors().ForEach(err => Console.WriteLine($"[Console Errors]: {err}"));
                         }
                         catch (Exception ex)
                         {
