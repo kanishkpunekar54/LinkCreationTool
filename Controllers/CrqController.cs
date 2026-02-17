@@ -1,10 +1,11 @@
-﻿using Live.Tests;
+﻿using Live.Api.Services;
+using Live.Api.Services;
+using Live.Tests;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Concurrent;
 using System.IO;
-using System.Reflection.Metadata.Ecma335;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 namespace Live.Api.Controllers
@@ -33,9 +34,6 @@ namespace Live.Api.Controllers
                 return StatusCode(500, new { message = $"❌ Error while running GTP: {ex.Message}" });
             }
         }
-
-
-
 
         // ✅ New API to download generated file
         [HttpGet("download")]
@@ -75,28 +73,60 @@ namespace Live.Api.Controllers
             return File(fileBytes, "text/plain", Path.GetFileName(filePath));
         }
 
-        // C#
+        // SSE endpoint streams console logs (line-by-line).
         [HttpGet("getSSE")]
         public async Task GetSSE()
         {
-            SseBroadcasterService.EnsureConsoleHooked();
+            HttpContext.Response.Headers.Add("Cache-Control", "no-cache");
+            HttpContext.Response.Headers.Add("X-Accel-Buffering", "no"); // disable buffering for nginx-like proxies
+            HttpContext.Response.ContentType = "text/event-stream";
 
-            Response.Headers.Append("Content-Type", "text/event-stream");
-            Response.Headers.Append("Cache-Control", "no-cache");
+            var token = HttpContext.RequestAborted;
+            var subscriber = ConsoleBroadcaster.Subscribe(sendHistory: true);
 
-            var stream = Response.Body; // or Response.BodyWriter.AsStream()
-            var writer = new StreamWriter(stream);
-            var clientId = SseBroadcasterService.AddClient(writer);
+            // helper: determine log level from text using simple heuristics (emoji/keywords).
+            static string DetermineLevel(string text)
+            {
+                if (string.IsNullOrWhiteSpace(text)) return "info";
+                var lower = text.ToLowerInvariant();
+                if (lower.Contains("❌") || lower.Contains("error") || lower.Contains("failed")) return "error";
+                if (lower.Contains("⚠") || lower.Contains("warning") || lower.Contains("warn")) return "warning";
+                if (lower.Contains("✅") || lower.Contains("success") || lower.Contains("finished")) return "success";
+                return "info";
+            }
+
+            // Format a LogEntry to SSE (single data: <json>\n\n)
+            static string ToSseJson(string text)
+            {
+                var entry = new
+                {
+                    id = Guid.NewGuid().ToString("D"),
+                    timestamp = DateTime.UtcNow.ToString("yyyy-MM-dd HH:mm:ss"),
+                    level = DetermineLevel(text),
+                    message = text ?? string.Empty
+                };
+                string json = JsonSerializer.Serialize(entry);
+                // SSE line: single data: <json>\n\n
+                return $"data: {json}\n\n";
+            }
 
             try
             {
-                await SseBroadcasterService.BroadcastAsync($"Client connected: {clientId}");
-                try { await Task.Delay(Timeout.Infinite, HttpContext.RequestAborted); }
-                catch (TaskCanceledException) { }
+                await foreach (var line in subscriber.Reader.ReadAllAsync(token))
+                {
+                    // Each broadcasted "line" may contain embedded newlines; preserve them in message.
+                    var payload = ToSseJson(line);
+                    await HttpContext.Response.WriteAsync(payload, token);
+                    await HttpContext.Response.Body.FlushAsync(token);
+                }
+            }
+            catch (OperationCanceledException)
+            {
+                // client disconnected (expected)
             }
             finally
             {
-                SseBroadcasterService.RemoveClient(clientId);
+                ConsoleBroadcaster.Unsubscribe(subscriber);
             }
         }
 
@@ -142,7 +172,7 @@ namespace Live.Api.Controllers
             string validationSummary = null;
 
             const string summaryMarker = "===== VERSION VALIDATION SUMMARY =====";
-            if (mode.Equals("live", StringComparison.OrdinalIgnoreCase) && content.Contains(summaryMarker))
+            if (mode.Equals("live", System.StringComparison.OrdinalIgnoreCase) && content.Contains(summaryMarker))
             {
                 int index = content.IndexOf(summaryMarker);
                 normalContent = content.Substring(0, index).Trim();
@@ -170,164 +200,6 @@ namespace Live.Api.Controllers
         public string Mode { get; set; }   // "live", "pgl", or "batch"
         public string[] Variants { get; set; }   // optional in batch
         public string TargetUrl { get; set; }
-    }
-    public static class SseBroadcasterService
-    {
-        private static readonly ConcurrentDictionary<Guid, StreamWriter> _clients = new();
-        private static readonly object _consoleHookLock = new();
-        private static bool _consoleHooked = false;
 
-        public static Guid AddClient(StreamWriter writer)
-        {
-            var id = Guid.NewGuid();
-            _clients.TryAdd(id, writer);
-            return id;
-        }
-
-        public static void RemoveClient(Guid id)
-        {
-            _clients.TryRemove(id, out _);
-        }
-
-        public static async Task BroadcastAsync(string message)
-        {
-            foreach (var client in _clients.Values)
-            {
-                try
-                {
-                    await client.WriteAsync($"data: {message}\n\n");
-                    await client.FlushAsync();
-                }
-                catch
-                {
-                    // Ignore exceptions for disconnected clients
-                }
-            }
-        }
-
-        // Called by the console writer to forward console text to SSE clients
-        internal static void BroadcastFromConsole(string message)
-        {
-            // Fire-and-forget; broadcasting shouldn't block console output
-            _ = BroadcastAsync(message);
-        }
-
-        // Ensure Console.Out is replaced with a writer that forwards to SSE
-        public static void EnsureConsoleHooked()
-        {
-            if (_consoleHooked) return;
-
-            lock (_consoleHookLock)
-            {
-                if (_consoleHooked) return;
-
-                var original = Console.Out;
-                var hook = new ConsoleBroadcastWriter(original);
-                Console.SetOut(hook);
-                _consoleHooked = true;
-            }
-        }
-    }
-    // Writer that forwards console output to the original console plus SSE broadcaster.
-    // Writer that forwards console output to the original console plus SSE broadcaster.
-    internal class ConsoleBroadcastWriter : TextWriter
-    {
-        private readonly TextWriter _original;
-        private readonly StringBuilder _buffer = new();
-
-        public ConsoleBroadcastWriter(TextWriter original)
-        {
-            _original = original ?? throw new ArgumentNullException(nameof(original));
-        }
-
-        public override Encoding Encoding => _original.Encoding;
-
-        public override void Write(char value)
-        {
-            _original.Write(value);
-
-            // Buffer until newline to send complete lines
-            _buffer.Append(value);
-            if (value == '\n')
-            {
-                var line = _buffer.ToString().TrimEnd('\r', '\n');
-                _buffer.Clear();
-
-                if (!string.IsNullOrEmpty(line))
-                {
-                    try
-                    {
-                        SseBroadcasterService.BroadcastFromConsole(line);
-                    }
-                    catch
-                    {
-                        // Swallow exceptions to avoid breaking the console stream
-                    }
-                }
-            }
-        }
-
-        public override void Write(string value)
-        {
-            if (value == null)
-            {
-                return;
-            }
-
-            _original.Write(value);
-
-            // If value contains newlines, split and broadcast per line
-            int start = 0;
-            for (int i = 0; i < value.Length; i++)
-            {
-                if (value[i] == '\n')
-                {
-                    _buffer.Append(value.Substring(start, i - start + 1));
-                    var line = _buffer.ToString().TrimEnd('\r', '\n');
-                    _buffer.Clear();
-                    start = i + 1;
-
-                    if (!string.IsNullOrEmpty(line))
-                    {
-                        try
-                        {
-                            SseBroadcasterService.BroadcastFromConsole(line);
-                        }
-                        catch
-                        {
-                            // ignore
-                        }
-                    }
-                }
-            }
-
-            if (start < value.Length)
-            {
-                _buffer.Append(value.Substring(start));
-            }
-        }
-
-        public override void WriteLine(string value)
-        {
-            _original.WriteLine(value);
-            var line = value ?? string.Empty;
-            try
-            {
-                SseBroadcasterService.BroadcastFromConsole(line);
-            }
-            catch
-            {
-                // ignore
-            }
-        }
-
-        protected override void Dispose(bool disposing)
-        {
-            if (disposing)
-            {
-                _original.Dispose();
-            }
-            base.Dispose(disposing);
-        }
     }
 }

@@ -1,3 +1,5 @@
+using Live.Api.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
@@ -16,6 +18,9 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+// Install console capture early so all Console.Write/WriteLine goes through the broadcaster.
+Console.SetOut(ConsoleBroadcaster.Writer);
 
 if (app.Environment.IsDevelopment())
 {

@@ -90,7 +90,7 @@ namespace Live.Helper
                 await using var browser = await playwright.Chromium.LaunchAsync(
                     new BrowserTypeLaunchOptions
                     {
-                        //Channel = "chrome",
+                        Channel = "chrome",
                         Headless = true
                     });
                 var context = await browser.NewContextAsync();
