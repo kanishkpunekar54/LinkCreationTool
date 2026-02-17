@@ -9,11 +9,15 @@ import { LogEntry } from '@/types/automation';
 export const LogsDisplay = ({ isRunning, onClearLogs }: { isRunning: boolean; onClearLogs: () => void }) => {
 
   useEffect(() => {
-    if (isRunning) {
-      startStreaming();
-    }
-       
-  }, [ isRunning]);
+    if (isRunning) startStreaming();
+    else stopStreaming();
+
+    // cleanup on unmount
+    return () => {
+      stopStreaming();
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isRunning]);
 
   const [logs, setLogs] = useState<LogEntry[]>([]);
   const esRef = useRef<EventSource | null>(null);
@@ -23,29 +27,42 @@ export const LogsDisplay = ({ isRunning, onClearLogs }: { isRunning: boolean; on
     const es = new EventSource('https://localhost:7053/api/Crq/getSSE'); // endpoint as requested
     esRef.current = es;
 
-    es.onmessage = (ev) => {
-      try {
-        const parsed = JSON.parse(ev.data) as LogEntry;
-        setLogs((prev) => [...prev, parsed]);
-      } catch {
-        // ignore malformed chunks
-      }
-    };
+  es.onmessage = (ev) => {
+    const raw = ev.data;
+    // Try JSON, otherwise treat as plain text line
+    let entry: LogEntry | any;
+    try {
+      entry = JSON.parse(raw) as LogEntry;
+    }
+    catch {
+      // Fallback entry shape - adapt to your LogEntry type
+      entry = {
+        text: raw,
+        timestamp: new Date().toISOString(),
+      } as unknown as LogEntry;
+    }
+    setLogs((prev) => [...prev, entry]);
+  };
 
     es.onerror = () => {
-      // close on error and mark stopped
-      es.close();
-      esRef.current = null;
+      // Close the connection on error; server or proxy may be buffering or closed.
+      if (esRef.current) {
+        try { esRef.current.close(); } catch {}
+        esRef.current = null;
+      }
     };
   };
 
   const stopStreaming = () => {
     if (!esRef.current) return;
-    esRef.current.close();
+    try { esRef.current.close(); } catch {}
     esRef.current = null;
   };
 
-  const clearLogs = () => setLogs([]);
+  const clearLogs = () => {
+    setLogs([]);
+    onClearLogs?.();
+  };
 
   useEffect(() => {
     return () => {
@@ -58,10 +75,9 @@ export const LogsDisplay = ({ isRunning, onClearLogs }: { isRunning: boolean; on
 
   return (
     <Card>
-      <CardHeader className="flex items-center justify-between">
-        <div className="flex items-center gap-2">
-          <Terminal />
-          <CardTitle>Logs</CardTitle>
+      <CardHeader className="flex flex-row items-center justify-between">
+        <div className="flex items-center gap-2 col">
+          <CardTitle className="mx-auto">Execution Logs</CardTitle>
           <span
             style={{
               display: 'inline-flex',
@@ -82,13 +98,11 @@ export const LogsDisplay = ({ isRunning, onClearLogs }: { isRunning: boolean; on
             />
             {isRunning ? 'Live' : 'Offline'}
           </span>
+           
         </div>
-
-        <div className="flex items-center gap-2">
-          <Button variant="ghost" onClick={clearLogs} aria-label="Clear logs">
-            <Trash2 />
-          </Button>
-        </div>
+        <Button className=' bg-gray-200 w-10 h-10 text-red-500 hover:bg-red-500 ' variant="ghost" onClick={clearLogs} aria-label="Clear Logs">
+          <Trash2 className="w-10 h-10" />
+        </Button>
       </CardHeader>
 
       <CardContent>
@@ -98,7 +112,11 @@ export const LogsDisplay = ({ isRunning, onClearLogs }: { isRunning: boolean; on
           ) : (
             logs.map((log, idx) => (
               <div key={idx} style={{ padding: '6px 0', borderBottom: '1px solid #e5e7eb' }}>
-                <pre style={{ margin: 0 }}>{JSON.stringify(log, null, 2)}</pre>
+                {/* <pre style={{ margin: 0 }}>
+                  {JSON.stringify(log, null, 2)}
+                </pre> */}
+                {/* [{log.timestamp}] {log as any} */}
+                [{log.timestamp}][{log.level}] - {log.message}
               </div>
             ))
           )}
