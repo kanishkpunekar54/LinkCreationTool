@@ -320,7 +320,6 @@ namespace Live.Tests
                 await BatchProcessor.RunBatchAsync(page, crqNumber, targetUrl, username, password, loginUrl, isLive);
                 return;
             }
-            Console.WriteLine("🔐 Logging into GTP...1");
             var loginHelper = new LoginHelper();
             Console.WriteLine("🔐 Logging into GTP...");
             if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password) || string.IsNullOrWhiteSpace(loginUrl))
@@ -416,6 +415,9 @@ namespace Live.Tests
                     }
                 }
             }
+
+            await page.CloseAsync();
+            await browser.CloseAsync();
             await AppendNormalCrqLinksForMarkets(gtp.MarketToVariantsMap, crqNumber, gameName, clientName, releaseVersion, isLive);
 
             if (isLive)
@@ -424,11 +426,6 @@ namespace Live.Tests
                 
                 await LiveLinkVersionValidator.ValidateLiveLinksAndAppendSummaryAsync(crqFilePath, releaseVersion);
             }
-
-
-            Console.WriteLine("✅ Finished. Browser will close in 10 seconds...");
-            await Task.Delay(10000);
-            await browser.CloseAsync();
         }
     }
 }
