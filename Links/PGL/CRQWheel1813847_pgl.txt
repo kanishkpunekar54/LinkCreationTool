@@ -1,0 +1,215 @@
+CRQ Number: CRQWheel1813847
+Target URL: https://www.gametechnology.io/games/4013/projects/24943/test/signoff 
+Game Name: Wheel
+Client Name: Lume
+Release Version: 1.10.3.51
+Variant Selected: V94, V96, V98
+
+Market to Variant Map:
+Alderney -> V94, V96, V98
+Argentina - Buenos Aires City -> V94, V96, V98
+Argentina - Buenos Aires Province -> V94, V96, V98
+Argentina - Cordoba Province -> V94, V96, V98
+Belgium -> V94, V96, V98
+Brazil -> V94, V96, V98
+Bulgaria -> V94, V96, V98
+Connecticut -> V94, V96, V98
+Croatia -> V94, V96, V98
+Dotcom -> V94, V96, V98
+Gibraltar -> V94, V96, V98
+Greece -> V94, V96, V98
+Isle of Man -> V94, V96, V98
+Italy -> V94, V96, V98
+Malta -> V94, V96, V98
+Michigan -> V94, V96, V98
+Netherlands -> V94, V96, V98
+New Jersey -> V94, V96, V98
+Ontario -> V94, V96, V98
+Pennsylvania -> V94, V96, V98
+Peru -> V94, V96, V98
+Romania -> V94, V96, V98
+Spain -> V94, V96, V98
+Switzerland -> V94, V96, V98
+United Kingdom -> V94, V96, V98
+Helpfile Versions from GTP :
+V94 -> 1.1.0
+V96 -> 1.2.0
+V98 -> 1.1.0
+
+Normal CRQ Market Links:
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WheelV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WheelDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WheelV98Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WheelV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/Wheel/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/WheelV98/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WheelV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WheelDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WheelV98Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WheelV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/Wheel/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/WheelV98/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WheelV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WheelDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WheelV98Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WheelV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/Wheel/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/WheelV98/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WheelV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WheelDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WheelV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/Wheel/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WheelV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WheelDesktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WheelV98Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WheelV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=Wheel&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=WheelV98&playmode=demo&ul=en
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WheelV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WheelDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WheelV98Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WheelV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/Wheel/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/WheelV98/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WheelV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WheelDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/WheelV98Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WheelV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/Wheel/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/WheelV98/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Ontario] (V98) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Ontario] (V98) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WheelV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WheelDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WheelV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/Wheel/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Malta] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Malta] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/WheelV98/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WheelV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WheelDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WheelV98Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WheelV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/Wheel/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/WheelV98/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WheelV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WheelDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WheelV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Wheel/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Wheel/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WheelV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WheelDesktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WheelV98Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WheelV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/Wheel/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/WheelV98/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WheelV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WheelDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WheelV98Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WheelV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/Wheel/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/WheelV98/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WheelV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WheelDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WheelV98Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WheelV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/Wheel/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/WheelV98/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WheelV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WheelDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WheelV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/Wheel/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/WheelV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/WheelDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WheelV94Desktop&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WheelDesktop&playmode=demo&ul=en
+[Peru] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WheelV98Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WheelV94&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=Wheel&playmode=demo&ul=en
+[Peru] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=WheelV98&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Wheel/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/WheelV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WheelV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WheelDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/WheelV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WheelV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Wheel/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/WheelV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Wheel_Lume_1_10_3_51&gamepath=/mgs/Wheel
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WheelV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WheelDesktop&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WheelV98Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WheelV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=Wheel&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=WheelV98&playmode=demo&ul=en
+

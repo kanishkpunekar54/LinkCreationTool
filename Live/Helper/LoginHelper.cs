@@ -11,33 +11,64 @@ namespace Live.Helper
     {
         public async Task LoginInContextAsync(IPage page, string loginUrl, string username, string password)
         {
-            await page.GotoAsync(loginUrl, new PageGotoOptions { Timeout = 60000 });
+            try
+            {
+                await page.GotoAsync(loginUrl, new PageGotoOptions { Timeout = 60000 });
 
-            Console.WriteLine("👉 Please click GamesGlobalOkta manually...");
+                //Console.WriteLine("👉 Please click GamesGlobalOkta manually...");
 
-            // ⏳ Wait until user clicks GGL Okta and Okta page loads
-            await page.WaitForURLAsync(
-                url => url.Contains("/login") || url.Contains("/oauth2"),
-                new() { Timeout = 120000 }
-            );
+                //// ⏳ Wait until user clicks GGL Okta and Okta page loads
+                //await page.WaitForURLAsync(
+                //    url => url.Contains("/login") || url.Contains("/oauth2"),
+                //    new() { Timeout = 120000 }
+                //);
 
-            Console.WriteLine("✅ GamesGlobalOkta clicked, continuing login...");
-            await page.GetByRole(AriaRole.Textbox, new() { Name = "Username" }).FillAsync(username);
-            await page.GetByRole(AriaRole.Button, new() { Name = "Next" }).ClickAsync();
-            await page.GetByRole(AriaRole.Textbox, new() { Name = "Password" }).FillAsync(password);
-            await page.GetByRole(AriaRole.Button, new() { Name = "Verify" }).ClickAsync();
-            await page.GetByRole(AriaRole.Link, new() { Name = "Select to enter a code from" }).ClickAsync();
-            await Task.Delay(15000);
-            await page.GetByRole(AriaRole.Button, new() { Name = "Verify" }).ClickAsync();
-            await Task.Delay(5000);
+                // 🔎 Locate GamesGlobalOkta button
+                var gglOktaBtn = page.Locator("input[aria-label='GamesGlobalOkta']:visible");
 
-            var ggoBtn = page.GetByRole(AriaRole.Button, new() { Name = "GamesGlobalOkta" });
-            if (await ggoBtn.IsVisibleAsync())
-                await ggoBtn.ClickAsync();
+                // ⏳ Wait until visible
+                await gglOktaBtn.WaitForAsync(new LocatorWaitForOptions
+                {
+                    State = WaitForSelectorState.Visible,
+                    Timeout = 30000
+                });
 
-            await page.WaitForURLAsync("**/games**", new PageWaitForURLOptions { Timeout = 5000 });
+                // 👆 Click automatically
+                await gglOktaBtn.ClickAsync();
 
-            Console.WriteLine("Logged in Sucessfully");
+                Console.WriteLine("✅ GamesGlobalOkta clicked, continuing login...");
+                await page.GetByRole(AriaRole.Textbox, new() { Name = "Username" }).FillAsync(username);
+                await page.GetByRole(AriaRole.Button, new() { Name = "Next" }).ClickAsync();
+                await page.GetByRole(AriaRole.Textbox, new() { Name = "Password" }).FillAsync(password);
+                await page.GetByRole(AriaRole.Button, new() { Name = "Verify" }).ClickAsync();
+                await page.GetByRole(AriaRole.Link, new() { Name = "Select to get a push notification to the Okta Verify app." }).ClickAsync();
+                await page.WaitForNavigationAsync();
+                await page.WaitForURLAsync("**/games**", new PageWaitForURLOptions { Timeout = 5000 });
+
+                Console.WriteLine("✅ Logged in Sucessfully");
+            }
+            catch(TimeoutException te)
+            {
+                try
+                {
+                    Console.WriteLine("⚠ Retrying once again due to failure!");
+                    await page.WaitForNavigationAsync();
+                    await page.WaitForURLAsync("**/games**", new PageWaitForURLOptions { Timeout = 5000 });
+                    Console.WriteLine("✅ Logged in Sucessfully");
+                }
+                catch(Exception e)
+                {
+                    throw;
+                }
+            }
+            catch(PlaywrightException ex)
+            {
+                Console.WriteLine("❌ Exception Occured : ", ex.Message);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine("❌ Exception Occured : ", e.Message);
+            }
         }
 
         public async Task<(IBrowserContext context, IPage page)> LoginAndSaveState(

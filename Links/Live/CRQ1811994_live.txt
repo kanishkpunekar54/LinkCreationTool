@@ -1,5 +1,5 @@
 CRQ Number: CRQ1811994
-Target URL: https://www.gametechnology.io/games/2911/projects/24631/test/signoff 
+Target URL: https://www.gametechnology.io/games/2911-3luckyrainbowsactionboost/projects/24631/test/signoff
 Game Name: 3LuckyRainbowsActionBoost
 Client Name: Lume
 Release Version: 1.1.0.17
@@ -166,11 +166,11 @@ Normal CRQ Market Links:
 --------------------------------------------------------------------------------
 ✅ Spain: 4 links | Passed: 4 | Failed: 0 -> PASSED
 --------------------------------------------------------------------------------
+✅ Ontario: 6 links | Passed: 6 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
 ✅ Italy: 4 links | Passed: 4 | Failed: 0 -> PASSED
 --------------------------------------------------------------------------------
 ✅ Argentina - Buenos Aires Province: 2 links | Passed: 2 | Failed: 0 -> PASSED
---------------------------------------------------------------------------------
-✅ Ontario: 6 links | Passed: 6 | Failed: 0 -> PASSED
 --------------------------------------------------------------------------------
 ❌ Dotcom: 8 links | Passed: 6 | Failed: 2 -> FAILED
    ❌ Failed link -> https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/3LuckyRainbowsActionBoostV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true

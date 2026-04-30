@@ -1,0 +1,177 @@
+CRQ Number: CRQthunderstruckFlyX1812142
+Target URL: https://www.gametechnology.io/games/3423-thunderstruckflyx/projects/24614/test/signoff
+Game Name: ThunderstruckFlyX
+Client Name: NitroFox
+Release Version: 1.3.1.37
+Variant Selected: V92, V94, V97
+
+Market to Variant Map:
+Alderney -> V92, V94, V97
+Asia -> V92, V94, V97
+Belgium -> V92, V94, V97
+Brazil -> V92, V94, V97
+Connecticut -> V92, V94, V97
+Dotcom -> V92, V94, V97
+Gibraltar -> V92, V94, V97
+Isle of Man -> V92, V94, V97
+Italy -> V92, V94, V97
+Malta -> V92, V94, V97
+Michigan -> V92, V94, V97
+Netherlands -> V92, V94, V97
+New Jersey -> V92, V94, V97
+Ontario -> V92, V94, V97
+Pennsylvania -> V92, V94, V97
+Spain -> V92, V94, V97
+United Kingdom -> V92, V94, V97
+Argentina - Buenos Aires City -> V94, V97
+Argentina - Buenos Aires Province -> V94, V97
+Argentina - Cordoba Province -> V94, V97
+Greece -> V94, V97
+Romania -> V94, V97
+Helpfile Versions from GTP :
+V92 -> 1.6.0
+V94 -> 1.5.0
+
+Normal CRQ Market Links:
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ThunderstruckFlyXV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ThunderstruckFlyXV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Belgium] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ThunderstruckFlyXV97Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ThunderstruckFlyXV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ThunderstruckFlyXV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Belgium] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ThunderstruckFlyXV97/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ThunderstruckFlyXV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ThunderstruckFlyXV97Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ThunderstruckFlyXV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ThunderstruckFlyXV97/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ThunderstruckFlyXV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ThunderstruckFlyXV97Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ThunderstruckFlyXV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V97) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ThunderstruckFlyXV97&playmode=demo&ul=en
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ThunderstruckFlyXV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ThunderstruckFlyXV97Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ThunderstruckFlyXV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V97) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ThunderstruckFlyXV97/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ThunderstruckFlyXV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ThunderstruckFlyXV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Ontario] (V97) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ThunderstruckFlyXV97Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ThunderstruckFlyXV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ThunderstruckFlyXV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Ontario] (V97) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ThunderstruckFlyXV97/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Ontario] (V97) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Ontario] (V97) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ThunderstruckFlyXV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ThunderstruckFlyXV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Malta] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ThunderstruckFlyXV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ThunderstruckFlyXV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Malta] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Malta] (V97) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Malta] (V97) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ThunderstruckFlyXV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Greece] (V97) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ThunderstruckFlyXV97Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ThunderstruckFlyXV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Greece] (V97) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ThunderstruckFlyXV97/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ThunderstruckFlyXV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ThunderstruckFlyXV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ThunderstruckFlyXV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ThunderstruckFlyXV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV97Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV97/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ThunderstruckFlyXV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ThunderstruckFlyXV97Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ThunderstruckFlyXV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V97) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ThunderstruckFlyXV97/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ThunderstruckFlyXV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ThunderstruckFlyXV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V97) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ThunderstruckFlyXV97Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ThunderstruckFlyXV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ThunderstruckFlyXV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V97) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ThunderstruckFlyXV97/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ThunderstruckFlyXV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ThunderstruckFlyXV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V97) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ThunderstruckFlyXV97Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ThunderstruckFlyXV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ThunderstruckFlyXV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V97) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ThunderstruckFlyXV97/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V97) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ThunderstruckFlyXV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ThunderstruckFlyXV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V97) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ThunderstruckFlyXV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ThunderstruckFlyXV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V97) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ThunderstruckFlyXV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ThunderstruckFlyXV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V97) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V97) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&ignoreGameSettingErrors=true&testing=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV97Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Italy] (V97) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ThunderstruckFlyXV97/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ThunderstruckFlyXV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ThunderstruckFlyXV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ThunderstruckFlyXV97Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ThunderstruckFlyXV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ThunderstruckFlyXV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+[Spain] (V97) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ThunderstruckFlyXV97/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ThunderstruckFlyX_NitroFox_1_3_1_37&gamepath=/mgs/ThunderstruckFlyX
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ThunderstruckFlyXV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ThunderstruckFlyXV94Desktop&playmode=demo&ul=en
+[Brazil] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ThunderstruckFlyXV97Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ThunderstruckFlyXV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ThunderstruckFlyXV94&playmode=demo&ul=en
+[Brazil] (V97) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ThunderstruckFlyXV97&playmode=demo&ul=en
+

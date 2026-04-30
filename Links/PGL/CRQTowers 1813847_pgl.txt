@@ -1,0 +1,215 @@
+CRQ Number: CRQTowers 1813847
+Target URL: https://www.gametechnology.io/games/3734/projects/24941/test/signoff 
+Game Name: Towers
+Client Name: Lume
+Release Version: 1.10.0.97
+Variant Selected: V94, V96, V98
+
+Market to Variant Map:
+Alderney -> V94, V96, V98
+Argentina - Buenos Aires City -> V94, V96, V98
+Argentina - Buenos Aires Province -> V94, V96, V98
+Argentina - Cordoba Province -> V94, V96, V98
+Belgium -> V94, V96, V98
+Brazil -> V94, V96, V98
+Bulgaria -> V94, V96, V98
+Connecticut -> V94, V96, V98
+Croatia -> V94, V96, V98
+Dotcom -> V94, V96, V98
+Gibraltar -> V94, V96, V98
+Greece -> V94, V96, V98
+Isle of Man -> V94, V96, V98
+Italy -> V94, V96, V98
+Malta -> V94, V96, V98
+Michigan -> V94, V96, V98
+Netherlands -> V94, V96, V98
+New Jersey -> V94, V96, V98
+Ontario -> V94, V96, V98
+Pennsylvania -> V94, V96, V98
+Peru -> V94, V96, V98
+Romania -> V94, V96, V98
+Spain -> V94, V96, V98
+Switzerland -> V94, V96, V98
+United Kingdom -> V94, V96, V98
+Helpfile Versions from GTP :
+V94 -> 1.7.0
+V96 -> 1.8.0
+V98 -> 1.7.0
+
+Normal CRQ Market Links:
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/TowersV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/TowersDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/TowersV98Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/TowersV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/Towers/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/TowersV98/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/TowersV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/TowersDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/TowersV98Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/TowersV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/Towers/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/TowersV98/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/TowersV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/TowersDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/TowersV98Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/TowersV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/Towers/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/TowersV98/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/TowersV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/TowersDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/TowersV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/Towers/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=TowersV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=TowersDesktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=TowersV98Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=TowersV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=Towers&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=TowersV98&playmode=demo&ul=en
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/TowersV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/TowersDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/TowersV98Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/TowersV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/Towers/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/TowersV98/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/TowersV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/TowersDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/TowersV98Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/TowersV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/Towers/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/TowersV98/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Ontario] (V98) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Ontario] (V98) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/TowersV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/TowersDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/TowersV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/Towers/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Malta] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Malta] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/TowersV98/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/TowersV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/TowersDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/TowersV98Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/TowersV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/Towers/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/TowersV98/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/TowersV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/TowersDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/TowersV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Towers/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Towers/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/TowersV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/TowersDesktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/TowersV98Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/TowersV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/Towers/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/TowersV98/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/TowersV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/TowersDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/TowersV98Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/TowersV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/Towers/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/TowersV98/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/TowersV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/TowersDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/TowersV98Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/TowersV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/Towers/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/TowersV98/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/TowersV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/TowersDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/TowersV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/Towers/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/TowersV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/TowersDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=TowersV94Desktop&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=TowersDesktop&playmode=demo&ul=en
+[Peru] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=TowersV98Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=TowersV94&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=Towers&playmode=demo&ul=en
+[Peru] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=TowersV98&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Towers/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/TowersV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/TowersV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/TowersDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/TowersV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/TowersV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Towers/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/TowersV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Towers_Lume_1_10_0_97&gamepath=/mgs/Towers
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=TowersV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=TowersDesktop&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=TowersV98Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=TowersV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=Towers&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=TowersV98&playmode=demo&ul=en
+

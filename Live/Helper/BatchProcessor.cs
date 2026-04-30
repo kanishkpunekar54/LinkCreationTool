@@ -169,8 +169,8 @@ namespace Live.Helper
 
 
 
-                Console.WriteLine("⏳ Waiting 10 seconds before checking variants...");
-                await page.WaitForTimeoutAsync(10000);
+                Console.WriteLine("⏳ Waiting 3 seconds before checking variants...");
+                await page.WaitForTimeoutAsync(3000);
 
                 try
                 {
@@ -230,8 +230,8 @@ namespace Live.Helper
                     }
                 }
 
-                Console.WriteLine("⏳ Waiting 10 seconds before extracting game details...");
-                await page.WaitForTimeoutAsync(10000);
+                Console.WriteLine("⏳ Waiting 3 seconds before extracting game details...");
+                await page.WaitForTimeoutAsync(3000);
 
                 string gameName = "", clientName = "", version = "";
 

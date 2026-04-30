@@ -1,0 +1,64 @@
+CRQ Number: CRQ1813085
+Target URL: https://www.gametechnology.io/games/3577/projects/24528/test/signoff
+Game Name: BassCashDeluxe
+Client Name: PlayNext
+Release Version: 1.0.0.183
+Variant Selected: V96
+
+Market to Variant Map:
+Alderney -> V96
+Asia -> V96
+Belgium -> V96
+Bulgaria -> V96
+Dotcom -> V96
+Gibraltar -> V96
+Isle of Man -> V96
+Malta -> V96
+Ontario -> V96
+United Kingdom -> V96
+Helpfile Versions from GTP :
+V96 -> 1.11.0
+
+Normal CRQ Market Links:
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BassCashDeluxeDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/BassCashDeluxe/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/BassCashDeluxeDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/BassCashDeluxe/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/BassCashDeluxeDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/BassCashDeluxe/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+

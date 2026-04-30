@@ -1,6 +1,5 @@
 United Kingdom:
 https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/gamenameDesktop/en?logintype=fullUPE&username=DVCO_105&password=Password1234$&ispracticeplay=false&host=desktop&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename&ignoreGameSettingErrors=true&testing=tru
-https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_UK_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename&ignoreGameSettingErrors=true&testing=true
 https://mobile2.gameassists.co.uk/MobileWebServices_40/casino/game/launch/casinogames_uk_desktop/gamenameDesktop/en?logintype=fullUPE&username=demo&password=demo&ispracticeplay=true&host=desktop&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename&ignoreGameSettingErrors=true&testing=true
 https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/HippodromeUK/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename&ignoreGameSettingErrors=true&testing=true
 https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamename_engine_0_0_0_0&gamepath=/mgs/gamename&ignoreGameSettingErrors=true&testing=true
@@ -28,13 +27,9 @@ https://mobile32.gameassists.pt/MobileWebServices_40_PT/casino/game/launch/mgssh
 .COM:
 https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/gamenameDesktop/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
 https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/QuickfireUATDemo/gamename/en?casinoid=22619&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
-https://mobile3.gameassists.co.uk/MobileWebServices_40/casino/game/launch/rubyfortune_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamenameDesktop_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
 https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamenameDesktop_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
 https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamenameDesktop_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
 https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=gamename_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
-https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=gamenameDesktop_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
-https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=gamename_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
-https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayMexico/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=gamename_engine_0_0_0_0&ignoreGameSettingErrors=true&testing=true
 
 
 Belgium:
@@ -66,15 +61,16 @@ https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/
 https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwayCasino_CAON_Mobile/gamename/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
 https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/gamenameDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
 https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/gamename/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
-https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON_Desktop/gamenameDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
-https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/BetwaySports_CAON/gamename/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
-https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/LuxuryCasino_CAON_Desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo
+https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile
 
 
 
 Malta:
 https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
 https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/gamename/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/gamenameDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true
+https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/gamename/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true
 
 
 Greece:
@@ -127,3 +123,6 @@ https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&server
 https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=gamename&playmode=demo&ul=en
 
 
+Brazil:
+https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=gamenameDesktop&playmode=demo&ul=en
+https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=gamename&playmode=demo&ul=en

@@ -34,7 +34,8 @@ namespace Live.Tests
             "CaptainCooksCasino_CAON",
             "CaptainCooksCasino_CAON_Desktop",
             "luxury",
-            "Phoenician_desktop"
+            "Phoenician_desktop",
+            "CosmoCasinoRS"
 
 
         };

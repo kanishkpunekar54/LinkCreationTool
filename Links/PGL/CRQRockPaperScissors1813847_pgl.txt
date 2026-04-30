@@ -1,0 +1,175 @@
+CRQ Number: CRQRockPaperScissors1813847
+Target URL: https://www.gametechnology.io/games/3419/projects/24942/test/signoff
+Game Name: RockPaperScissors
+Client Name: Lume
+Release Version: 1.10.0.27
+Variant Selected: V94, V96
+
+Market to Variant Map:
+Alderney -> V94, V96
+Argentina - Buenos Aires City -> V94, V96
+Argentina - Buenos Aires Province -> V94, V96
+Argentina - Cordoba Province -> V94, V96
+Belgium -> V94, V96
+Brazil -> V94, V96
+Bulgaria -> V94, V96
+Connecticut -> V94, V96
+Croatia -> V94, V96
+Dotcom -> V94, V96
+Gibraltar -> V94, V96
+Greece -> V94, V96
+Isle of Man -> V94, V96
+Italy -> V94, V96
+Malta -> V94, V96
+Michigan -> V94, V96
+Netherlands -> V94, V96
+New Jersey -> V94, V96
+Ontario -> V94, V96
+Pennsylvania -> V94, V96
+Peru -> V94, V96
+Romania -> V94, V96
+Spain -> V94, V96
+Switzerland -> V94, V96
+United Kingdom -> V94, V96
+Helpfile Versions from GTP :
+V94 -> 1.1.0
+V96 -> 1.8.0
+
+Normal CRQ Market Links:
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/RockPaperScissorsV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/RockPaperScissorsDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/RockPaperScissorsV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/RockPaperScissors/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/RockPaperScissorsV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/RockPaperScissorsDesktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/RockPaperScissorsV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+[Croatia] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/RockPaperScissors/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/RockPaperScissorsV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/RockPaperScissorsDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/RockPaperScissorsV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/RockPaperScissors/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/RockPaperScissorsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/RockPaperScissorsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=RockPaperScissorsV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=RockPaperScissorsDesktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=RockPaperScissorsV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=RockPaperScissors&playmode=demo&ul=en
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/RockPaperScissorsV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/RockPaperScissorsDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/RockPaperScissorsV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/RockPaperScissors/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/RockPaperScissorsV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/RockPaperScissorsDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/RockPaperScissorsV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/RockPaperScissors/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/RockPaperScissorsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/RockPaperScissorsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/RockPaperScissorsV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/RockPaperScissorsDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/RockPaperScissorsV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/RockPaperScissors/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/RockPaperScissorsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/RockPaperScissorsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissorsV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissorsDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissorsV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissors/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/RockPaperScissorsV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/RockPaperScissorsDesktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/RockPaperScissorsV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+[Argentina - Buenos Aires Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/RockPaperScissors/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/RockPaperScissorsV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/RockPaperScissorsDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/RockPaperScissorsV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/RockPaperScissors/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/RockPaperScissorsV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/RockPaperScissorsDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/RockPaperScissorsV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/RockPaperScissors/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/RockPaperScissorsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/RockPaperScissorsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/RockPaperScissorsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=RockPaperScissorsV94Desktop&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=RockPaperScissorsDesktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=RockPaperScissorsV94&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=RockPaperScissors&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissorsV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissorsDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissorsV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/RockPaperScissors/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/RockPaperScissorsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/RockPaperScissorsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/RockPaperScissorsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/RockPaperScissors/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=RockPaperScissors_Lume_1_10_0_27&gamepath=/mgs/RockPaperScissors
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=RockPaperScissorsV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=RockPaperScissorsDesktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=RockPaperScissorsV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=RockPaperScissors&playmode=demo&ul=en
+

@@ -1,0 +1,267 @@
+CRQ Number: CRQ1813071
+Target URL: https://www.gametechnology.io/games/3653/projects/24192/test/signoff
+Game Name: MarshallMoney
+Client Name: Lume
+Release Version: 1.1.2.27
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Asia -> V92, V94, V96
+Belgium -> V92, V94, V96
+Brazil -> V92, V94
+Connecticut -> V92, V94
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Italy -> V92, V94
+Malta -> V92, V94, V96
+Michigan -> V92, V94
+Netherlands -> V92, V94
+New Jersey -> V92, V94
+Ontario -> V92, V94, V96
+Pennsylvania -> V92, V94
+Spain -> V92, V94
+Sweden -> V92, V94
+United Kingdom -> V92, V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Croatia -> V94
+Denmark -> V94
+Greece -> V94
+Peru -> V94
+Romania -> V94
+Bulgaria -> V96
+Helpfile Versions from GTP :
+V92 -> 1.9.0
+V94 -> 1.9.0
+V96 -> 1.5.0
+
+Normal CRQ Market Links:
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MarshallMoneyV92Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MarshallMoneyV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V92) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MarshallMoneyV92/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/MarshallMoneyV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MarshallMoneyV92Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MarshallMoneyV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MarshallMoneyDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Belgium] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MarshallMoneyV92/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MarshallMoneyV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/MarshallMoney/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/MarshallMoneyV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/MarshallMoneyV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MarshallMoneyV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MarshallMoneyV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MarshallMoneyV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MarshallMoneyV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/MarshallMoneyV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/MarshallMoneyV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/MarshallMoneyV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/MarshallMoneyV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MarshallMoneyV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MarshallMoneyV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MarshallMoneyDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MarshallMoneyV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MarshallMoneyV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/MarshallMoney/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MarshallMoneyV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MarshallMoneyV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MarshallMoneyV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MarshallMoneyV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MarshallMoneyV92Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MarshallMoneyV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MarshallMoneyV92/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/MarshallMoneyV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V92) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=MarshallMoneyV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=MarshallMoneyV94&playmode=demo&ul=en
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Italy] (V92) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+
+[Spain] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV92Desktop&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V92) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV92&playmode=demo&ul=en
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV94&playmode=demo&ul=en
+
+
+===== VERSION VALIDATION SUMMARY =====
+✅ Croatia: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Sweden: 4 links | Passed: 4 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Belgium: 6 links | Passed: 6 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Bulgaria: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Denmark: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+✅ Romania: 2 links | Passed: 2 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Argentina - Cordoba Province: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MarshallMoneyV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/MarshallMoneyV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+--------------------------------------------------------------------------------
+❌ Argentina - Buenos Aires City: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MarshallMoneyV94Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=MarshallMoneyV94&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+❌ Ontario: 8 links | Passed: 7 | Failed: 1 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/MarshallMoneyDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo
+--------------------------------------------------------------------------------
+❌ Greece: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MarshallMoneyV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/MarshallMoneyV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+--------------------------------------------------------------------------------
+❌ Argentina - Buenos Aires Province: 2 links | Passed: 0 | Failed: 2 -> FAILED
+   ❌ Failed link -> https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MarshallMoneyV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+   ❌ Failed link -> https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/MarshallMoneyV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+--------------------------------------------------------------------------------
+❌ Netherlands: 8 links | Passed: 4 | Failed: 4 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV92Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV92/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/MarshallMoneyV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+❌ Malta: 8 links | Passed: 2 | Failed: 6 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------
+✅ Dotcom: 7 links | Passed: 7 | Failed: 0 -> PASSED
+--------------------------------------------------------------------------------
+❌ Spain: 8 links | Passed: 0 | Failed: 8 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile
+   ❌ Failed link -> https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile
+--------------------------------------------------------------------------------
+❌ Peru: 2 links | Passed: 1 | Failed: 1 -> FAILED
+   ❌ Failed link -> https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=MarshallMoneyV94Desktop&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+❌ Italy: 8 links | Passed: 0 | Failed: 8 -> FAILED
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV92/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+   ❌ Failed link -> https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/MarshallMoneyV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+--------------------------------------------------------------------------------
+❌ Brazil: 4 links | Passed: 0 | Failed: 4 -> FAILED
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV92Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV94Desktop&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV92&playmode=demo&ul=en
+   ❌ Failed link -> https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=MarshallMoneyV94&playmode=demo&ul=en
+--------------------------------------------------------------------------------
+❌ United Kingdom: 8 links | Passed: 2 | Failed: 6 -> FAILED
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MarshallMoneyV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MarshallMoneyV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/MarshallMoneyDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MarshallMoneyV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MarshallMoneyV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+   ❌ Failed link -> https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/MarshallMoney/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true
+--------------------------------------------------------------------------------

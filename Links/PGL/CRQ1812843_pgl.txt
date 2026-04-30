@@ -1,0 +1,147 @@
+CRQ Number: CRQ1812843
+Target URL: https://www.gametechnology.io/games/4178/projects/24909/test/signoff 
+Game Name: ActionBoostFortune
+Client Name: Lume
+Release Version: 1.0.0.14
+Variant Selected: V94, V96
+
+Market to Variant Map:
+Alderney -> V94, V96
+Argentina - Buenos Aires City -> V94
+Argentina - Buenos Aires Province -> V94
+Argentina - Cordoba Province -> V94
+Belgium -> V94, V96
+Brazil -> V94
+Croatia -> V94
+Denmark -> V94
+Dotcom -> V94, V96
+Gibraltar -> V94, V96
+Greece -> V94
+Isle of Man -> V94, V96
+Italy -> V94
+Malta -> V94, V96
+Netherlands -> V94
+Ontario -> V94, V96
+Peru -> V94
+Romania -> V94
+Spain -> V94
+Sweden -> V94
+United Kingdom -> V94, V96
+Helpfile Versions from GTP :
+V94 -> 1.6.0
+V96 -> 1.4.0
+
+Normal CRQ Market Links:
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ActionBoostFortuneV94Desktop/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[Sweden] (V94) https://mobile2.gameassists.se/MobileWebServices_40_SE/casino/game/launch/qfdemomal2swm/ActionBoostFortuneV94/en?casinoid=33190&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostFortuneV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostFortuneDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostFortuneV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/ActionBoostFortune/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ActionBoostFortuneV94Desktop/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[Croatia] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseuatcrm/ActionBoostFortuneV94/en?casinoid=31599&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ActionBoostFortuneV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/ActionBoostFortuneV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ActionBoostFortuneV94Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=ActionBoostFortuneV94&playmode=demo&ul=en
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ActionBoostFortuneV94Desktop/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Denmark] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/mgsshowcaseioadk/ActionBoostFortuneV94/en?casinoid=22933&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ActionBoostFortuneV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/ActionBoostFortuneV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ActionBoostFortuneV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/ActionBoostFortuneDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ActionBoostFortuneV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/ActionBoostFortune/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ActionBoostFortuneV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ActionBoostFortuneV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ActionBoostFortuneV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/ActionBoostFortuneV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ActionBoostFortuneV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ActionBoostFortuneV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostFortuneV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostFortuneV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ActionBoostFortuneV94Desktop/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=desktop
+
+[Argentina - Buenos Aires Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/quickcasinodemomit1arb/ActionBoostFortuneV94/en?casinoid=37919&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&host=mobile
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ActionBoostFortuneV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/ActionBoostFortuneV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ActionBoostFortuneV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/ActionBoostFortuneV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ActionBoostFortuneV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ActionBoostFortuneV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ActionBoostFortuneV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/ActionBoostFortuneV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/ActionBoostFortuneDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/ActionBoostFortuneV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/ActionBoostFortune/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=ActionBoostFortuneV94Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=ActionBoostFortuneV94&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostFortuneV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/ActionBoostFortuneV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/ActionBoostFortuneV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/ActionBoostFortuneV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=ActionBoostFortune_Lume_1_0_0_14&gamepath=/mgs/ActionBoostFortune
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ActionBoostFortuneV94Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=ActionBoostFortuneV94&playmode=demo&ul=en
+

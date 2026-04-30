@@ -1,0 +1,33 @@
+CRQ Number: CRQXXXbigcatchcashingo1
+Target URL: https://www.gametechnology.io/games/4353-bigcatchcashingo/projects/22193/test/signoff
+Game Name: BigCatchCashingo
+Client Name: Hammersmith
+Release Version: 1.0.0.20
+Variant Selected: V94
+
+Market to Variant Map:
+Alderney -> V94
+Dotcom -> V94
+Gibraltar -> V94
+Isle of Man -> V94
+United Kingdom -> V94
+
+Normal CRQ Market Links:
+[United Kingdom] (V94) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/BigCatchCashingoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&gamepath=/mgs/BigCatchCashingo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/BigCatchCashingoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&gamepath=/mgs/BigCatchCashingo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/BigCatchCashingoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&gamepath=/mgs/BigCatchCashingo&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/BigCatchCashingoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&gamepath=/mgs/BigCatchCashingo&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/BigCatchCashingoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/BigCatchCashingoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/BigCatchCashingoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/BigCatchCashingoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/BigCatchCashingoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=BigCatchCashingo_Hammersmith_1_0_0_20&ignoreGameSettingErrors=true&testing=true
+

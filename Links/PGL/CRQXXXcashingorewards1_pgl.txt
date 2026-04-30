@@ -1,0 +1,65 @@
+CRQ Number: CRQXXXcashingorewards1
+Target URL: https://www.gametechnology.io/games/4354-cashingorewards/projects/23807/test/signoff
+Game Name: CashingoRewards
+Client Name: Hammersmith
+Release Version: 1.0.0.38
+Variant Selected: V92, V94, V96
+
+Market to Variant Map:
+Alderney -> V92, V94, V96
+Dotcom -> V92, V94, V96
+Gibraltar -> V92, V94, V96
+Isle of Man -> V92, V94, V96
+Malta -> V92, V94, V96
+Ontario -> V92, V94, V96
+United Kingdom -> V92, V94, V96
+
+Normal CRQ Market Links:
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashingoRewardsV92Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashingoRewardsV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/CashingoRewardsDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Ontario] (V92) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashingoRewardsV92/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashingoRewardsV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/CashingoRewards/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Ontario] (V96) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashingoRewardsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashingoRewardsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Malta] (V92) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashingoRewardsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashingoRewardsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[Malta] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V96) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashingoRewardsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashingoRewardsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V92) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashingoRewardsV92/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashingoRewardsV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&gamepath=/mgs/CashingoRewards&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V92) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/CashingoRewardsV92Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/CashingoRewardsV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/CashingoRewardsDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V96) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/CashingoRewards/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=CashingoRewards_Hammersmith_1_0_0_38&ignoreGameSettingErrors=true&testing=true
+

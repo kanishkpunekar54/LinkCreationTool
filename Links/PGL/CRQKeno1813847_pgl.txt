@@ -1,0 +1,195 @@
+CRQ Number: CRQKeno1813847
+Target URL: https://www.gametechnology.io/games/4016/projects/24944/test/signoff
+Game Name: Keno
+Client Name: Lume
+Release Version: 1.10.0.50
+Variant Selected: V94, V96, V98
+
+Market to Variant Map:
+Alderney -> V94, V96, V98
+Argentina - Buenos Aires City -> V94, V96, V98
+Argentina - Cordoba Province -> V94, V96, V98
+Belgium -> V94, V96, V98
+Brazil -> V94, V96, V98
+Bulgaria -> V94, V96, V98
+Dotcom -> V94, V96, V98
+Gibraltar -> V94, V96, V98
+Greece -> V94, V96, V98
+Isle of Man -> V94, V96, V98
+Italy -> V94, V96, V98
+Malta -> V94, V96, V98
+Netherlands -> V94, V96, V98
+New Jersey -> V94, V96, V98
+Ontario -> V94, V96, V98
+Pennsylvania -> V94, V96, V98
+Peru -> V94, V96, V98
+Romania -> V94, V96, V98
+Spain -> V94, V96, V98
+Switzerland -> V94, V96, V98
+United Kingdom -> V94, V96, V98
+Helpfile Versions from GTP :
+V94 -> 1.1.0
+V96 -> 1.3.0
+V98 -> 1.1.0
+
+Normal CRQ Market Links:
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/KenoV94Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/KenoDesktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/KenoV98Desktop/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Belgium] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/KenoV94/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Belgium] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/Keno/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Belgium] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/qfdemomal2bel/KenoV98/en?casinoid=33193&ispracticeplay=true&logintype=anguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/KenoV94Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/KenoDesktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/KenoV98Desktop/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Argentina - Cordoba Province] (V94) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/KenoV94/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V96) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/Keno/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Argentina - Cordoba Province] (V98) https://mobile3.gameassists.com.ar/MobileWebServices_40_AR/casino/game/launch/mgsshowcasemit3arx/KenoV98/en?casinoid=1866&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/KenoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/KenoDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaDesktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Bulgaria] (V94) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/KenoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Bulgaria] (V96) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/Keno/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Bulgaria] (V98) http://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/BetwayBulgariaMobile/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=KenoV94Desktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=KenoDesktop&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=KenoV98Desktop&playmode=demo&ul=en
+
+[Argentina - Buenos Aires City] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=KenoV94&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=Keno&playmode=demo&ul=en
+[Argentina - Buenos Aires City] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=36628&gameid=KenoV98&playmode=demo&ul=en
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KenoV94Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KenoDesktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KenoV98Desktop/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Romania] (V94) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KenoV94/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V96) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/Keno/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Romania] (V98) https://mobile32.gameassists.co.uk/MobileWebServices_40/casino/game/launch/winmastersuatro/KenoV98/en?casinoid=33058&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/KenoV94Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/KenoDesktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Desktop/KenoV98Desktop/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Ontario] (V94) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/KenoV94/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Ontario] (V96) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/Keno/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Ontario] (V98) https://mobile2.gameassists-ca.com/MobileWebServices_40_CAON/casino/game/launch/JackpotCity_CAON_Mobile/KenoV98/en?ispracticeplay=false&loginType=FullUPE&password=demo&username=demo&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Ontario] (V98) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Ontario] (V98) (ITS) https://mobile3.gameassists-ca.com/mobilewebservices_40_CAON/casino/game/launch/CaptainCooksCasino_CAON_Mobile/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/KenoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/KenoDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Malta] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/KenoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Malta] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/Keno/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Malta] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/rubyfortune/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&ignoreGameSettingErrors=true&testing=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Malta] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Malta] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/Phoenician/KenoV98/en?logintype=fullupe&password=demo&username=demo&ignoreGameSettingErrors=true&testing=truesting=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/KenoV94Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/KenoDesktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/KenoV98Desktop/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Greece] (V94) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/KenoV94/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Greece] (V96) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/Keno/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Greece] (V98) https://mobile2.risemi.net/MobileWebServices_40/casino/game/launch/mgsshowcasemal2grc/KenoV98/en?casinoid=37036&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KenoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KenoDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/KenoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Keno/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Keno/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KenoV94Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KenoDesktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KenoV98Desktop/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KenoV94/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V96) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/Keno/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+[Netherlands] (V98) https://mobile2.gameassists.nl/MobileWebServices_40_NL/casino/game/launch/totonl/KenoV98/en?casinoid=36319&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KenoV94Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KenoDesktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KenoV98Desktop/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+
+[Netherlands] (V94) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KenoV94/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V96) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/Keno/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[Netherlands] (V98) https://mobile2.gameassists.ch/MobileWebServices_40_CH/casino/game/launch/qfdemomal2che/KenoV98/en?casinoid=33196&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury_uk_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V98) (ITS) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/luxury/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/KenoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/KenoDesktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red_uk_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+
+[United Kingdom] (V94) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/KenoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V96) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/Keno/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+[United Kingdom] (V98) https://mobile9.gameassists.co.uk/mobilewebservices_40/casino/game/launch/32red/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/zodiac/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V94) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/KenoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V96) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/KenoDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+[Dotcom] (V98) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/jackpotcity_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+
+[Dotcom] (V98) (ITS) https://mobile3.gameassists.co.uk/mobilewebservices_40/casino/game/launch/CosmoCasinoRS/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&ignoreGameSettingErrors=true&testing=true
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KenoV94Desktop&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KenoDesktop&playmode=demo&ul=en
+[Peru] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KenoV98Desktop&playmode=demo&ul=en
+
+[Peru] (V94) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KenoV94&playmode=demo&ul=en
+[Peru] (V96) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=Keno&playmode=demo&ul=en
+[Peru] (V98) https://redirector3.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=43146&gameid=KenoV98&playmode=demo&ul=en
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV94Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoDesktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV98Desktop/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Italy] (V94) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV94/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V96) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/Keno/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Italy] (V98) https://mobile2.gameassists.it/MobileWebServices_40_IT/casino/game/launch/mgsshowcasemalit/KenoV98/en?casinoid=22905&ispracticeplay=true&logintype=VanguardSessionToken&isrgi=true&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KenoV94Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KenoDesktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betway_es_desktop/KenoV98Desktop/en?logintype=fullupe&password=demo&username=demo&host=desktop&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Spain] (V94) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/KenoV94/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V96) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/Keno/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+[Spain] (V98) https://mobile2.gameassists.co.uk/mobilewebservices_40/casino/game/launch/betwaySpain/KenoV98/en?logintype=fullupe&password=demo&username=demo&host=mobile&GameVersion=Keno_Lume_1_10_0_50&gamepath=/mgs/Keno
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KenoV94Desktop&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KenoDesktop&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KenoV98Desktop&playmode=demo&ul=en
+
+[Brazil] (V94) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KenoV94&playmode=demo&ul=en
+[Brazil] (V96) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=Keno&playmode=demo&ul=en
+[Brazil] (V98) https://redirector32.valueactive.eu/Casino/Default.aspx?applicationid=4123&serverid=44482&gameid=KenoV98&playmode=demo&ul=en
+

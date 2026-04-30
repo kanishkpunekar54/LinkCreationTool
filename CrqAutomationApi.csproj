@@ -17,6 +17,7 @@
     <Folder Include="Links\Live\" />
     <Folder Include="Links\Batch\" />
     <Folder Include="Links\PGL\" />
+    <Folder Include="Screenshots\" />
   </ItemGroup>
 
 </Project>
