@@ -110,7 +110,7 @@ export const ResultsDisplay = ({ result, onDownload }: ResultsDisplayProps) => {
 
           {/* File Content */}
           <div className="mt-4 p-4 border rounded bg-muted/30">
-            <div className="font-semibold mb-2">File Content (from /api/Crq/results):</div>
+            <div className="font-semibold mb-2">File Content :</div>
             {fileContent === null ? (
               <span className="text-xs text-muted-foreground">Loading...</span>
             ) : (
@@ -137,7 +137,7 @@ export const ResultsDisplay = ({ result, onDownload }: ResultsDisplayProps) => {
         </div>
 
         {/* Generated Links Section */}
-        <div className="space-y-3">
+{/*        <div className="space-y-3">
           <div className="flex items-center justify-between">
             <h3 className="font-medium">Generated Links</h3>
             <div className="flex items-center space-x-2">
@@ -221,7 +221,7 @@ export const ResultsDisplay = ({ result, onDownload }: ResultsDisplayProps) => {
               <div className="text-xs text-muted-foreground">No links found in file content.</div>
             )}
           </div>
-        </div>
+        </div> */}
 
         {/* ✅ Validation Summary (only for Live mode) */}
         {validationSummary && (
